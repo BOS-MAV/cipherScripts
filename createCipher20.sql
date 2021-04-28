@@ -90,7 +90,7 @@ create table POC.Lifestyle_Envi (
     AlgorithmValidation         nvarchar(max),
     ValidationDesc              nvarchar(max),
     AlgoPerformanceMeasures     nvarchar(max),
-    constraint lfspk primary key (LsEnvPhenoTypeID)
+    constraint lfspk primary key (LsPhenoTypeID)
 );
 
 create table POC.Disease (
