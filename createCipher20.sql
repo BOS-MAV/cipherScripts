@@ -105,10 +105,69 @@ create table POC.DiseaseDomain (
 );
 
 create table POC.DiseaseDiseaseDomainLookup (
-    DiseaseDomainID     int references POC.DiseaseDomainID(DiseaseDomainID),
     DPhenoTypeID        int references POC.Disease(DPhenoTypeID),
+    DiseaseDomainID     int references POC.DiseaseDomain(DiseaseDomainID),
     constraint dddlpk primary key (DiseaseDomainID,DPhenotypeID)
 );
+
+create table POC.LAB (
+    LPhenoTypeID        int references POC.PhenoDef(PhenotypeID),
+    LabType             varchar(50),
+    Units               Varchar(20),
+    MinResult           float,
+    MaxResult           float,
+    ResultSet           varchar(50),
+    constraint labpk primary key (LPhenoTypeID)
+);
+
+create table POC.LOINC (
+    LOINCID             int identity primary key,
+    LOINCCode           varchar(7),
+    LoincDesc           nvarchar(max)
+);
+
+create table POC.LabLOINCLookup (
+    LPhenoTypeID        int references POC.LAB(LPhenotypeID),
+    LOINCID             int references POC.LOINC(LOINCID),
+    constraint labloincpk primary key (LPhenoTypeID,LOINCID)
+);
+
+create table POC.Author (
+    AuthorID            int identity primary key,
+    AuthorName          varchar(50),
+    AuthAffiliation     varchar(50)
+);
+
+
+create table POC.Publication (
+    PublicationID       int identity primary key,
+    Title               varchar(50),
+    DatePub             date,
+    Journal             varchar(50),
+    LeadAuthorID        int references POC.Author(AuthorID)
+);
+
+create table POC.PublicationAuthorLookup (
+    AuthorID            int references POC.Author(AuthorID),
+    PublicationID       int references POC.Publication(PublicationID),
+    constraint pubauthpk primary key (authorid,publicationid)
+);
+
+create table POC.PhenoPublicationLookup (
+    PublicationID       int references POC.Publication(PublicationID),
+    PhenotypeID         int references POC.PhenoDef(PhenotypeID),
+    constraint phenpublpk primary key (PublicationID,phenotypeid)
+);
+
+create table POC.PhenoAuthorLookup (
+    AuthorID            int references POC.Author(AuthorID),
+    PhenotypeID         int references POC.PhenoDef(PhenotypeID),
+    constraint phenauthlpk primary key (AuthorID,phenotypeid)
+);
+
+
+
+
 
 
 
