@@ -1,0 +1,1001 @@
+PhenotypeID;PhenotypeName;PhenoDesc;DateAdded;LastModified;Status;Version;Type;PopulationID
+63805984;Wattled crane;Bugeranus caruncalatus;2020-11-27 12:41:33;2020-11-28 12:41:33 UTC;In Progress;1;Demograpic;9518848
+27198053;Collared peccary;Tayassu tajacu;2020-11-20 17:53:19;2020-11-21 17:53:19 UTC;Working Definition;1;LifeStyle_Envi;8761304
+32564398;Australian magpie;Gymnorhina tibicen;2020-10-29 23:54:49;2020-10-30 23:54:49 UTC;Validated Phenotype;2;Demograpic;7294899
+8452822;Magistrate black colobus;Colobus guerza;2020-05-04 22:06:05;2020-08-22 22:34:06;Working Definition;1;Vital;9440846
+48520821;Gull, lava;Larus fuliginosus;2020-08-12 04:01:05;2020-08-13 04:01:05 UTC;In Progress;2;Disease;7333454
+23773408;Lemur, lesser mouse;Microcebus murinus;2019-10-07 12:16:31;2020-03-14 03:05:45;Validated Phenotype;1;LifeStyle_Envi;6690211
+57335200;Greater adjutant stork;Leptoptilus dubius;2020-01-14 04:06:23;2020-10-26 00:38:22;Working Definition;2;MedPhenotype;8671599
+15196819;Antechinus, brown;Antechinus flavipes;2020-11-29 14:04:38;2021-02-23 09:15:57;Working Definition;3;Vital;9414530
+15210154;Springbuck;Antidorcas marsupialis;2020-05-25 01:49:07;2020-08-07 07:40:55;In Progress;3;Lab;9599599
+6688744;White-necked raven;Corvus albicollis;2020-02-05 05:35:45;2020-07-07 00:35:50;Validated Phenotype;2;Demograpic;8952757
+3907416;Seal, northern elephant;Mirounga angustirostris;2019-10-10 22:15:43;2020-08-27 03:14:34;Validated Phenotype;2;LifeStyle_Envi;8040552
+27938808;River wallaby;Macropus agilis;2020-07-12 17:32:15;2020-07-13 17:32:15 UTC;Working Definition;1;Demograpic;7394446
+2582184;Snake, carpet;Morelia spilotes variegata;2020-06-17 20:17:07;2020-11-22 11:32:54;In Progress;3;MedPhenotype;7834613
+63591222;Tern, arctic;Sterna paradisaea;2021-04-12 14:04:53;2021-04-13 14:04:53 UTC;Validated Phenotype;1;Demograpic;8353123
+76516483;Sea birds (unidentified);unavailable;2021-01-23 06:46:45;2021-01-24 06:46:45 UTC;Working Definition;1;Vital;6575705
+17997606;American racer;Coluber constrictor;2020-11-26 17:59:58;2020-11-27 17:59:58 UTC;Working Definition;2;Demograpic;6890067
+92956070;Brown brocket;Mazama gouazoubira;2020-01-14 00:38:46;2020-12-31 00:44:23;Validated Phenotype;1;Procedure;8603812
+94979075;Northern elephant seal;Mirounga angustirostris;2020-10-09 22:14:08;2020-11-15 09:52:02;Working Definition;1;Lab;9674632
+44315161;Red sheep;Ovis ammon;2019-09-18 18:53:25;2021-01-15 04:43:42;Working Definition;3;MedPhenotype;9041575
+68577743;Coatimundi, ring-tailed;Nasua nasua;2020-10-23 19:32:26;2020-10-24 19:32:26 UTC;In Progress;1;Disease;6205909
+22289690;Marmot, hoary;Marmota caligata;2020-06-27 14:22:48;2020-12-31 16:25:21;Working Definition;3;Disease;6469670
+29373761;Capybara;Hydrochoerus hydrochaeris;2020-01-01 10:57:36;2020-10-20 14:21:54;In Progress;2;Demograpic;8520672
+85413754;Red-knobbed coot;Fulica cristata;2020-03-03 16:32:19;2021-03-28 00:03:15;Validated Phenotype;3;MedPhenotype;6749388
+6757456;Kalahari scrub robin;Certotrichas paena;2019-10-07 14:30:27;2020-03-05 15:49:17;Working Definition;3;Demograpic;9729222
+11831887;Bandicoot, short-nosed;Isoodon obesulus;2019-12-23 11:49:07;2019-12-24 11:49:07 UTC;Validated Phenotype;1;Vital;6271665
+1312732;Black rhinoceros;Diceros bicornis;2020-10-23 16:31:22;2020-10-24 16:31:22 UTC;Working Definition;1;LifeStyle_Envi;9772184
+95385543;Cape fox;Vulpes chama;2021-03-17 07:26:14;2021-03-18 07:26:14 UTC;In Progress;2;MedPhenotype;6660670
+35850087;Genet, small-spotted;Genetta genetta;2020-09-09 00:10:05;2020-09-10 00:10:05 UTC;Validated Phenotype;2;Procedure;7670672
+14562704;Guanaco;Lama guanicoe;2021-02-14 10:27:39;2021-02-15 10:27:39 UTC;Working Definition;2;LifeStyle_Envi;9206126
+48296095;Snake, carpet;Morelia spilotes variegata;2021-03-08 19:18:18;2021-03-09 19:18:18 UTC;Validated Phenotype;3;LifeStyle_Envi;8595786
+60928987;Macaw, scarlet;Ara macao;2021-04-04 00:23:03;2021-04-05 00:23:03 UTC;Working Definition;2;Disease;6393451
+63944894;Bulbul, black-fronted;Pycnonotus nigricans;2020-08-21 13:18:28;2020-08-22 13:18:28 UTC;Working Definition;1;Demograpic;6582646
+97747401;Bandicoot, southern brown;Isoodon obesulus;2019-12-03 04:23:55;2020-10-27 16:41:29;In Progress;3;Lab;7935349
+48513836;Small-toothed palm civet;Arctogalidia trivirgata;2020-09-23 19:43:41;2020-09-24 19:43:41 UTC;In Progress;3;Procedure;8181348
+3667133;Deer, swamp;Cervus duvauceli;2020-10-07 09:33:09;2020-10-08 09:33:09 UTC;Working Definition;2;Demograpic;7748935
+60853323;Common goldeneye;Bucephala clangula;2020-09-01 15:01:01;2021-04-18 18:29:31;In Progress;2;Vital;9049794
+99332108;Goose, canada;Branta canadensis;2020-08-23 23:15:41;2020-11-01 13:41:38;Working Definition;1;Lab;5704365
+3211075;Seven-banded armadillo;Dasypus septemcincus;2020-11-24 14:23:39;2020-11-25 14:23:39 UTC;Working Definition;3;Vital;8563020
+17304277;Mountain goat;Oreamnos americanus;2020-08-17 10:13:29;2020-08-18 10:13:29 UTC;Working Definition;3;Disease;8073237
+44866787;Squirrel, richardson's ground;Spermophilus richardsonii;2020-04-14 10:17:45;2021-04-16 01:56:18;Working Definition;2;Disease;9137067
+19297007;Falcon, peregrine;Falco peregrinus;2019-09-18 20:55:01;2020-07-24 13:16:28;In Progress;3;Vital;9177258
+25910102;Alligator, mississippi;Alligator mississippiensis;2020-02-28 01:13:23;2020-04-04 13:58:56;In Progress;1;LifeStyle_Envi;6579737
+79723274;Tamandua, southern;Tamandua tetradactyla;2020-06-26 09:27:26;2021-04-14 00:14:50;Working Definition;3;Disease;8563020
+46932317;Goose, cereopsis;Cereopsis novaehollandiae;2021-01-14 05:44:23;2021-01-15 05:44:23 UTC;Validated Phenotype;2;Lab;9079982
+49388415;Red-shouldered glossy starling;Lamprotornis nitens;2020-07-21 04:52:14;2020-10-31 07:01:11;In Progress;3;MedPhenotype;9887528
+19222186;Puku;Kobus vardonii vardoni;2020-05-06 10:13:51;2020-10-01 06:41:33;Validated Phenotype;3;Lab;6844792
+47343258;Giant otter;Pteronura brasiliensis;2020-05-06 17:22:37;2020-11-13 05:14:54;Validated Phenotype;2;MedPhenotype;9174368
+24677983;Peacock, blue;Pavo cristatus;2020-12-25 05:33:04;2021-01-31 10:02:37;Working Definition;3;Vital;7060905
+34762080;Collared lizard;Crotaphytus collaris;2020-05-29 04:15:10;2020-05-30 04:15:10 UTC;In Progress;3;Disease;6892171
+16613978;Marshbird, brown and yellow;Pseudoleistes virescens;2020-12-31 23:50:24;2021-04-18 13:06:16;Working Definition;2;Disease;9471756
+7009481;Australian sea lion;Neophoca cinerea;2020-08-19 12:13:59;2021-03-30 01:37:38;Validated Phenotype;3;Disease;5670014
+13563239;Violet-eared waxbill;Uraeginthus granatina;2020-03-03 14:22:16;2020-05-29 06:25:51;In Progress;2;Procedure;7450522
+28639688;Coqui partridge;Francolinus coqui;2020-07-14 00:16:19;2021-01-23 06:37:19;Working Definition;2;MedPhenotype;5789007
+42506697;Baleen whale;Eubalaena australis;2021-03-26 07:26:47;2021-03-27 07:26:47 UTC;Working Definition;3;Disease;7799873
+43981627;Crane, stanley;Anthropoides paradisea;2020-01-14 20:10:39;2020-12-13 04:25:05;Validated Phenotype;1;LifeStyle_Envi;9490482
+88461606;Tortoise, desert;Gopherus agassizii;2020-07-02 02:50:35;2020-10-29 23:29:57;Working Definition;2;Procedure;7886517
+51580921;Black-collared barbet;Lybius torquatus;2020-07-03 02:06:53;2021-03-03 21:53:33;Working Definition;3;Disease;5717461
+32099150;Mudskipper (unidentified);unavailable;2021-04-09 01:39:26;2021-04-10 01:39:26 UTC;Working Definition;2;LifeStyle_Envi;6744902
+57037917;Common wallaroo;Macropus robustus;2020-04-06 13:47:34;2020-04-14 11:19:11;Working Definition;3;Vital;9871370
+10779488;Frog (unidentified);Rana sp.;2019-12-10 18:44:20;2021-01-26 07:09:42;In Progress;1;LifeStyle_Envi;7303837
+13312260;Egyptian goose;Alopochen aegyptiacus;2019-10-10 14:34:41;2020-02-04 22:52:59;Validated Phenotype;1;Procedure;6895686
+4415893;Wombat, southern hairy-nosed;Lasiorhinus latifrons;2020-01-17 12:45:47;2020-01-18 12:45:47 UTC;In Progress;1;MedPhenotype;9200811
+18747183;Turtle (unidentified);unavailable;2020-08-03 12:51:23;2020-08-04 12:51:23 UTC;Validated Phenotype;2;MedPhenotype;6697230
+60290690;Common nighthawk;Chordeiles minor;2019-12-20 03:24:54;2021-01-08 13:10:27;In Progress;2;LifeStyle_Envi;5865967
+40043824;Wallaby, dama;Macropus eugenii;2019-10-30 15:22:44;2020-09-15 15:13:00;In Progress;3;Demograpic;9772352
+60065189;Kingfisher, white-throated;Halcyon smyrnesis;2020-04-26 15:36:41;2020-04-27 15:36:41 UTC;In Progress;2;MedPhenotype;8097876
+76934755;White-throated monitor;Varanus albigularis;2020-01-16 04:31:36;2020-05-12 12:25:33;In Progress;2;Disease;7703580
+83445343;Hanuman langur;Semnopithecus entellus;2021-01-15 09:21:41;2021-01-16 09:21:41 UTC;Validated Phenotype;3;LifeStyle_Envi;7454873
+27316556;Puma, south american;Felis concolor;2020-01-24 11:47:45;2020-01-25 11:47:45 UTC;In Progress;2;Vital;6938086
+86662580;Common goldeneye;Bucephala clangula;2020-09-09 04:56:59;2020-09-10 04:56:59 UTC;Working Definition;3;Lab;9886121
+10206726;Bulbul, black-fronted;Pycnonotus nigricans;2020-02-12 23:40:53;2021-01-11 04:18:49;In Progress;2;LifeStyle_Envi;9298229
+43939793;Antelope, roan;Hippotragus equinus;2020-07-05 06:02:28;2020-12-06 09:38:09;In Progress;3;Demograpic;7352545
+29430161;African jacana;Actophilornis africanus;2020-05-09 16:14:17;2020-08-23 21:24:10;Working Definition;1;Vital;7799873
+30811150;Squirrel, palm;Funambulus pennati;2020-04-11 05:43:19;2020-04-12 05:43:19 UTC;Validated Phenotype;2;Vital;9792823
+27771657;African ground squirrel (unidentified);Xerus sp.;2019-11-12 04:29:02;2020-01-06 00:00:11;Validated Phenotype;3;Vital;5669894
+87689771;Fox, blue;Alopex lagopus;2019-12-15 00:03:00;2020-02-23 04:41:55;Validated Phenotype;2;Demograpic;6776094
+59246109;Red kangaroo;Macropus rufus;2021-03-22 00:35:44;2021-03-23 00:35:44 UTC;Working Definition;2;Demograpic;9772352
+33450913;Lory, rainbow;Trichoglossus haematodus moluccanus;2020-01-25 06:30:43;2020-05-19 02:44:25;In Progress;2;Lab;8539415
+61626503;Elk, Wapiti;Cervus canadensis;2020-12-26 07:18:16;2020-12-27 07:18:16 UTC;Validated Phenotype;3;Disease;7692423
+68330520;Crane, brolga;Grus rubicundus;2019-12-14 08:10:55;2020-05-17 13:08:59;In Progress;2;Vital;7252612
+82970133;Raccoon dog;Nyctereutes procyonoides;2021-01-08 12:50:07;2021-01-09 12:50:07 UTC;In Progress;3;Demograpic;9042870
+72854193;Gazelle, grant's;Gazella granti;2020-03-24 15:52:48;2020-05-09 12:22:11;Working Definition;3;Lab;5704332
+80087617;Caracal;Felis caracal;2020-04-18 17:45:50;2020-04-19 17:45:50 UTC;Validated Phenotype;3;Procedure;5652238
+99582542;Yellow-necked spurfowl;Francolinus leucoscepus;2020-07-02 13:55:14;2020-10-20 19:09:52;In Progress;1;Lab;7792542
+89292317;Blue crane;Anthropoides paradisea;2020-10-27 05:03:51;2020-10-28 05:03:51 UTC;Working Definition;2;MedPhenotype;9872338
+88012661;Eagle, tawny;Anitibyx armatus;2020-12-06 14:28:02;2021-04-20 06:37:58;Validated Phenotype;3;Lab;7670672
+11760367;Mountain lion;Felis concolor;2019-11-10 15:07:47;2021-02-04 17:24:24;In Progress;3;LifeStyle_Envi;7429767
+68761604;Fat-tailed dunnart;Smithopsis crassicaudata;2020-05-19 22:48:17;2020-11-08 14:21:43;Validated Phenotype;2;Lab;7454413
+60854920;Crown of thorns starfish;Acanthaster planci;2020-07-25 13:34:14;2020-07-26 13:34:14 UTC;Validated Phenotype;1;MedPhenotype;6930172
+86268559;Cat, kaffir;Felis silvestris lybica;2020-10-10 20:50:51;2020-10-11 20:50:51 UTC;In Progress;1;MedPhenotype;9602154
+10886826;Weeper capuchin;Cebus nigrivittatus;2021-03-11 04:59:52;2021-03-12 04:59:52 UTC;In Progress;2;Procedure;7096759
+8802516;Eagle, white-bellied sea;Haliaetus leucogaster;2020-11-24 14:38:27;2020-11-25 14:38:27 UTC;Working Definition;2;Procedure;9298229
+49434587;Paradoxure;Paradoxurus hermaphroditus;2020-07-08 23:48:07;2020-07-09 23:48:07 UTC;Validated Phenotype;1;Vital;5717858
+43425362;Waved albatross;Diomedea irrorata;2020-07-03 17:43:45;2020-09-12 20:35:03;Validated Phenotype;3;Vital;8623306
+56566144;Brocket, brown;Mazama gouazoubira;2020-03-26 12:18:01;2020-08-11 21:56:55;Validated Phenotype;2;Procedure;8417467
+32639036;Fox, asian red;Vulpes vulpes;2020-12-15 04:43:09;2020-12-16 04:43:09 UTC;Validated Phenotype;1;MedPhenotype;7571342
+12008896;Eagle, african fish;Haliaetus vocifer;2020-07-27 05:31:48;2020-12-21 00:12:02;Validated Phenotype;3;Procedure;9049794
+45563770;Cape clawless otter;Aonyx capensis;2020-04-17 20:37:11;2021-01-30 16:58:32;Validated Phenotype;3;Vital;8575172
+59918800;Barasingha deer;Cervus duvauceli;2019-12-18 01:21:08;2020-02-01 02:30:17;In Progress;3;Demograpic;6869887
+6141608;Seven-banded armadillo;Dasypus septemcincus;2019-11-26 06:27:13;2020-02-10 17:11:36;Working Definition;2;Vital;6127153
+39049602;Gnu, brindled;Connochaetus taurinus;2019-10-03 03:41:36;2020-07-31 01:18:28;In Progress;2;LifeStyle_Envi;6434673
+74594018;Bushbaby, large-eared;Galago crassicaudataus;2020-05-27 13:18:57;2020-05-28 13:18:57 UTC;Validated Phenotype;2;MedPhenotype;6818735
+15462901;Tern, white-winged black;Chlidonias leucopterus;2020-11-18 15:51:45;2020-11-19 15:51:45 UTC;Validated Phenotype;1;Disease;8181348
+34049285;Yellow-throated sandgrouse;Pterocles gutturalis;2020-10-29 16:29:26;2020-10-30 16:29:26 UTC;Working Definition;3;MedPhenotype;7592009
+9311318;Black-necked stork;Ephippiorhynchus mycteria;2020-06-15 20:19:29;2020-10-17 21:30:57;In Progress;1;Disease;6963162
+86540275;Blacksmith plover;Vanellus armatus;2020-10-20 06:19:34;2020-10-21 06:19:34 UTC;In Progress;3;Procedure;6762520
+24103076;Silver-backed jackal;Canis mesomelas;2020-04-02 12:11:05;2021-03-28 11:03:45;Validated Phenotype;2;Disease;6995183
+54497411;Thomson's gazelle;Gazella thompsonii;2020-12-22 23:53:17;2020-12-23 23:53:17 UTC;Working Definition;2;Disease;6663379
+50112329;Otter, african clawless;Aonyx capensis;2020-12-13 05:30:57;2020-12-14 05:30:57 UTC;Validated Phenotype;2;Procedure;8957763
+59992756;Armadillo, giant;Priodontes maximus;2020-11-20 23:47:52;2020-11-21 23:47:52 UTC;Validated Phenotype;3;Disease;8378275
+66026320;Genoveva;Junonia genoveua;2019-12-02 11:20:46;2019-12-03 11:20:46 UTC;In Progress;2;Demograpic;9504780
+43804805;Oriental white-backed vulture;Gyps bengalensis;2020-12-07 06:57:37;2020-12-08 06:57:37 UTC;In Progress;1;Disease;7630182
+48726308;Openbill stork;Anastomus oscitans;2021-03-01 04:44:13;2021-03-02 04:44:13 UTC;In Progress;2;Lab;6836169
+22307816;Frog (unidentified);Rana sp.;2020-08-30 03:32:46;2021-04-14 20:45:08;Working Definition;2;Disease;7223930
+36629081;Olive baboon;Papio cynocephalus;2021-04-03 21:26:49;2021-04-04 21:26:49 UTC;Validated Phenotype;2;Lab;7528557
+73960066;African snake (unidentified);unavailable;2021-02-11 09:37:25;2021-02-24 04:53:59;Working Definition;2;Lab;5632418
+55546482;Pintail, bahama;Anas bahamensis;2020-06-21 05:35:13;2020-06-22 05:35:13 UTC;Validated Phenotype;3;Vital;7720889
+24635674;Deer, savannah;Mazama gouazoubira;2020-11-14 12:31:23;2020-11-15 12:31:23 UTC;Working Definition;2;MedPhenotype;7571342
+15644359;Savanna baboon;Papio cynocephalus;2021-02-05 01:05:46;2021-02-06 01:05:46 UTC;Working Definition;1;Lab;6273132
+74812244;Tawny frogmouth;Podargus strigoides;2020-05-11 20:45:48;2021-03-22 01:07:16;In Progress;2;Disease;9978047
+43937582;Wild turkey;Meleagris gallopavo;2020-06-30 23:09:14;2020-08-26 03:11:54;Validated Phenotype;3;Disease;9386356
+31429596;House crow;Corvus brachyrhynchos;2019-10-12 13:45:07;2020-07-17 23:50:43;Validated Phenotype;1;MedPhenotype;7357924
+59935970;Iguana, land;Conolophus subcristatus;2020-06-14 21:39:53;2020-06-15 21:39:53 UTC;In Progress;3;Lab;7720384
+46418896;African pied wagtail;Motacilla aguimp;2020-12-27 10:09:00;2020-12-28 10:09:00 UTC;In Progress;1;MedPhenotype;8899562
+54192036;Oystercatcher, blackish;Haematopus ater;2020-09-21 22:18:03;2020-09-22 22:18:03 UTC;Validated Phenotype;2;LifeStyle_Envi;6121904
+41631615;Cat, toddy;Paradoxurus hermaphroditus;2020-03-17 10:34:02;2020-12-25 16:40:13;In Progress;2;Vital;9235855
+87161622;Lion, galapagos sea;Zalophus californicus;2019-12-16 04:23:53;2021-02-17 19:26:57;Working Definition;2;Procedure;7880496
+86574341;Green-winged macaw;Ara chloroptera;2019-10-06 16:00:42;2020-08-01 23:29:42;In Progress;1;Vital;7792542
+60902695;Coot, red-knobbed;Fulica cristata;2020-04-25 01:10:19;2020-04-26 01:10:19 UTC;Validated Phenotype;1;Disease;8768168
+70917864;Owl, madagascar hawk;Ninox superciliaris;2020-01-08 15:40:04;2020-10-19 08:00:25;Working Definition;3;MedPhenotype;9932799
+44946889;Laughing kookaburra;Dacelo novaeguineae;2020-02-26 01:14:30;2020-08-30 13:02:38;In Progress;3;Vital;9816007
+11384100;Woolly-necked stork;Ciconia episcopus;2019-11-20 06:51:57;2020-05-19 16:34:12;In Progress;1;MedPhenotype;9198764
+60572304;Wombat, common;Vombatus ursinus;2020-04-02 14:39:00;2020-04-03 14:39:00 UTC;Working Definition;2;Procedure;7898023
+53688395;Masked booby;Sula dactylatra;2020-07-05 05:20:18;2021-03-28 19:15:49;Working Definition;2;Lab;8353123
+4007022;White-browed owl;Ninox superciliaris;2020-03-17 06:26:41;2021-01-09 04:34:14;In Progress;1;Lab;6155810
+60788709;Common langur;Semnopithecus entellus;2019-10-08 07:28:39;2021-03-28 12:17:35;In Progress;3;Procedure;5589746
+70908850;Phascogale, brush-tailed;Phascogale tapoatafa;2019-09-23 11:57:24;2020-10-27 05:38:22;Validated Phenotype;1;Procedure;7347473
+19482367;Silver-backed fox;Vulpes chama;2020-05-31 12:10:14;2020-10-25 23:54:32;In Progress;2;Demograpic;7626397
+25063804;Masked booby;Sula dactylatra;2021-03-07 05:49:38;2021-03-08 05:49:38 UTC;Working Definition;3;MedPhenotype;9427075
+32938402;Fox, savanna;Dusicyon thous;2020-02-18 18:11:58;2020-10-06 21:10:17;Working Definition;2;Procedure;6497012
+82059726;Rhesus macaque;Macaca mulatta;2020-10-09 18:02:53;2020-10-10 18:02:53 UTC;Working Definition;2;LifeStyle_Envi;5777191
+85587939;Blacksmith plover;Vanellus armatus;2019-11-26 13:21:11;2020-10-15 21:34:49;Validated Phenotype;1;MedPhenotype;6930172
+31034575;Red-tailed hawk;Buteo jamaicensis;2021-01-16 01:37:15;2021-01-17 01:37:15 UTC;Validated Phenotype;3;LifeStyle_Envi;8148845
+55541617;Hawk, ferruginous;Buteo regalis;2020-04-27 04:49:42;2020-04-28 04:49:42 UTC;In Progress;1;LifeStyle_Envi;9824275
+45172043;Red-tailed cockatoo;Calyptorhynchus magnificus;2020-07-03 11:08:22;2020-07-04 11:08:22 UTC;Working Definition;1;Vital;7478550
+8557331;Red-billed buffalo weaver;Bubalornis niger;2019-09-24 02:02:47;2020-01-19 12:01:12;Working Definition;3;LifeStyle_Envi;5617341
+39598964;Mouse, four-striped grass;Rhabdomys pumilio;2020-11-14 20:20:42;2021-03-19 05:42:25;Validated Phenotype;2;Demograpic;8693404
+1374828;Groundhog;Marmota monax;2019-12-27 09:48:34;2021-02-15 05:15:10;In Progress;1;MedPhenotype;6014208
+58023014;Heron, goliath;Ardea golieth;2021-03-08 13:51:41;2021-03-09 13:51:41 UTC;Validated Phenotype;1;MedPhenotype;8755893
+12735787;Pocket gopher (unidentified);unavailable;2020-01-16 10:52:35;2020-01-17 10:52:35 UTC;Validated Phenotype;2;LifeStyle_Envi;7198165
+59471823;Gazelle, thomson's;Gazella thompsonii;2020-06-28 07:19:38;2020-06-29 07:19:38 UTC;In Progress;3;Demograpic;5855301
+52187258;Dragon, komodo;Varanus komodensis;2020-03-31 19:34:52;2020-06-16 12:14:21;Validated Phenotype;2;MedPhenotype;8742043
+44637612;Deer, black-tailed;Odocoileus hemionus;2020-04-20 18:42:29;2020-04-21 18:42:29 UTC;In Progress;3;Lab;6936501
+60952318;Crane, black-crowned;Balearica pavonina;2020-09-18 22:27:20;2020-12-02 21:02:30;In Progress;1;MedPhenotype;7334345
+17684621;Barbet, levaillant's;Trachyphonus vaillantii;2020-08-02 00:59:37;2020-08-03 00:59:37 UTC;In Progress;2;Demograpic;8362347
+26167729;Mongoose, eastern dwarf;Helogale undulata;2021-01-22 21:34:19;2021-01-23 21:34:19 UTC;Working Definition;2;Lab;5704661
+70908870;Fox, blue;Alopex lagopus;2020-12-30 07:36:40;2021-02-15 02:30:52;Validated Phenotype;3;Demograpic;7699720
+93735971;Snake, tiger;Notechis semmiannulatus;2020-08-06 09:48:41;2020-11-09 16:47:51;In Progress;3;Disease;6656325
+72580020;Huron;Galictis vittata;2019-12-13 04:32:40;2020-12-31 07:29:08;Working Definition;3;LifeStyle_Envi;5608202
+77307263;Antelope, sable;Hippotragus niger;2020-01-31 23:04:26;2020-02-01 23:04:26 UTC;Validated Phenotype;2;LifeStyle_Envi;6167571
+93144918;Arctic fox;Alopex lagopus;2019-10-31 07:19:54;2020-07-24 01:39:56;In Progress;2;Vital;6429797
+20112359;Admiral, indian red;Vanessa indica;2020-04-06 15:48:11;2021-04-14 18:16:34;Working Definition;3;Procedure;6604162
+81332561;Pale white-eye;Zosterops pallidus;2019-10-08 13:05:25;2021-01-07 23:57:53;Working Definition;2;Lab;8133278
+33923829;Sifaka, verreaux's;Propithecus verreauxi;2019-12-30 06:28:21;2020-12-18 15:44:12;Validated Phenotype;3;MedPhenotype;9086679
+30346518;Collared peccary;Tayassu tajacu;2020-06-25 06:19:39;2020-06-26 06:19:39 UTC;In Progress;3;LifeStyle_Envi;5598176
+59524116;Little heron;Butorides striatus;2020-05-01 00:17:38;2020-05-02 00:17:38 UTC;Validated Phenotype;3;Demograpic;9932799
+76214135;Macaque, bonnet;Macaca radiata;2020-09-21 05:51:52;2020-09-22 05:51:52 UTC;In Progress;2;Vital;6150216
+18125059;Large-eared bushbaby;Galago crassicaudataus;2020-12-08 15:58:54;2020-12-09 15:58:54 UTC;In Progress;1;LifeStyle_Envi;8511521
+33974145;Otter, african clawless;Aonyx capensis;2019-10-01 13:02:04;2020-01-21 13:51:54;Validated Phenotype;1;Lab;8595786
+9112695;Cormorant, great;Phalacrocorax carbo;2021-02-25 21:30:41;2021-02-26 21:30:41 UTC;Validated Phenotype;2;Procedure;8040552
+59238143;Serval;Felis serval;2020-11-08 05:31:23;2020-11-09 05:31:23 UTC;Working Definition;2;LifeStyle_Envi;7096759
+25605297;Red-winged blackbird;Agelaius phoeniceus;2019-11-26 16:07:35;2021-04-02 06:14:38;Working Definition;3;LifeStyle_Envi;7940282
+54226051;Heron, giant;Ardea golieth;2020-04-20 11:57:23;2020-06-17 02:08:38;Validated Phenotype;1;LifeStyle_Envi;9199629
+26479533;Tortoise, burmese brown mountain;Manouria emys;2020-07-20 11:57:04;2020-07-21 11:57:04 UTC;Validated Phenotype;1;Demograpic;5766602
+14503243;Wallaroo, common;Macropus robustus;2020-12-03 13:16:01;2020-12-04 13:16:01 UTC;Validated Phenotype;3;MedPhenotype;7856267
+57798384;Squirrel, red;Tamiasciurus hudsonicus;2020-01-19 01:47:42;2021-02-16 05:46:29;Validated Phenotype;2;Procedure;9017430
+78166096;Black-necked stork;Ephippiorhynchus mycteria;2019-09-21 03:17:18;2020-10-07 05:43:43;Working Definition;3;MedPhenotype;6584448
+80626157;Dragon, netted rock;Ctenophorus ornatus;2020-09-06 08:18:46;2020-09-07 08:18:46 UTC;In Progress;1;LifeStyle_Envi;9620869
+94788842;Rat, arboral spiny;Echimys chrysurus;2021-03-20 22:30:54;2021-03-21 22:30:54 UTC;Working Definition;2;MedPhenotype;8906669
+99964685;Crane, brolga;Grus rubicundus;2020-06-20 21:28:11;2020-06-21 21:28:11 UTC;Working Definition;1;Vital;9153207
+6221809;Penguin, little blue;Eudyptula minor;2020-11-12 21:15:21;2020-11-13 21:15:21 UTC;Validated Phenotype;1;LifeStyle_Envi;6409256
+4505061;Ant (unidentified);unavailable;2019-09-18 19:57:05;2020-07-23 00:22:14;Working Definition;3;LifeStyle_Envi;8486902
+37138825;Wolf spider;Lycosa godeffroyi;2020-05-25 19:47:34;2020-05-26 19:47:34 UTC;Working Definition;3;MedPhenotype;6408983
+66020161;Red-knobbed coot;Fulica cristata;2020-08-05 22:32:19;2021-04-02 11:35:37;Working Definition;2;Lab;8454345
+55774104;Mara;Dolichitus patagonum;2020-10-21 22:42:18;2020-10-22 22:42:18 UTC;In Progress;2;Procedure;6607860
+44357451;Spurfowl, yellow-necked;Francolinus leucoscepus;2020-09-11 05:29:30;2020-09-12 05:29:30 UTC;Validated Phenotype;2;Vital;5772582
+9484880;Lilac-breasted roller;Coracias caudata;2019-12-11 00:17:29;2019-12-12 00:17:29 UTC;Working Definition;3;Disease;8458916
+39913074;Skua, long-tailed;Stercorarius longicausus;2021-01-18 21:05:43;2021-01-19 21:05:43 UTC;Working Definition;2;Procedure;8479789
+62505040;Butterfly, tropical buckeye;Junonia genoveua;2020-02-07 14:23:09;2020-02-08 14:23:09 UTC;In Progress;2;MedPhenotype;7334345
+9290778;Rhea, gray;Rhea americana;2019-12-31 14:25:30;2020-01-01 14:25:30 UTC;Working Definition;2;Lab;8318447
+63290350;Pied crow;Corvus albus;2021-02-13 02:17:22;2021-02-14 02:17:22 UTC;Validated Phenotype;3;Vital;9838716
+99930997;Peccary, collared;Tayassu tajacu;2020-01-04 09:25:31;2020-06-11 14:19:37;Validated Phenotype;2;Vital;7231345
+92562698;Little heron;Butorides striatus;2019-11-01 13:49:50;2021-02-03 18:23:51;Validated Phenotype;2;Disease;9282796
+20503400;Camel, dromedary;Camelus dromedarius;2020-05-04 17:40:37;2020-05-05 17:40:37 UTC;Validated Phenotype;1;Disease;9136337
+66324097;Blackbird, red-winged;Agelaius phoeniceus;2020-10-24 11:29:54;2020-12-22 08:40:58;Working Definition;3;Demograpic;8980314
+10975118;Short-beaked echidna;Tachyglossus aculeatus;2019-10-19 21:41:35;2020-09-19 05:24:36;In Progress;2;Demograpic;5917624
+15084609;Chipmunk, least;Eutamias minimus;2020-02-13 04:10:08;2020-07-07 06:35:09;Working Definition;3;Demograpic;6105538
+9352487;Vervet monkey;Cercopithecus aethiops;2019-11-20 13:32:54;2020-12-30 02:51:48;Working Definition;2;LifeStyle_Envi;7825928
+78917329;Porcupine, indian;Hystrix indica;2020-06-09 13:20:22;2020-08-17 17:03:24;In Progress;1;Vital;5761096
+89703749;Racer, blue;Coluber constrictor foxii;2019-10-07 17:46:17;2020-10-07 11:51:35;In Progress;1;Demograpic;6892171
+30393581;Robin, white-throated;Irania gutteralis;2021-02-09 08:03:58;2021-02-10 08:03:58 UTC;In Progress;1;MedPhenotype;7096759
+93883477;Eastern diamondback rattlesnake;Crotalus adamanteus;2020-08-30 05:08:10;2020-09-24 09:18:09;In Progress;1;Procedure;7036968
+87967224;Goose, knob-nosed;Sarkidornis melanotos;2020-09-28 17:40:35;2020-09-29 17:40:35 UTC;Validated Phenotype;2;Lab;6285456
+87905053;Steenbuck;Raphicerus campestris;2019-12-09 22:26:40;2020-08-11 19:20:58;Validated Phenotype;3;LifeStyle_Envi;6852152
+73897265;Wild boar;Sus scrofa;2021-01-11 20:00:27;2021-03-16 14:34:01;In Progress;1;Procedure;6112260
+27642513;Three-banded plover;Charadrius tricollaris;2020-05-07 15:20:41;2020-08-25 00:20:49;Working Definition;1;LifeStyle_Envi;6827044
+8826042;Capuchin, weeper;Cebus nigrivittatus;2020-10-05 06:10:36;2020-12-29 13:20:21;Validated Phenotype;1;Lab;6585404
+71912014;Sungazer, yellow-brown;Cordylus giganteus;2020-04-22 23:19:05;2020-06-12 16:54:33;In Progress;3;Procedure;6117687
+67745201;South African hedgehog;Erinaceus frontalis;2020-08-26 20:04:19;2020-08-27 20:04:19 UTC;In Progress;2;MedPhenotype;7454873
+89826279;Snake, green vine;Oxybelis fulgidus;2020-11-12 13:34:43;2020-11-13 13:34:43 UTC;Validated Phenotype;2;Vital;6824917
+82312347;Common raccoon;Procyon lotor;2020-01-21 01:43:25;2020-09-20 15:57:11;Validated Phenotype;2;Disease;8109173
+98827157;Porcupine, indian;Hystrix indica;2021-01-27 14:07:09;2021-01-28 14:07:09 UTC;Validated Phenotype;1;LifeStyle_Envi;8956040
+50663800;Pintail, bahama;Anas bahamensis;2019-11-05 04:21:14;2021-03-15 15:48:24;In Progress;2;Demograpic;9487084
+72517817;Red lava crab;Graspus graspus;2020-11-26 19:27:08;2020-11-27 19:27:08 UTC;Working Definition;2;Lab;6403385
+60053578;Galapagos dove;Zenaida galapagoensis;2019-10-24 10:15:00;2020-08-29 06:58:16;Working Definition;3;MedPhenotype;8755893
+70239653;Woodcock, american;Scolopax minor;2020-08-17 01:47:29;2021-02-15 03:43:35;Validated Phenotype;1;LifeStyle_Envi;7388791
+36217745;Mouse, four-striped grass;Rhabdomys pumilio;2019-12-20 09:44:49;2019-12-22 23:18:25;In Progress;2;MedPhenotype;6938086
+79790052;Pintail, white-cheeked;Anas bahamensis;2020-06-11 17:51:52;2020-06-12 17:51:52 UTC;Working Definition;2;Lab;8616416
+93298300;Langur, gray;Semnopithecus entellus;2020-03-26 23:42:17;2020-03-27 23:42:17 UTC;In Progress;3;Demograpic;5704332
+9094315;Blue-tongued lizard;Tiliqua scincoides;2020-07-01 07:06:34;2020-07-02 07:06:34 UTC;Working Definition;3;Vital;5997614
+15920192;Australian sea lion;Neophoca cinerea;2020-06-25 03:32:10;2020-06-26 03:32:10 UTC;In Progress;1;MedPhenotype;8766743
+17631842;Coatimundi, white-nosed;Nasua narica;2020-08-14 07:59:26;2020-08-15 07:59:26 UTC;Working Definition;1;Lab;9670612
+72570355;Hoary marmot;Marmota caligata;2021-04-11 06:35:55;2021-04-12 06:35:55 UTC;Working Definition;1;Procedure;6765583
+54605052;Chital;Axis axis;2021-03-10 09:35:16;2021-03-11 09:35:16 UTC;In Progress;1;Disease;9834930
+9305978;Lion, south american sea;Otaria flavescens;2019-11-20 10:39:50;2020-11-21 12:06:28;Validated Phenotype;1;Procedure;6936501
+30065808;Lourie, grey;Lorythaixoides concolor;2019-09-21 02:13:11;2020-08-06 19:56:46;Validated Phenotype;1;Vital;6765583
+51828952;Salmon, sockeye;Oncorhynchus nerka;2019-12-14 16:17:29;2019-12-15 16:17:29 UTC;In Progress;3;LifeStyle_Envi;6686428
+85692560;Chimpanzee;Pan troglodytes;2019-12-26 04:04:09;2020-03-15 08:44:26;Validated Phenotype;2;Lab;9793909
+49457118;Large-eared bushbaby;Galago crassicaudataus;2020-05-20 17:50:59;2021-01-11 16:16:26;Working Definition;3;Vital;6379720
+15653697;Eastern grey kangaroo;Macropus giganteus;2020-09-25 07:41:20;2020-09-26 07:41:20 UTC;Validated Phenotype;1;Demograpic;5924003
+9327576;Squirrel, grey-footed;Paraxerus cepapi;2020-04-23 09:21:53;2020-04-24 09:21:53 UTC;In Progress;1;Demograpic;6575009
+87848550;Golden eagle;Aquila chrysaetos;2019-11-09 16:42:37;2020-09-17 14:22:21;Working Definition;1;Demograpic;8725051
+60523698;Crab-eating raccoon;Procyon cancrivorus;2020-10-20 13:02:06;2020-10-21 13:02:06 UTC;In Progress;3;Vital;9178219
+93801161;Vulture, egyptian;Neophron percnopterus;2019-12-13 19:02:41;2020-08-14 10:28:51;Validated Phenotype;3;Disease;9228651
+46922324;Asian water buffalo;Bubalus arnee;2021-03-04 14:24:51;2021-03-05 14:24:51 UTC;In Progress;1;Demograpic;8353123
+35455950;Cardinal, red-capped;Paroaria gularis;2019-10-13 17:04:26;2020-10-30 16:31:57;In Progress;1;Demograpic;5669894
+17685763;Common pheasant;Phasianus colchicus;2020-12-12 07:50:54;2020-12-13 07:50:54 UTC;Validated Phenotype;2;Vital;7342658
+64348767;Carpet python;Morelia spilotes variegata;2020-04-27 04:34:29;2021-04-09 06:53:22;Validated Phenotype;3;Vital;7176480
+24512874;Skink, blue-tongued;Tiliqua scincoides;2019-12-02 12:23:51;2019-12-07 11:53:07;In Progress;2;LifeStyle_Envi;6121904
+66729271;Cormorant, javanese;Phalacrocorax niger;2021-02-17 22:09:36;2021-02-18 22:09:36 UTC;In Progress;3;Procedure;8210158
+11969688;Snowy sheathbill;Chionis alba;2020-08-19 16:47:01;2020-08-20 16:47:01 UTC;Working Definition;1;MedPhenotype;9198764
+76589059;Gorilla, western lowland;Gorilla gorilla;2019-11-18 12:53:39;2020-01-03 15:20:02;Working Definition;2;MedPhenotype;9518657
+52259700;Springhare;Pedetes capensis;2021-03-08 06:47:01;2021-03-09 06:47:01 UTC;Validated Phenotype;1;MedPhenotype;7347473
+33655935;Turtle, long-necked;Chelodina longicollis;2020-12-23 22:15:13;2020-12-24 22:15:13 UTC;Working Definition;3;Lab;7639475
+73795156;Iguana, marine;Amblyrhynchus cristatus;2020-12-12 08:38:08;2020-12-13 08:38:08 UTC;In Progress;1;LifeStyle_Envi;7718722
+57410970;White-cheeked pintail;Anas bahamensis;2021-02-08 02:00:45;2021-02-09 02:00:45 UTC;Validated Phenotype;3;Demograpic;5878135
+92316341;White-faced whistling duck;Dendrocygna viduata;2020-08-17 06:34:37;2020-08-18 06:34:37 UTC;Working Definition;2;Procedure;6203601
+12744121;Eastern diamondback rattlesnake;Crotalus adamanteus;2019-12-31 16:06:48;2020-06-14 11:18:11;Working Definition;2;Lab;7926112
+50773731;American beaver;Castor canadensis;2021-04-11 22:04:24;2021-04-12 22:04:24 UTC;In Progress;3;LifeStyle_Envi;7363903
+3657551;Puna ibis;Plegadis ridgwayi;2020-06-25 18:58:51;2020-11-07 12:39:55;Validated Phenotype;2;LifeStyle_Envi;6088300
+40492274;Bandicoot, short-nosed;Isoodon obesulus;2021-01-25 08:35:47;2021-01-26 08:35:47 UTC;Validated Phenotype;3;Demograpic;7962664
+75113101;Yellow-billed hornbill;Tockus flavirostris;2020-01-05 18:13:08;2020-11-13 18:22:39;In Progress;3;Procedure;7848554
+12798764;Brown capuchin;Cebus apella;2020-10-08 10:55:13;2021-02-27 14:59:33;In Progress;1;Vital;6890067
+90006035;Giraffe;Giraffe camelopardalis;2020-06-14 19:34:53;2020-12-12 21:11:06;Validated Phenotype;3;Lab;7699720
+94492932;White-mantled colobus;Colobus guerza;2020-11-07 12:18:24;2020-11-08 12:18:24 UTC;Working Definition;1;Demograpic;7503885
+82735533;North American beaver;Castor canadensis;2020-05-14 23:44:03;2020-05-15 23:44:03 UTC;Validated Phenotype;3;MedPhenotype;5639687
+17614506;Herring gull;unavailable;2020-11-21 16:57:25;2020-12-15 09:31:04;Validated Phenotype;2;Lab;8663436
+82207584;Australian brush turkey;Alectura lathami;2019-11-15 10:42:59;2020-06-19 17:01:21;Working Definition;1;Demograpic;6129653
+41361481;Yellow-crowned night heron;Nyctanassa violacea;2020-06-25 09:46:14;2020-06-26 09:46:14 UTC;Validated Phenotype;3;Demograpic;5614293
+22866550;Lion, australian sea;Neophoca cinerea;2020-08-12 14:08:36;2020-08-13 14:08:36 UTC;In Progress;3;LifeStyle_Envi;5989965
+88289452;Skink, african;Mabuya spilogaster;2021-01-19 05:56:42;2021-01-20 05:56:42 UTC;Working Definition;3;Disease;6646875
+56438011;Gray duiker;Sylvicapra grimma;2020-03-06 23:13:05;2020-03-07 23:13:05 UTC;In Progress;2;Procedure;9003779
+50404821;Collared lemming;Dicrostonyx groenlandicus;2020-08-19 03:20:56;2021-01-28 06:58:27;Working Definition;2;MedPhenotype;5563310
+76514897;Penguin, magellanic;Spheniscus magellanicus;2021-02-10 11:57:07;2021-02-11 11:57:07 UTC;Validated Phenotype;3;Disease;6938086
+11637266;Red-tailed hawk;Buteo jamaicensis;2020-05-24 16:21:04;2020-12-10 01:59:27;Working Definition;2;Lab;8454345
+66580137;Spurfowl, yellow-necked;Francolinus leucoscepus;2020-02-18 19:03:05;2021-04-07 07:32:30;In Progress;1;Procedure;7439626
+4798696;Long-necked turtle;Chelodina longicollis;2020-07-13 13:05:07;2020-07-14 13:05:07 UTC;Working Definition;2;Disease;6607860
+40158626;Blackish oystercatcher;Haematopus ater;2019-11-29 03:17:42;2020-01-21 20:37:09;Working Definition;1;MedPhenotype;6359277
+22359738;Puffin, horned;Fratercula corniculata;2020-05-23 23:00:04;2020-05-24 23:00:04 UTC;Working Definition;2;Disease;6166646
+10734403;Black-eyed bulbul;Pycnonotus barbatus;2020-06-08 17:51:24;2020-08-19 05:48:47;Working Definition;1;LifeStyle_Envi;8283959
+25134136;Mongoose, small indian;Herpestes javanicus;2020-07-11 03:07:12;2020-07-12 03:07:12 UTC;Validated Phenotype;1;Disease;8171296
+64938244;Bear, sloth;Melursus ursinus;2020-09-16 01:58:28;2020-09-17 01:58:28 UTC;In Progress;3;MedPhenotype;6686428
+82157222;Egyptian vulture;Neophron percnopterus;2020-04-25 08:10:54;2020-04-26 08:10:54 UTC;Working Definition;3;Procedure;9772352
+64251929;Margay;Felis wiedi or Leopardus weidi;2020-03-12 03:09:05;2021-01-27 17:02:34;Working Definition;1;Disease;8865041
+40624284;Cardinal, red-capped;Paroaria gularis;2020-09-27 01:46:37;2020-09-28 01:46:37 UTC;Validated Phenotype;2;Procedure;8405076
+6352134;Gila monster;Heloderma horridum;2019-09-24 10:46:16;2021-01-15 21:08:16;Validated Phenotype;1;LifeStyle_Envi;5787284
+29500411;Topi;Damaliscus lunatus;2021-02-04 06:18:38;2021-02-05 06:18:38 UTC;Validated Phenotype;1;Disease;7202863
+24815391;Gecko, bent-toed;Cyrtodactylus louisiadensis;2021-03-07 13:54:25;2021-03-08 13:54:25 UTC;Working Definition;2;Demograpic;9580240
+99994701;Armadillo, common long-nosed;Dasypus novemcinctus;2020-03-11 02:59:10;2020-03-12 02:59:10 UTC;Validated Phenotype;1;Vital;9832897
+15346538;Lemur, sportive;Lepilemur rufescens;2021-03-22 06:41:30;2021-03-23 06:41:30 UTC;Working Definition;3;Vital;6746462
+22425197;Indian mynah;Acridotheres tristis;2020-04-11 15:49:42;2021-01-24 18:16:52;Validated Phenotype;3;Vital;8264974
+40019232;African porcupine;Hystrix cristata;2020-12-31 21:57:23;2021-01-01 21:57:23 UTC;Working Definition;2;Lab;8912903
+21883488;Gonolek, burchell's;Laniaurius atrococcineus;2021-03-24 00:19:19;2021-03-25 00:19:19 UTC;Working Definition;1;LifeStyle_Envi;5772582
+94358019;Hornbill, leadbeateri's ground;Bucorvus leadbeateri;2019-09-20 23:45:17;2021-02-23 09:32:18;Validated Phenotype;1;MedPhenotype;5672354
+2121517;Squirrel, arctic ground;Spermophilus parryii;2021-02-22 06:33:54;2021-02-23 06:33:54 UTC;Validated Phenotype;2;Lab;7386537
+31706329;Knob-nosed goose;Sarkidornis melanotos;2019-11-29 15:15:25;2019-12-01 12:03:06;Working Definition;1;Procedure;6417421
+95070741;Cormorant, little;Phalacrocorax niger;2019-10-02 20:11:15;2019-12-31 02:35:36;In Progress;2;Procedure;6272886
+4637138;Goanna lizard;Varanus sp.;2020-12-12 19:45:32;2020-12-13 19:45:32 UTC;In Progress;3;MedPhenotype;6890067
+56185859;Skunk, striped;Mephitis mephitis;2019-12-15 00:26:33;2020-06-28 04:16:35;Working Definition;2;Disease;8725051
+49262226;Great egret;Casmerodius albus;2021-02-09 07:09:46;2021-02-10 07:09:46 UTC;In Progress;3;LifeStyle_Envi;6588419
+62147604;Macaque, japanese;Macaca fuscata;2020-11-30 19:37:48;2020-12-01 19:37:48 UTC;In Progress;2;Demograpic;9792823
+62672072;Tawny frogmouth;Podargus strigoides;2020-06-16 15:25:34;2021-02-13 15:38:25;Working Definition;3;MedPhenotype;9580843
+46151272;Lily trotter;Actophilornis africanus;2020-10-23 23:05:38;2020-10-24 23:05:38 UTC;Working Definition;1;MedPhenotype;9091539
+59843475;Western bearded dragon;Amphibolurus barbatus;2020-03-24 04:37:34;2020-09-01 14:47:22;Working Definition;1;Disease;5717461
+93237854;Racer, blue;Coluber constrictor foxii;2020-10-06 17:05:01;2020-10-07 17:05:01 UTC;Validated Phenotype;2;Procedure;8048700
+42129353;White-tailed jackrabbit;Lepus townsendii;2020-09-09 02:51:46;2020-09-10 02:51:46 UTC;Validated Phenotype;1;Disease;8269874
+31234490;Mouflon;Ovis musimon;2021-03-26 11:22:12;2021-03-27 11:22:12 UTC;In Progress;3;Disease;9757978
+69542009;Deer, savannah;Mazama gouazoubira;2021-02-08 01:49:00;2021-02-09 01:49:00 UTC;Validated Phenotype;2;LifeStyle_Envi;7454873
+89544637;Royal tern;Thalasseus maximus;2020-01-13 15:01:30;2020-06-27 17:51:03;Working Definition;2;MedPhenotype;9968247
+26707462;Goose, cape barren;Cereopsis novaehollandiae;2020-06-07 20:04:03;2020-06-08 20:04:03 UTC;In Progress;2;Lab;6142086
+32625789;Woylie;Bettongia penicillata;2020-09-30 07:59:44;2020-10-01 07:59:44 UTC;In Progress;3;Procedure;6143669
+88767595;Dassie;Dendrohyrax brucel;2020-11-12 12:48:16;2020-11-13 12:48:16 UTC;In Progress;2;Vital;8104746
+29215979;Blue-tongued skink;Tiliqua scincoides;2019-11-12 06:12:03;2020-08-15 23:42:37;Validated Phenotype;2;Vital;7483461
+5795017;Stork, european;Ciconia ciconia;2020-10-06 09:03:28;2021-02-04 08:19:24;In Progress;3;Lab;7879898
+71931393;Bird, bare-faced go away;Lorythaixoides concolor;2020-09-08 09:57:06;2020-11-05 21:40:36;Validated Phenotype;3;Vital;9137067
+69071528;Common wombat;Vombatus ursinus;2020-10-20 19:39:05;2020-10-21 19:39:05 UTC;In Progress;2;Lab;9221825
+84407473;Monkey, rhesus;Macaca mulatta;2020-01-30 14:48:25;2020-07-05 04:07:00;Validated Phenotype;2;Disease;7068066
+26328519;California sea lion;Zalophus californicus;2021-02-08 17:57:06;2021-02-09 17:57:06 UTC;In Progress;3;LifeStyle_Envi;9016340
+12266609;Eagle owl (unidentified);Bubo sp.;2020-10-11 09:15:22;2020-11-24 22:27:59;Validated Phenotype;1;Procedure;6808745
+68469783;Boa, columbian rainbow;Epicrates cenchria maurus;2019-12-11 10:24:15;2019-12-12 10:24:15 UTC;Validated Phenotype;3;MedPhenotype;5610460
+92329877;Violet-crested turaco;Tauraco porphyrelophus;2019-10-03 11:48:14;2020-08-14 08:01:52;Validated Phenotype;1;Demograpic;7300437
+26578778;Western spotted skunk;Spilogale gracilis;2020-09-08 10:51:40;2020-09-09 10:51:40 UTC;Validated Phenotype;3;Procedure;8466256
+63433095;Superb starling;Lamprotornis superbus;2020-07-30 13:51:10;2020-09-12 21:53:34;Working Definition;1;Vital;9621285
+15540134;Gray rhea;Rhea americana;2020-12-19 09:02:24;2020-12-20 09:02:24 UTC;Validated Phenotype;2;Demograpic;5855301
+68846757;Fox, grey;Vulpes cinereoargenteus;2019-11-14 17:25:17;2020-07-11 20:44:57;In Progress;1;Procedure;5912163
+34946578;Snake, eastern indigo;Drymarchon corias couperi;2020-07-24 04:46:07;2020-07-25 04:46:07 UTC;In Progress;1;LifeStyle_Envi;9887528
+75074833;Bohor reedbuck;Redunca redunca;2021-02-17 07:25:14;2021-02-18 07:25:14 UTC;Validated Phenotype;3;Procedure;6486135
+3553735;Gulls (unidentified);Larus sp.;2019-11-19 05:27:02;2019-11-20 05:27:02 UTC;Validated Phenotype;1;Procedure;7705019
+35205079;Wild turkey;Meleagris gallopavo;2020-11-10 03:06:35;2020-11-11 03:06:35 UTC;In Progress;3;Lab;7483461
+37622877;Pale-throated three-toed sloth;Bradypus tridactylus;2021-02-17 05:31:56;2021-02-18 05:31:56 UTC;In Progress;3;Vital;8782106
+13410543;Egret, cattle;Bubulcus ibis;2019-10-31 05:01:31;2021-01-10 03:04:26;In Progress;3;Procedure;9209182
+28268735;Creeper, black-tailed tree;Climacteris melanura;2020-08-10 23:05:03;2020-08-11 23:05:03 UTC;Validated Phenotype;3;Procedure;8405076
+53873109;Tinamou, elegant crested;Eudromia elegans;2020-08-03 15:09:37;2020-09-11 22:24:35;Validated Phenotype;1;Procedure;8682440
+20054858;Shark, blue;Prionace glauca;2020-12-17 19:26:05;2020-12-18 19:26:05 UTC;Validated Phenotype;2;Disease;5979432
+49085491;Black and white colobus;Colobus guerza;2021-04-14 03:42:28;2021-04-15 03:42:28 UTC;Working Definition;1;LifeStyle_Envi;7868877
+60904730;Pelican, eastern white;Pelecans onocratalus;2020-06-25 18:53:27;2020-09-28 07:10:51;Validated Phenotype;1;LifeStyle_Envi;7575639
+56131619;Spoonbill, european;Platalea leucordia;2020-10-28 22:10:05;2020-10-29 22:10:05 UTC;In Progress;3;Demograpic;6124265
+82802313;Tayra;Eira barbata;2019-12-01 07:31:35;2021-04-15 18:36:57;Validated Phenotype;2;Demograpic;8723425
+83652009;White-tailed jackrabbit;Lepus townsendii;2020-11-09 20:20:01;2020-11-10 20:20:01 UTC;In Progress;1;Disease;8066508
+20683334;Asian water buffalo;Bubalus arnee;2020-08-21 14:24:32;2021-01-19 02:21:59;Validated Phenotype;1;Procedure;5780463
+69956505;Common palm civet;Paradoxurus hermaphroditus;2020-07-26 10:34:01;2020-07-27 10:34:01 UTC;Validated Phenotype;2;LifeStyle_Envi;8966195
+93586131;Snowy egret;Egretta thula;2020-10-02 07:48:56;2020-10-13 03:08:04;Working Definition;2;Procedure;6527272
+79051833;North American red fox;Vulpes vulpes;2021-03-16 17:17:21;2021-03-17 17:17:21 UTC;Validated Phenotype;2;Procedure;7342775
+53420940;Mudskipper (unidentified);unavailable;2020-05-20 02:33:23;2020-05-21 02:33:23 UTC;Validated Phenotype;3;Vital;9018266
+88323434;Lemming, arctic;Dicrostonyx groenlandicus;2020-11-26 01:42:26;2020-11-27 17:57:14;In Progress;2;Vital;7389841
+93011151;Common palm civet;Paradoxurus hermaphroditus;2021-04-07 06:05:49;2021-04-08 06:05:49 UTC;Validated Phenotype;3;Demograpic;5648609
+81993744;Chimpanzee;Pan troglodytes;2020-01-18 10:54:41;2020-01-19 10:54:41 UTC;Working Definition;2;Lab;5648609
+57556581;Magistrate black colobus;Colobus guerza;2020-06-15 00:47:13;2020-09-19 06:59:32;Validated Phenotype;3;Vital;5670014
+56176484;Stork, white-necked;Ciconia episcopus;2021-01-07 19:00:57;2021-01-08 19:00:57 UTC;Validated Phenotype;3;Procedure;6765583
+84433507;Currasow (unidentified);Crax sp.;2019-10-29 23:46:27;2020-09-29 22:38:37;Working Definition;1;MedPhenotype;7099545
+48149250;Silver gull;Larus novaehollandiae;2020-12-17 15:22:27;2021-01-16 02:15:42;In Progress;3;Lab;8725051
+52875660;Lava gull;Larus fuliginosus;2021-03-25 20:39:14;2021-03-26 20:39:14 UTC;Working Definition;3;MedPhenotype;8912903
+81916590;Curlew, black;Haematopus ater;2019-09-28 03:42:26;2020-05-26 06:34:45;Working Definition;3;Vital;9886121
+59368252;King cormorant;Phalacrocorax albiventer;2020-01-17 05:12:33;2020-12-02 05:40:42;In Progress;3;Demograpic;5865483
+89733381;Roe deer;Capreolus capreolus;2019-11-04 09:38:07;2020-12-20 02:51:14;Working Definition;1;MedPhenotype;8766743
+66799088;Butterfly, canadian tiger swallowtail;Papilio canadensis;2020-04-08 11:34:48;2020-04-09 11:34:48 UTC;Working Definition;2;Demograpic;6134716
+59240351;Common eland;Taurotagus oryx;2020-01-10 23:10:09;2020-06-02 21:17:30;Validated Phenotype;2;LifeStyle_Envi;8511521
+68507500;Red-tailed hawk;Buteo jamaicensis;2021-03-08 19:16:29;2021-03-09 19:16:29 UTC;Working Definition;2;Lab;9674632
+16056197;Buttermilk snake;Coluber constrictor;2019-11-28 22:55:15;2020-03-28 01:14:33;In Progress;1;Vital;7935349
+39292055;Western palm tanager (unidentified);unavailable;2020-10-18 01:15:22;2020-10-19 01:15:22 UTC;In Progress;2;Demograpic;6360022
+57239765;Boa, columbian rainbow;Epicrates cenchria maurus;2019-12-29 19:16:49;2020-09-02 08:06:51;Working Definition;3;MedPhenotype;6574322
+84620935;Worm snake (unidentified);Carphophis sp.;2021-02-15 05:04:48;2021-02-16 05:04:48 UTC;In Progress;1;Vital;5706749
+43355641;Stork, jabiru;Ephippiorhynchus mycteria;2020-01-17 04:45:27;2021-04-10 13:12:11;Validated Phenotype;3;Disease;8068631
+13364367;African lion;Panthera leo;2020-08-28 06:17:09;2020-08-29 06:17:09 UTC;In Progress;3;Lab;6121904
+56718483;Greater sage grouse;Centrocercus urophasianus;2020-09-06 09:14:54;2020-09-07 09:14:54 UTC;Validated Phenotype;2;MedPhenotype;9462669
+82517449;Onager;Equus hemionus;2019-10-30 09:37:56;2020-12-13 20:43:03;Working Definition;1;Lab;7162041
+74914257;Northern elephant seal;Mirounga angustirostris;2021-02-22 22:19:01;2021-02-23 22:19:01 UTC;Working Definition;1;Disease;6995183
+43927325;Antechinus, brown;Antechinus flavipes;2019-12-22 16:47:21;2019-12-30 14:39:09;Working Definition;3;Procedure;7590211
+77587642;Swamp deer;Cervus duvauceli;2020-10-22 03:52:32;2020-10-23 03:52:32 UTC;In Progress;1;LifeStyle_Envi;9057619
+7764181;Rufous tree pie;Dendrocitta vagabunda;2019-12-23 09:46:10;2020-12-11 17:25:33;Validated Phenotype;2;Demograpic;7630757
+72241969;Squirrel, red;Tamiasciurus hudsonicus;2019-10-31 14:05:37;2020-07-28 14:42:19;Validated Phenotype;2;MedPhenotype;5807430
+96272970;Spotted wood sandpiper;Tringa glareola;2020-11-14 13:58:38;2020-11-15 13:58:38 UTC;Validated Phenotype;2;Vital;9333492
+30837877;Eastern boa constrictor;Acrantophis madagascariensis;2020-10-08 04:43:36;2020-10-09 04:43:36 UTC;Validated Phenotype;2;LifeStyle_Envi;6127153
+34115401;Dolphin, bottle-nose;Tursiops truncatus;2021-01-01 15:16:23;2021-01-02 15:16:23 UTC;In Progress;3;Procedure;7600656
+17007871;Blue crane;Anthropoides paradisea;2020-09-13 01:44:35;2020-09-14 01:44:35 UTC;In Progress;2;Procedure;9049794
+18000705;Deer, black-tailed;Odocoileus hemionus;2020-08-30 09:13:31;2020-08-31 09:13:31 UTC;Working Definition;1;Disease;7418242
+11705467;Owl, madagascar hawk;Ninox superciliaris;2020-12-18 13:38:42;2020-12-19 13:38:42 UTC;Working Definition;1;Disease;9886121
+81028216;Great cormorant;Phalacrocorax carbo;2019-12-31 17:50:08;2021-01-13 10:10:25;In Progress;1;MedPhenotype;8552767
+90096693;Stick insect;Leprocaulinus vipera;2020-02-13 23:47:49;2020-02-14 23:47:49 UTC;Working Definition;2;MedPhenotype;8051960
+76339899;House sparrow;Passer domesticus;2019-12-27 11:18:32;2020-10-23 12:49:57;In Progress;1;MedPhenotype;9306860
+39651254;Silver-backed fox;Vulpes chama;2020-04-07 10:29:34;2021-04-03 03:47:16;Working Definition;1;Lab;5619501
+31770034;Egret, great;Casmerodius albus;2019-11-28 11:46:54;2020-12-28 11:31:36;Validated Phenotype;1;LifeStyle_Envi;7856267
+54399214;Porcupine, prehensile-tailed;Coendou prehensilis;2021-01-26 18:37:40;2021-01-27 18:37:40 UTC;In Progress;3;Disease;8033143
+92749545;Deer, red;Cervus elaphus;2019-11-09 21:25:14;2021-02-08 02:36:27;Working Definition;2;Procedure;9315038
+98473553;Gull, silver;Larus novaehollandiae;2020-05-17 07:02:50;2020-05-21 14:41:27;In Progress;1;Vital;6203601
+11531832;Long-billed cockatoo;Cacatua tenuirostris;2020-12-29 16:17:18;2020-12-30 16:17:18 UTC;Validated Phenotype;1;Demograpic;9888127
+64590598;Iguana, marine;Amblyrhynchus cristatus;2020-08-03 21:23:11;2020-08-04 21:23:11 UTC;Validated Phenotype;1;MedPhenotype;7898046
+63025093;Stork, black-necked;Ephippiorhynchus mycteria;2020-05-19 08:13:58;2020-05-20 08:13:58 UTC;Validated Phenotype;3;LifeStyle_Envi;5810940
+40783664;Ibex;Capra ibex;2020-09-19 12:07:11;2020-09-20 12:07:11 UTC;Validated Phenotype;3;Disease;8325554
+67007821;Gazer, sun;Cordylus giganteus;2020-02-14 15:07:12;2020-03-12 14:45:29;In Progress;1;LifeStyle_Envi;6121904
+68915095;Hornbill, leadbeateri's ground;Bucorvus leadbeateri;2020-09-06 03:00:58;2020-09-07 03:00:58 UTC;Working Definition;3;Demograpic;6697640
+32639623;Guerza;Colobus guerza;2020-05-16 17:11:19;2020-07-12 16:03:46;Validated Phenotype;2;Disease;8306603
+48549487;Gulls (unidentified);Larus sp.;2020-09-10 01:46:27;2020-09-30 22:41:23;In Progress;2;Procedure;6507624
+96181509;Ring-tailed possum;Pseudocheirus peregrinus;2021-03-04 23:18:56;2021-03-05 23:18:56 UTC;Validated Phenotype;1;Procedure;7085675
+71300261;California sea lion;Zalophus californicus;2021-02-19 21:54:07;2021-02-20 21:54:07 UTC;Working Definition;1;LifeStyle_Envi;9490482
+7661323;Jaguarundi;Felis yagouaroundi;2020-12-25 11:05:43;2020-12-26 11:05:43 UTC;Working Definition;3;Vital;9298788
+45750508;Otter, cape clawless;Aonyx capensis;2020-11-27 06:30:54;2020-11-28 06:30:54 UTC;In Progress;3;Lab;7388791
+39643235;Squirrel, eastern fox;Sciurus niger;2020-03-19 17:44:49;2020-03-20 17:44:49 UTC;In Progress;1;Demograpic;7882624
+17121938;Barbet, black-collared;Lybius torquatus;2019-09-19 10:50:12;2020-07-08 03:17:25;In Progress;1;LifeStyle_Envi;9729222
+26505387;Squirrel, antelope ground;Ammospermophilus nelsoni;2019-09-19 14:19:10;2020-06-27 03:56:06;Validated Phenotype;3;Vital;6941019
+55578308;African lion;Panthera leo;2021-02-26 16:00:25;2021-02-27 16:00:25 UTC;Working Definition;1;Demograpic;7799847
+71369248;Giraffe;Giraffe camelopardalis;2020-08-14 14:37:07;2020-08-15 14:37:07 UTC;Working Definition;2;Vital;9018266
+86436664;Gecko, barking;Phylurus milli;2020-06-28 07:34:20;2020-10-14 05:15:05;Validated Phenotype;3;Lab;5838200
+59932291;Black-backed magpie;Gymnorhina tibicen;2019-12-29 05:02:37;2021-02-01 14:30:04;Working Definition;2;MedPhenotype;8685714
+15390025;Monkey, bleeding heart;Theropithecus gelada;2021-03-28 00:34:08;2021-03-29 00:34:08 UTC;Validated Phenotype;1;Vital;6106812
+97567575;Bear, polar;Ursus maritimus;2020-08-28 01:07:43;2020-08-29 01:07:43 UTC;Working Definition;1;Demograpic;8165850
+38564411;Olive baboon;Papio cynocephalus;2019-12-07 07:36:09;2020-08-19 05:17:33;In Progress;2;LifeStyle_Envi;9621285
+65720675;Capybara;Hydrochoerus hydrochaeris;2021-02-08 19:06:32;2021-02-09 19:06:32 UTC;In Progress;3;Lab;7228076
+80464791;Common duiker;Sylvicapra grimma;2019-10-14 22:14:57;2020-02-06 09:07:58;Working Definition;2;Procedure;7078637
+90324654;Deer, white-tailed;Odocoilenaus virginianus;2020-09-25 00:22:34;2020-09-26 00:22:34 UTC;Validated Phenotype;3;MedPhenotype;9096008
+98533690;Leadbeateri's ground hornbill;Bucorvus leadbeateri;2019-10-18 18:48:22;2021-04-05 14:59:15;Working Definition;3;Demograpic;6992692
+88795948;Lion, steller's sea;Eumetopias jubatus;2020-04-04 18:47:07;2020-04-05 18:47:07 UTC;In Progress;3;LifeStyle_Envi;6399066
+50586126;Mandras tree shrew;Anathana ellioti;2019-11-21 01:53:13;2019-12-27 23:54:25;In Progress;1;Vital;8197539
+12744089;Marten, american;Martes americana;2021-03-30 07:25:09;2021-03-31 07:25:09 UTC;In Progress;3;Procedure;6986710
+15649949;Red-tailed wambenger;Phascogale calura;2021-02-22 12:51:51;2021-03-05 20:52:07;In Progress;3;Demograpic;6578037
+31635662;Blue catfish;Ictalurus furcatus;2019-10-10 18:00:59;2019-11-30 05:38:27;Working Definition;3;Lab;8051960
+3272882;Skink, blue-tongued;Tiliqua scincoides;2021-03-04 10:58:13;2021-03-05 10:58:13 UTC;Validated Phenotype;2;Demograpic;7352545
+6050536;Flamingo, lesser;Phoeniconaias minor;2020-06-06 01:53:07;2020-10-14 16:20:55;In Progress;3;LifeStyle_Envi;5848039
+30501645;Dove, ring;Columba palumbus;2020-10-15 06:51:03;2020-10-16 06:51:03 UTC;Validated Phenotype;1;Demograpic;9088363
+33401065;Badger, eurasian;Meles meles;2020-09-22 00:12:49;2020-09-23 00:12:49 UTC;Working Definition;2;Lab;7086925
+62994015;Malabar squirrel;Ratufa indica;2020-11-05 12:34:00;2021-02-06 22:24:15;In Progress;2;Lab;9965550
+37877141;Kalahari scrub robin;Certotrichas paena;2020-03-16 05:46:22;2020-08-23 04:36:03;Working Definition;1;Demograpic;5726184
+95493169;White spoonbill;Platalea leucordia;2021-01-24 14:29:39;2021-01-25 14:29:39 UTC;In Progress;1;Vital;7246457
+34746969;Ass, asiatic wild;Equus hemionus;2019-09-20 14:21:55;2019-09-21 14:21:55 UTC;Working Definition;2;Procedure;6399066
+75682489;Cormorant, neotropic;Phalacrocorax brasilianus;2019-11-05 04:24:32;2021-02-22 01:24:36;In Progress;3;LifeStyle_Envi;9621358
+10110858;Black-backed magpie;Gymnorhina tibicen;2021-04-15 06:29:55;2021-04-16 06:29:55 UTC;In Progress;1;Vital;7442341
+1811429;Eagle, pallas's fish;Haliaeetus leucoryphus;2021-02-22 18:39:02;2021-02-23 18:39:02 UTC;Working Definition;1;Procedure;5717858
+87952912;Rhinoceros, white;Ceratotherium simum;2020-07-23 14:38:08;2020-11-20 15:13:27;Validated Phenotype;1;Disease;5961644
+99094220;Wallaby, whip-tailed;Macropus parryi;2020-12-20 15:25:06;2020-12-21 15:25:06 UTC;Validated Phenotype;3;Disease;8539415
+62877461;Caribou;Rangifer tarandus;2020-02-15 00:36:29;2020-02-16 00:36:29 UTC;In Progress;3;Disease;6190473
+8250238;Francolin, swainson's;Francolinus swainsonii;2020-09-02 10:24:37;2020-10-27 13:40:54;Validated Phenotype;2;Demograpic;8559972
+38237426;Openbill stork;Anastomus oscitans;2020-07-16 00:33:17;2020-07-17 00:33:17 UTC;Validated Phenotype;3;Disease;9908067
+96810636;Tamandua, southern;Tamandua tetradactyla;2020-03-11 06:34:35;2020-07-15 09:21:26;Validated Phenotype;3;LifeStyle_Envi;6504438
+71133513;Emerald-spotted wood dove;Turtur chalcospilos;2020-02-09 05:12:07;2020-05-16 05:57:19;Working Definition;2;Disease;9885212
+67551805;Legaan, Monitor (unidentified);Varanus sp.;2020-09-09 17:02:56;2020-09-10 17:02:56 UTC;In Progress;3;MedPhenotype;8783620
+89377548;Sunbird, lesser double-collared;Nectarinia chalybea;2020-04-19 12:30:30;2020-08-05 00:22:01;In Progress;3;Procedure;8865041
+61849023;Cape white-eye;Zosterops pallidus;2020-08-07 03:15:15;2021-01-11 10:04:38;Validated Phenotype;2;Procedure;9949825
+67697813;Mallard;Anas platyrhynchos;2020-06-27 12:06:35;2020-07-12 04:55:55;Working Definition;3;LifeStyle_Envi;9918755
+95567656;Squirrel, richardson's ground;Spermophilus richardsonii;2020-10-05 15:12:31;2020-10-06 15:12:31 UTC;Validated Phenotype;1;Disease;7799873
+37720157;Lion, steller sea;Eumetopias jubatus;2021-04-17 01:16:06;2021-04-18 01:16:06 UTC;Working Definition;2;LifeStyle_Envi;7882624
+22882080;Cat, african wild;Felis silvestris lybica;2021-04-07 06:51:30;2021-04-08 06:51:30 UTC;Working Definition;2;LifeStyle_Envi;9091539
+49751942;Boa, cook's tree;Corallus hortulanus cooki;2019-10-26 05:23:33;2019-11-08 13:42:06;In Progress;3;Procedure;9153207
+44518399;Cape wild cat;Felis libyca;2019-10-03 10:03:47;2021-03-28 19:42:21;In Progress;2;Demograpic;7234549
+50267090;Toucan, white-throated;Ramphastos tucanus;2019-11-09 20:52:32;2020-03-09 15:05:58;Working Definition;2;Disease;6088300
+94288482;Black-throated butcher bird;Cracticus nigroagularis;2019-12-21 09:26:39;2020-03-17 07:29:41;Validated Phenotype;1;Procedure;7562723
+71672170;Butterfly, canadian tiger swallowtail;Papilio canadensis;2020-08-02 10:38:07;2020-09-30 03:35:38;Working Definition;3;Lab;6972218
+55183615;Cobra (unidentified);Naja sp.;2020-09-25 11:55:54;2020-09-26 11:55:54 UTC;In Progress;2;Disease;8671599
+40374503;Weaver, sociable;Philetairus socius;2020-06-25 07:06:25;2020-06-30 03:07:33;In Progress;3;Lab;8816484
+73777075;Bahama pintail;Anas bahamensis;2020-02-24 07:26:06;2020-02-25 07:26:06 UTC;In Progress;2;Demograpic;6995183
+43521232;Egyptian cobra;Naja haje;2020-10-13 15:20:47;2021-04-06 14:54:14;Validated Phenotype;2;Demograpic;9536640
+65676564;Eastern quoll;Dasyurus viverrinus;2020-02-23 17:12:07;2020-02-24 17:12:07 UTC;Working Definition;2;Lab;8358503
+84059324;Giant otter;Pteronura brasiliensis;2020-02-23 02:02:16;2021-03-25 23:19:54;Working Definition;3;Vital;9484073
+45324089;Yellow-brown sungazer;Cordylus giganteus;2019-09-28 22:47:14;2019-09-29 22:47:14 UTC;In Progress;3;Procedure;5886053
+59040089;White-eye, cape;Zosterops pallidus;2021-01-07 21:40:41;2021-01-08 21:40:41 UTC;Validated Phenotype;3;Disease;6183380
+53819046;Red-billed hornbill;Tockus erythrorhyncus;2020-07-23 03:17:36;2020-07-24 03:17:36 UTC;In Progress;1;MedPhenotype;5634462
+13892267;Dolphin, striped;Stenella coeruleoalba;2020-12-31 23:54:02;2021-01-01 23:54:02 UTC;Working Definition;3;Lab;6143282
+62096981;Dassie;Dendrohyrax brucel;2020-12-13 17:09:27;2020-12-14 17:09:27 UTC;Validated Phenotype;3;Disease;8576061
+40519932;Seal, northern fur;Callorhinus ursinus;2020-01-16 19:11:20;2020-02-12 12:23:02;Working Definition;3;Lab;8197539
+73613006;Lava gull;Larus fuliginosus;2020-09-09 09:57:08;2020-09-10 09:57:08 UTC;Validated Phenotype;1;Disease;7917719
+67667953;Seal, common;Phoca vitulina;2020-03-16 21:48:16;2020-07-26 04:00:02;In Progress;3;MedPhenotype;7868167
+69056403;Cereopsis goose;Cereopsis novaehollandiae;2019-10-14 13:43:21;2019-12-06 23:11:47;In Progress;2;MedPhenotype;8682440
+20923901;Blesbok;Damaliscus dorcas;2021-04-19 01:13:21;2021-04-20 01:13:21 UTC;In Progress;3;Disease;6143282
+54356705;White-fronted capuchin;Cebus albifrons;2020-10-01 17:14:13;2020-10-02 17:14:13 UTC;Validated Phenotype;3;MedPhenotype;9311718
+26816415;Alligator, american;Alligator mississippiensis;2019-10-10 13:57:57;2020-06-22 01:01:07;Validated Phenotype;3;Disease;9315038
+69046666;Sockeye salmon;Oncorhynchus nerka;2020-09-05 22:27:24;2020-09-06 22:27:24 UTC;Working Definition;1;Vital;8597337
+28833851;Eagle, bateleur;Terathopius ecaudatus;2020-02-19 06:37:08;2020-02-20 06:37:08 UTC;Working Definition;3;LifeStyle_Envi;6708229
+81865634;Indian red admiral;Vanessa indica;2020-03-21 08:41:22;2020-04-10 18:02:38;Working Definition;2;MedPhenotype;9230916
+18949459;Black-backed magpie;Gymnorhina tibicen;2019-11-04 20:13:06;2019-11-05 20:13:06 UTC;Working Definition;2;Demograpic;9518848
+66277187;Fox, crab-eating;Dusicyon thous;2020-09-18 15:24:04;2020-09-19 15:24:04 UTC;Working Definition;1;MedPhenotype;5742356
+57335107;Echidna, short-beaked;Tachyglossus aculeatus;2020-10-03 11:54:33;2020-10-04 11:54:33 UTC;In Progress;1;MedPhenotype;5704332
+27908049;Lemur, ring-tailed;Lemur catta;2019-11-13 03:42:48;2021-02-16 20:31:14;Working Definition;2;Demograpic;6822019
+89615127;Cape wild cat;Felis libyca;2020-11-22 17:25:52;2020-11-23 17:25:52 UTC;Working Definition;1;Lab;7389841
+63464032;Old world fruit bat (unidentified);unavailable;2021-04-19 08:05:59;2021-04-20 08:05:59 UTC;Validated Phenotype;1;Lab;8488535
+66985423;Heron, green-backed;Butorides striatus;2021-01-20 00:07:41;2021-01-21 00:07:41 UTC;In Progress;2;Procedure;7429767
+98649938;Phalarope, red;Phalaropus fulicarius;2020-08-22 20:16:20;2020-11-16 10:29:51;In Progress;1;Demograpic;7036968
+79193027;Water legaan;Varanus salvator;2020-11-17 12:26:28;2021-03-24 05:59:58;In Progress;1;Demograpic;9079982
+94157159;Wild boar;Sus scrofa;2020-08-06 23:09:10;2020-08-07 23:09:10 UTC;In Progress;2;Demograpic;5738280
+74275776;Rhea, gray;Rhea americana;2019-11-07 03:40:44;2019-11-15 08:48:44;Validated Phenotype;2;MedPhenotype;8193839
+28479259;Crow, house;Corvus brachyrhynchos;2021-01-01 20:08:03;2021-01-02 20:08:03 UTC;In Progress;1;LifeStyle_Envi;8388685
+81627037;Wild turkey;Meleagris gallopavo;2021-03-03 00:38:51;2021-04-04 23:21:37;Working Definition;3;Vital;7166223
+81661455;Land iguana;Conolophus subcristatus;2019-10-24 03:25:13;2019-10-25 03:25:13 UTC;In Progress;3;Disease;6892139
+32811637;Asiatic jackal;Canis aureus;2021-01-31 17:34:12;2021-02-01 17:34:12 UTC;Validated Phenotype;3;MedPhenotype;9452504
+54033538;Brolga crane;Grus rubicundus;2020-11-30 03:43:05;2020-12-01 03:43:05 UTC;Validated Phenotype;2;Demograpic;8731661
+22823140;Common nighthawk;Chordeiles minor;2020-03-11 16:18:42;2021-03-04 03:33:26;In Progress;2;Lab;9228651
+6083236;Bat-eared fox;Otocyon megalotis;2020-05-20 16:39:10;2020-10-23 05:29:02;In Progress;3;Disease;6575705
+37991046;Asiatic jackal;Canis aureus;2019-09-28 12:25:42;2020-09-25 08:55:43;Working Definition;3;MedPhenotype;6830699
+78168271;Australian spiny anteater;Tachyglossus aculeatus;2020-05-11 14:21:55;2020-05-12 14:21:55 UTC;Working Definition;1;Procedure;9817627
+55547094;Stork, saddle-billed;Ephipplorhynchus senegalensis;2019-12-22 05:52:35;2020-09-25 23:31:47;Validated Phenotype;1;MedPhenotype;5770785
+97354139;Marshbird, brown and yellow;Pseudoleistes virescens;2020-03-25 03:29:46;2020-04-26 22:56:44;Working Definition;2;Lab;7600656
+94747388;Trumpeter, dark-winged;Psophia viridis;2021-02-23 12:06:36;2021-02-24 12:06:36 UTC;Working Definition;3;MedPhenotype;7535676
+48580893;Vulture, lappet-faced;Aegypius tracheliotus;2020-08-30 15:45:27;2020-08-31 15:45:27 UTC;In Progress;2;LifeStyle_Envi;8102034
+2058383;Ringtail;Bassariscus astutus;2019-12-02 03:26:29;2020-02-21 17:35:05;In Progress;1;Vital;6283653
+91803991;Coatimundi, white-nosed;Nasua narica;2020-10-15 16:28:40;2020-12-16 22:43:45;Working Definition;2;LifeStyle_Envi;5991686
+98111640;Bustard, denham's;Neotis denhami;2020-09-02 15:27:04;2020-10-16 01:02:42;Working Definition;1;Lab;7868167
+88122342;Rhesus monkey;Macaca mulatta;2021-04-13 12:33:42;2021-04-14 12:33:42 UTC;In Progress;1;LifeStyle_Envi;6155810
+38747023;Long-tailed spotted cat;Felis wiedi or Leopardus weidi;2020-01-16 23:16:51;2020-03-28 03:54:13;Working Definition;3;Disease;9632833
+90189480;Buttermilk snake;Coluber constrictor;2019-10-12 17:34:24;2020-06-20 07:40:15;Working Definition;3;Demograpic;9372226
+78089661;Wombat, southern hairy-nosed;Lasiorhinus latifrons;2020-09-24 01:49:19;2020-09-25 01:49:19 UTC;In Progress;2;MedPhenotype;6575705
+15684483;Chickadee, black-capped;Parus atricapillus;2021-02-21 21:21:07;2021-02-22 21:21:07 UTC;Working Definition;3;LifeStyle_Envi;9228651
+8573812;Kalahari scrub robin;Certotrichas paena;2020-01-01 09:31:11;2020-03-13 20:50:42;Working Definition;3;Lab;7720889
+6638629;Pacific gull;Gabianus pacificus;2019-12-14 02:37:02;2020-02-01 16:24:02;In Progress;2;Lab;8690016
+30226143;Gorilla, western lowland;Gorilla gorilla;2021-02-06 16:48:24;2021-02-07 16:48:24 UTC;In Progress;2;Demograpic;6527272
+31284433;Turtle, snake-necked;Chelodina longicollis;2020-06-24 06:58:12;2020-06-25 06:58:12 UTC;Working Definition;3;Lab;7705019
+97603112;Raven, white-necked;Corvus albicollis;2020-03-13 17:00:45;2020-03-14 17:00:45 UTC;In Progress;1;MedPhenotype;5704332
+20242244;Chilean flamingo;Phoenicopterus chilensis;2021-03-06 20:19:00;2021-03-07 20:19:00 UTC;In Progress;3;Vital;6972218
+51832436;Brown capuchin;Cebus apella;2020-09-12 03:05:39;2020-09-13 03:05:39 UTC;In Progress;1;Vital;5810940
+41163147;Glider, squirrel;Petaurus norfolcensis;2020-06-20 08:39:27;2020-12-09 23:13:07;Validated Phenotype;3;Disease;6771273
+62901672;Dassie;Dendrohyrax brucel;2019-12-27 06:40:18;2021-01-21 08:58:33;Working Definition;2;Demograpic;7486506
+33538398;Teal, hottentot;Anas punctata;2020-09-24 08:25:03;2020-09-25 08:25:03 UTC;Validated Phenotype;3;LifeStyle_Envi;6869848
+89617978;Sable antelope;Hippotragus niger;2020-01-16 02:28:59;2020-10-06 10:46:19;Validated Phenotype;1;LifeStyle_Envi;9233431
+62768460;House crow;Corvus brachyrhynchos;2020-07-04 16:50:42;2021-01-03 00:43:54;Validated Phenotype;2;Disease;7630757
+72640118;Small-toothed palm civet;Arctogalidia trivirgata;2020-05-27 01:04:54;2020-05-28 01:04:54 UTC;Working Definition;2;LifeStyle_Envi;9326126
+83491616;Heron, green;Butorides striatus;2020-06-10 22:51:23;2021-01-11 19:27:27;Working Definition;3;MedPhenotype;7321661
+95608480;Screamer, southern;Chauna torquata;2020-06-03 04:00:06;2020-11-04 21:53:05;Validated Phenotype;1;Demograpic;9091539
+28673223;Eastern dwarf mongoose;Helogale undulata;2020-10-24 09:39:54;2020-12-19 03:29:06;Working Definition;3;LifeStyle_Envi;9298990
+2252740;Bird, secretary;Sagittarius serpentarius;2021-01-28 12:33:05;2021-01-29 12:33:05 UTC;Working Definition;1;MedPhenotype;8766743
+95696596;Butterfly, tropical buckeye;Junonia genoveua;2020-01-23 22:14:44;2020-08-28 03:49:45;In Progress;2;Lab;8577156
+63801682;Swamp deer;Cervus duvauceli;2021-03-10 21:29:22;2021-03-11 21:29:22 UTC;Working Definition;2;Procedure;7600656
+28709869;Weaver, red-billed buffalo;Bubalornis niger;2020-02-08 10:36:18;2020-02-09 10:36:18 UTC;Working Definition;2;LifeStyle_Envi;5759714
+27606998;Crested porcupine;Hystrix cristata;2020-06-08 08:38:30;2020-06-09 08:38:30 UTC;Validated Phenotype;3;Vital;9555981
+19492765;Huron;Galictis vittata;2020-10-14 01:25:08;2020-10-15 01:25:08 UTC;Validated Phenotype;2;Procedure;6127153
+75321301;Blue-footed booby;Sula nebouxii;2020-10-02 22:59:18;2021-02-16 14:56:40;In Progress;2;Vital;9624251
+21767408;Crowned eagle;Spizaetus coronatus;2019-10-21 04:07:21;2020-03-08 22:20:38;In Progress;1;Lab;9221825
+16867760;Downy woodpecker;Picoides pubescens;2020-11-07 12:35:35;2020-11-08 12:35:35 UTC;In Progress;2;Lab;9471756
+49300558;Ox, musk;Ovibos moschatus;2021-01-01 12:16:14;2021-01-02 12:16:14 UTC;Validated Phenotype;2;Demograpic;9427075
+80408696;Fox, pampa gray;Pseudalopex gymnocercus;2019-10-07 13:03:17;2020-12-08 02:50:07;Working Definition;1;Lab;6941019
+13738081;White-mantled colobus;Colobus guerza;2019-10-11 14:47:08;2020-10-21 14:48:35;Working Definition;2;Demograpic;7425386
+90833530;Cape fox;Vulpes chama;2021-02-03 14:02:20;2021-03-26 16:25:48;Working Definition;3;Disease;7007474
+81521360;White-eye, cape;Zosterops pallidus;2020-04-24 18:56:54;2020-05-16 10:51:27;In Progress;1;MedPhenotype;8559972
+37660647;Stilt, black-winged;Himantopus himantopus;2020-03-17 01:50:31;2021-03-11 21:10:31;In Progress;1;Demograpic;6709598
+3436156;Grey phalarope;Phalaropus fulicarius;2020-06-13 13:38:09;2020-06-14 13:38:09 UTC;In Progress;2;Disease;6431236
+7122716;Tree porcupine;Coendou prehensilis;2020-11-30 16:46:38;2020-12-01 16:46:38 UTC;In Progress;2;Lab;5787284
+34726900;Blue crane;Anthropoides paradisea;2020-08-20 02:08:10;2021-04-01 00:32:53;Working Definition;1;Lab;9076729
+26914011;Nighthawk, common;Chordeiles minor;2020-05-31 09:44:18;2020-06-01 09:44:18 UTC;Working Definition;2;Procedure;8193839
+85173758;Cockatoo, red-tailed;Calyptorhynchus magnificus;2020-04-24 10:44:47;2020-04-25 10:44:47 UTC;In Progress;3;Procedure;7630182
+49596396;Goose, canada;Branta canadensis;2020-07-26 15:36:25;2021-03-22 00:09:53;In Progress;3;Demograpic;9482316
+97724829;Hartebeest, coke's;Alcelaphus buselaphus cokii;2021-02-02 03:12:33;2021-02-03 03:12:33 UTC;Validated Phenotype;3;LifeStyle_Envi;6765583
+56631042;Cardinal, red-capped;Paroaria gularis;2019-09-24 06:41:26;2020-10-24 17:58:15;In Progress;1;MedPhenotype;7058481
+24415581;African red-eyed bulbul;Pycnonotus nigricans;2020-08-13 20:54:01;2020-08-31 00:24:23;In Progress;3;Vital;9816007
+75695762;Worm snake (unidentified);Carphophis sp.;2021-03-14 18:27:33;2021-03-15 18:27:33 UTC;Working Definition;3;Procedure;9295222
+6614114;Impala;Aepyceros mylampus;2021-02-14 01:06:32;2021-02-15 01:06:32 UTC;Working Definition;1;Lab;7510046
+84564444;Avocet, pied;Recurvirostra avosetta;2020-04-23 13:38:40;2020-04-24 13:38:40 UTC;Validated Phenotype;1;Vital;6448705
+78692988;Waxbill, blue;Uraeginthus angolensis;2020-06-05 08:10:27;2020-06-06 08:10:27 UTC;Working Definition;3;Procedure;5991686
+9273519;Silver-backed jackal;Canis mesomelas;2021-01-07 06:07:57;2021-01-08 06:07:57 UTC;In Progress;3;Vital;9602154
+6238011;Ring-tailed coatimundi;Nasua nasua;2020-07-21 08:26:21;2021-03-09 10:58:43;In Progress;2;Procedure;8583619
+87475316;Heron, little;Butorides striatus;2020-07-05 15:44:29;2021-01-06 15:10:16;In Progress;2;Vital;9713625
+67414573;Pintail, bahama;Anas bahamensis;2019-11-27 06:09:50;2020-03-15 05:01:36;In Progress;2;Demograpic;8496556
+99745741;Tortoise, burmese brown mountain;Manouria emys;2021-03-31 04:24:21;2021-04-01 04:24:21 UTC;Validated Phenotype;3;LifeStyle_Envi;7701809
+28720844;Dog, bush;Speothos vanaticus;2019-10-15 23:24:41;2020-10-31 07:37:04;In Progress;2;Disease;9888127
+86210422;White-throated toucan;Ramphastos tucanus;2020-01-11 14:00:25;2020-01-12 14:00:25 UTC;Working Definition;3;MedPhenotype;8133278
+76123278;Bald eagle;Haliaeetus leucocephalus;2019-12-14 19:37:32;2020-09-14 07:02:20;In Progress;1;Vital;6514990
+96082838;Hartebeest, red;Alcelaphus buselaphus caama;2020-03-26 13:50:48;2021-01-31 12:19:43;Validated Phenotype;3;MedPhenotype;7096759
+1525338;Pintail, bahama;Anas bahamensis;2020-03-26 11:21:38;2021-01-14 08:52:29;Validated Phenotype;2;Lab;9712525
+71617619;Oystercatcher, blackish;Haematopus ater;2020-07-23 01:34:08;2020-07-24 01:34:08 UTC;Validated Phenotype;2;LifeStyle_Envi;7692423
+84160892;Dusky rattlesnake;Crotalus triseriatus;2019-10-29 02:43:11;2020-06-21 08:18:27;Validated Phenotype;1;Vital;7606476
+68842882;Pintail, white-cheeked;Anas bahamensis;2020-11-15 11:36:28;2020-11-16 11:36:28 UTC;Validated Phenotype;3;Demograpic;7414946
+6985433;Yellow-billed hornbill;Tockus flavirostris;2020-08-02 15:07:06;2020-08-03 15:07:06 UTC;Working Definition;2;LifeStyle_Envi;6578037
+49073119;Crow, american;Corvus brachyrhynchos;2019-09-18 12:38:42;2020-05-28 04:23:29;Validated Phenotype;1;LifeStyle_Envi;5770785
+23675378;Cottonmouth;Agkistrodon piscivorus;2019-10-03 08:47:08;2020-07-11 02:48:58;Working Definition;2;Lab;7150126
+2067518;Wild boar;Sus scrofa;2019-10-16 13:47:08;2020-03-11 01:04:53;Working Definition;2;Disease;5933328
+52191327;Oystercatcher, blackish;Haematopus ater;2020-04-22 20:49:52;2020-07-08 18:47:00;In Progress;1;LifeStyle_Envi;6650479
+52252592;Galah;Eolophus roseicapillus;2020-09-23 13:10:50;2020-09-24 13:10:50 UTC;Validated Phenotype;1;LifeStyle_Envi;7815762
+94213981;Otter, brazilian;Pteronura brasiliensis;2020-11-24 15:20:29;2020-11-25 15:20:29 UTC;In Progress;1;Vital;6105538
+65590415;Wallaby, tammar;Macropus eugenii;2020-01-28 03:35:49;2020-08-09 08:38:59;Working Definition;3;Vital;5865967
+34215455;Rat, desert kangaroo;Dipodomys deserti;2019-09-23 00:55:37;2019-12-31 21:49:21;Working Definition;1;MedPhenotype;7691919
+40552101;Mongoose, eastern dwarf;Helogale undulata;2020-05-23 04:13:20;2021-03-30 16:13:02;Validated Phenotype;2;Disease;9599599
+62667364;Deer, roe;Capreolus capreolus;2021-02-13 21:16:55;2021-03-06 16:12:51;In Progress;2;Disease;8223541
+71027622;Lapwing, southern;Vanellus chilensis;2020-05-26 14:15:31;2020-06-22 15:11:17;Working Definition;3;Demograpic;9372226
+75884098;Oriental short-clawed otter;Aonyx cinerea;2020-07-17 08:35:23;2021-02-14 15:43:40;Validated Phenotype;2;Disease;7856267
+78840843;Deer, barasingha;Cervus duvauceli;2021-03-27 12:37:57;2021-03-28 12:37:57 UTC;In Progress;2;Lab;8083162
+33545177;Mudskipper (unidentified);unavailable;2020-09-29 18:27:21;2020-09-30 18:27:21 UTC;Validated Phenotype;2;Vital;8417467
+1513366;Black-throated cardinal;Paroaria gularis;2020-09-03 15:52:30;2020-11-12 08:09:39;Working Definition;2;LifeStyle_Envi;7386537
+99876461;Kaffir cat;Felis silvestris lybica;2020-12-13 12:29:51;2020-12-14 12:29:51 UTC;In Progress;3;LifeStyle_Envi;9965550
+89314216;Eastern boa constrictor;Acrantophis madagascariensis;2020-04-17 00:23:41;2020-05-20 11:21:55;In Progress;2;Procedure;9149304
+48982674;Galapagos mockingbird;Nesomimus trifasciatus;2020-01-20 03:41:18;2020-01-21 03:41:18 UTC;In Progress;1;Demograpic;6995183
+22019582;Weaver, sociable;Philetairus socius;2020-05-21 11:16:24;2020-10-01 04:09:00;Validated Phenotype;3;Demograpic;7058481
+49652250;Egyptian cobra;Naja haje;2020-10-03 10:27:13;2020-12-26 21:12:53;Working Definition;1;Demograpic;9420653
+90323651;Mudskipper (unidentified);unavailable;2020-09-20 09:03:52;2020-09-21 09:03:52 UTC;Validated Phenotype;3;Lab;5777191
+5122731;Asian openbill;Anastomus oscitans;2020-09-30 01:55:14;2021-01-21 15:57:40;Working Definition;3;Disease;5961644
+62653288;Snake, carpet;Morelia spilotes variegata;2019-11-23 12:34:11;2020-11-11 16:21:07;In Progress;3;LifeStyle_Envi;9555981
+49723140;Rose-ringed parakeet;Psittacula krameri;2021-02-05 18:29:19;2021-04-11 10:48:31;Working Definition;3;Vital;9127738
+97752836;Gull, lava;Larus fuliginosus;2021-01-27 10:52:16;2021-01-28 10:52:16 UTC;Working Definition;1;Lab;6593116
+99148785;Gaur;Bos frontalis;2020-05-15 14:36:42;2020-12-20 13:42:43;Working Definition;1;LifeStyle_Envi;9333492
+73381794;Owl, burrowing;Speotyte cuniculata;2020-03-05 08:39:31;2020-03-06 08:39:31 UTC;Validated Phenotype;1;Demograpic;9132978
+47059375;Magistrate black colobus;Colobus guerza;2020-08-08 00:19:12;2020-08-09 00:19:12 UTC;Validated Phenotype;2;Demograpic;6938086
+63386886;Agama lizard (unidentified);Agama sp.;2020-03-06 18:05:42;2020-05-09 13:48:04;Validated Phenotype;1;Lab;8742043
+68185284;Elegant crested tinamou;Eudromia elegans;2020-12-11 10:58:25;2021-02-04 10:57:22;Validated Phenotype;3;Disease;9638652
+5733905;Crane, brolga;Grus rubicundus;2020-11-07 04:05:31;2020-11-08 04:05:31 UTC;Validated Phenotype;1;MedPhenotype;6986710
+63591518;Quoll, eastern;Dasyurus viverrinus;2020-07-14 15:15:25;2021-04-06 19:12:16;Working Definition;2;LifeStyle_Envi;9248264
+45777016;Oriental short-clawed otter;Aonyx cinerea;2020-05-10 09:43:46;2020-08-25 09:44:11;Validated Phenotype;1;Disease;6218557
+56905519;Long-tailed spotted cat;Felis wiedi or Leopardus weidi;2020-10-05 14:05:38;2020-12-12 17:41:52;Working Definition;1;MedPhenotype;8109173
+70248928;Crowned hawk-eagle;Spizaetus coronatus;2019-11-06 20:05:46;2020-03-15 23:45:14;Working Definition;1;Vital;7035058
+5591139;Least chipmunk;Eutamias minimus;2020-10-23 02:58:51;2021-02-08 00:58:52;Working Definition;2;Vital;6480740
+34778941;Great horned owl;Bubo virginianus;2020-02-21 07:30:41;2020-09-03 13:42:43;Working Definition;3;Disease;9908067
+19468788;Langur, gray;Semnopithecus entellus;2021-01-27 00:54:46;2021-01-28 00:54:46 UTC;Validated Phenotype;1;LifeStyle_Envi;9949825
+98797541;Common mynah;Acridotheres tristis;2020-04-07 16:10:35;2020-07-08 21:10:18;In Progress;1;Disease;6146412
+49263868;Tortoise, asian foreset;Manouria emys;2020-07-10 22:06:57;2020-07-11 22:06:57 UTC;In Progress;2;Demograpic;7837724
+22080144;Squirrel, red;Tamiasciurus hudsonicus;2019-12-09 11:30:06;2020-09-18 05:09:39;In Progress;3;Vital;6584448
+28740086;Rhinoceros, black;Diceros bicornis;2021-01-12 15:24:51;2021-01-13 15:24:51 UTC;Working Definition;2;Lab;6930172
+42578714;Squirrel, uinta ground;Spermophilus armatus;2019-10-04 02:33:06;2019-11-25 12:59:50;Working Definition;1;Disease;9834930
+79366594;Greylag goose;Anser anser;2020-08-02 05:33:18;2020-09-03 23:44:03;Validated Phenotype;1;Procedure;7837230
+41750368;Canadian river otter;Lutra canadensis;2019-11-10 01:11:55;2020-12-20 08:50:39;In Progress;1;LifeStyle_Envi;7061634
+43888938;Cat, native;Dasyurus viverrinus;2020-02-05 03:53:12;2020-08-30 15:22:40;In Progress;3;LifeStyle_Envi;9677954
+57525161;Cat, kaffir;Felis silvestris lybica;2020-08-11 17:10:09;2020-08-12 17:10:09 UTC;Validated Phenotype;1;Disease;9885212
+69511056;Steller sea lion;Eumetopias jubatus;2020-02-07 18:07:59;2020-10-27 01:54:01;Validated Phenotype;1;MedPhenotype;8578441
+71922760;Galapagos dove;Zenaida galapagoensis;2020-10-19 05:05:51;2020-10-20 05:05:51 UTC;Working Definition;1;Lab;6744902
+7209116;Water legaan;Varanus salvator;2019-12-04 02:08:12;2020-01-31 05:31:56;In Progress;1;Vital;6150216
+46437382;Dove, galapagos;Zenaida galapagoensis;2019-10-26 19:19:24;2020-03-04 00:13:48;Validated Phenotype;2;LifeStyle_Envi;6830699
+39558574;Crane, blue;Anthropoides paradisea;2021-02-11 04:15:19;2021-02-12 04:15:19 UTC;Working Definition;3;MedPhenotype;7748935
+64967874;Crane, stanley;Anthropoides paradisea;2020-07-25 06:44:41;2020-07-26 06:44:41 UTC;In Progress;1;Lab;6142793
+43829472;Old world fruit bat (unidentified);unavailable;2019-11-26 10:44:27;2020-01-10 16:13:53;Working Definition;3;Lab;7433171
+16425057;Squirrel, thirteen-lined;Spermophilus tridecemlineatus;2019-11-28 00:24:53;2020-12-16 10:12:28;Validated Phenotype;2;Disease;8089547
+81841924;Small-toothed palm civet;Arctogalidia trivirgata;2020-08-18 08:00:17;2020-08-22 09:31:19;In Progress;1;Vital;9886121
+79790663;African skink;Mabuya spilogaster;2020-01-06 05:28:29;2020-04-05 05:45:35;In Progress;1;Vital;9504780
+39265766;Adouri (unidentified);unavailable;2020-07-19 05:55:46;2020-07-20 05:55:46 UTC;Working Definition;2;Vital;8479789
+83948955;Agouti;Dasyprocta leporina;2020-02-21 05:32:39;2020-10-24 16:23:44;Working Definition;3;Procedure;9528910
+41839121;Greater rhea;Rhea americana;2019-10-29 22:28:46;2019-10-30 22:28:46 UTC;In Progress;2;MedPhenotype;5639587
+10640696;Bush dog;Speothos vanaticus;2020-08-17 22:23:41;2020-08-18 22:23:41 UTC;In Progress;3;LifeStyle_Envi;7575639
+7172318;Spurfowl, yellow-necked;Francolinus leucoscepus;2020-04-15 20:52:58;2021-01-23 22:22:57;Working Definition;1;Demograpic;9504780
+47977030;White rhinoceros;Ceratotherium simum;2019-10-22 04:14:25;2020-02-07 16:11:31;In Progress;2;Procedure;7973042
+82479405;Purple grenadier;Uraeginthus granatina;2020-02-21 01:07:33;2020-06-21 12:34:54;In Progress;3;Procedure;7294220
+79169530;Cuis;Microcavia australis;2020-12-07 15:49:55;2020-12-08 15:49:55 UTC;In Progress;2;Procedure;7866790
+84850089;Whip-tailed wallaby;Macropus parryi;2021-03-16 05:32:35;2021-03-17 05:32:35 UTC;Working Definition;1;Vital;9060208
+30389531;Cat, toddy;Paradoxurus hermaphroditus;2020-12-24 05:09:38;2020-12-25 05:09:38 UTC;Validated Phenotype;3;Procedure;5770785
+18382874;Tortoise, radiated;Geochelone radiata;2021-03-01 18:42:51;2021-03-02 18:42:51 UTC;Working Definition;3;MedPhenotype;8686667
+39080071;Dama wallaby;Macropus eugenii;2020-02-15 07:33:08;2021-01-01 05:45:55;Validated Phenotype;1;Disease;6434673
+68950401;Lemur, sportive;Lepilemur rufescens;2021-04-11 09:18:30;2021-04-12 09:18:30 UTC;Working Definition;1;LifeStyle_Envi;9452504
+97232420;Hyena, brown;Hyaena brunnea;2020-04-26 10:18:10;2020-09-23 00:58:57;In Progress;2;Lab;7078637
+15967966;Worm snake (unidentified);Carphophis sp.;2020-08-10 17:26:30;2020-11-29 05:42:25;Working Definition;1;Vital;9274463
+27002870;Gecko, bent-toed;Cyrtodactylus louisiadensis;2020-04-29 07:10:49;2020-09-28 09:53:14;Working Definition;2;Lab;9200811
+64806735;Royal tern;Thalasseus maximus;2020-04-13 12:04:46;2020-11-13 01:01:12;Working Definition;2;Demograpic;5652238
+17795807;Common wallaroo;Macropus robustus;2021-04-10 17:30:41;2021-04-11 17:30:41 UTC;Working Definition;1;Vital;8578441
+45659756;Downy woodpecker;Picoides pubescens;2021-04-09 00:09:26;2021-04-10 00:09:26 UTC;Validated Phenotype;2;Demograpic;6534301
+91836258;Horned rattlesnake;Crotalus cerastes;2019-10-13 10:10:04;2021-01-08 09:15:29;In Progress;1;MedPhenotype;6697230
+69279476;Ornate rock dragon;Ctenophorus ornatus;2020-12-11 22:00:34;2020-12-12 22:00:34 UTC;Working Definition;1;Vital;7510046
+5441742;Common goldeneye;Bucephala clangula;2020-06-22 09:12:22;2020-11-17 04:56:53;Validated Phenotype;1;MedPhenotype;6273132
+99417788;Eagle, pallas's fish;Haliaeetus leucoryphus;2020-09-26 23:17:40;2021-04-14 03:27:26;Validated Phenotype;1;Vital;7413839
+91307919;King vulture;Sarcorhamphus papa;2020-04-11 06:05:03;2020-10-11 22:01:01;Working Definition;2;Procedure;6510665
+91205510;Vervet monkey;Cercopithecus aethiops;2020-07-14 16:44:13;2020-07-15 16:44:13 UTC;Working Definition;2;Vital;6170443
+80627300;Phascogale, brush-tailed;Phascogale tapoatafa;2019-09-27 11:58:28;2019-10-26 04:25:09;In Progress;3;Vital;9760819
+19539730;Dog, bush;Speothos vanaticus;2020-05-01 11:43:09;2020-09-30 14:35:40;Validated Phenotype;2;MedPhenotype;7854369
+11094538;Wapiti, elk,;Cervus canadensis;2020-07-16 08:09:31;2020-07-17 08:09:31 UTC;Validated Phenotype;2;Lab;8778981
+97626479;Golden brush-tailed possum;Trichosurus vulpecula;2021-02-06 18:53:13;2021-02-07 18:53:13 UTC;In Progress;1;LifeStyle_Envi;7687651
+64194024;Lesser mouse lemur;Microcebus murinus;2020-05-04 12:28:24;2020-05-05 12:28:24 UTC;In Progress;1;Procedure;9712525
+93398805;Monkey, black spider;Ateles paniscus;2019-10-19 03:35:48;2020-01-16 07:44:08;Validated Phenotype;2;Demograpic;5807430
+33442526;Wallaby, red-necked;Macropus rufogriseus;2020-09-12 00:53:00;2020-09-13 00:53:00 UTC;In Progress;3;Disease;6953387
+94834245;Siskin, pine;Carduelis pinus;2020-04-29 03:51:23;2020-08-08 13:09:40;In Progress;1;MedPhenotype;9788512
+23678844;Plover, blacksmith;Vanellus armatus;2020-11-02 04:44:54;2020-11-03 04:44:54 UTC;In Progress;3;Lab;7349635
+40130783;Indian leopard;Panthera pardus;2020-07-30 11:38:15;2020-07-31 11:38:15 UTC;In Progress;3;Disease;6146412
+30540821;Brazilian otter;Pteronura brasiliensis;2020-04-05 13:21:20;2021-03-07 05:44:39;Validated Phenotype;2;Disease;5608202
+79242054;Bobcat;Felis rufus;2020-05-13 02:47:24;2021-02-20 21:26:37;Validated Phenotype;2;LifeStyle_Envi;5851791
+38045566;Pronghorn;Antilocapra americana;2020-02-04 23:46:39;2021-01-14 00:20:44;Working Definition;2;Procedure;7848554
+23610582;Red-shouldered glossy starling;Lamprotornis nitens;2020-08-19 22:19:10;2021-02-08 00:28:07;Working Definition;1;MedPhenotype;6941901
+85595851;Vulture, black;Aegypius tracheliotus;2019-11-11 17:29:15;2020-12-28 05:10:37;Working Definition;2;Vital;5892719
+51114497;Vulture, egyptian;Neophron percnopterus;2020-10-02 23:21:27;2020-10-03 23:21:27 UTC;Validated Phenotype;3;MedPhenotype;8068631
+83795173;Common wombat;Vombatus ursinus;2021-02-25 07:19:22;2021-02-26 07:19:22 UTC;In Progress;3;Vital;5759714
+42041824;Gnu, brindled;Connochaetus taurinus;2020-12-12 06:04:09;2020-12-22 21:50:51;Validated Phenotype;3;Lab;5979432
+46581193;African bush squirrel;Paraxerus cepapi;2020-11-03 09:18:08;2020-11-04 09:18:08 UTC;Working Definition;1;LifeStyle_Envi;7032982
+35484798;Richardson's ground squirrel;Spermophilus richardsonii;2021-02-28 10:56:18;2021-04-03 19:16:26;Validated Phenotype;1;Procedure;6360022
+66222058;Crested bunting;Melophus lathami;2020-10-04 21:02:48;2020-10-05 21:02:48 UTC;Validated Phenotype;1;MedPhenotype;7853217
+95772550;Northern elephant seal;Mirounga angustirostris;2019-10-15 10:26:04;2019-10-16 10:26:04 UTC;Validated Phenotype;3;Lab;5652238
+72632964;Red brocket;Mazama americana;2020-08-23 18:57:38;2020-08-24 18:57:38 UTC;In Progress;2;Demograpic;9248264
+78493699;Black-throated cardinal;Paroaria gularis;2019-11-10 09:40:05;2020-05-25 21:18:41;Validated Phenotype;1;Vital;6408983
+5934699;Ass, asiatic wild;Equus hemionus;2019-10-15 04:16:00;2020-09-03 13:42:20;Validated Phenotype;3;Demograpic;6575705
+78656283;Tree porcupine;Coendou prehensilis;2019-12-10 18:30:57;2020-08-22 11:30:13;Working Definition;2;Lab;9620869
+43190706;Lizard, frilled;Chlamydosaurus kingii;2021-03-18 23:08:30;2021-03-19 23:08:30 UTC;In Progress;3;Vital;6255471
+54561417;Cat, european wild;Felis silvestris lybica;2020-04-29 04:05:24;2020-08-21 15:52:15;In Progress;3;Demograpic;9763390
+99766167;Jaguarundi;Felis yagouaroundi;2020-02-06 19:51:09;2020-02-12 10:24:58;In Progress;3;LifeStyle_Envi;8104746
+66975468;Giant armadillo;Priodontes maximus;2020-06-22 04:26:10;2021-03-25 04:27:50;Working Definition;3;Procedure;6932393
+81466141;White-fronted bee-eater;Merops bullockoides;2020-11-16 08:10:39;2020-11-17 08:10:39 UTC;Validated Phenotype;1;Vital;9949825
+82045910;Red-capped cardinal;Paroaria gularis;2019-10-17 08:37:22;2021-02-01 22:46:23;Validated Phenotype;1;MedPhenotype;9178219
+88126627;Giant anteater;Myrmecophaga tridactyla;2019-10-08 11:39:25;2021-04-07 00:31:55;In Progress;2;Procedure;7699720
+31971446;Mockingbird, galapagos;Nesomimus trifasciatus;2019-10-21 05:10:22;2020-09-19 01:08:03;In Progress;3;Demograpic;6304964
+7749556;Flamingo, greater;Phoenicopterus ruber;2019-12-08 09:33:46;2020-11-01 21:37:06;Working Definition;3;Lab;8612830
+98759780;Collared lizard;Crotaphytus collaris;2020-11-24 14:50:33;2020-11-25 14:50:33 UTC;Validated Phenotype;1;LifeStyle_Envi;7699720
+90832476;Stanley bustard;Neotis denhami;2020-06-12 17:47:48;2020-06-13 17:47:48 UTC;Validated Phenotype;3;LifeStyle_Envi;7472905
+45427966;Egret, great;Casmerodius albus;2021-01-21 10:36:27;2021-01-22 10:36:27 UTC;Validated Phenotype;3;MedPhenotype;6679100
+85262641;Caribou;Rangifer tarandus;2020-07-08 07:08:11;2021-04-01 18:50:48;Validated Phenotype;3;Vital;5887908
+64442326;Common pheasant;Phasianus colchicus;2020-02-04 07:05:50;2020-02-05 07:05:50 UTC;Working Definition;3;Demograpic;9621285
+66422021;Penguin, little blue;Eudyptula minor;2020-03-18 17:19:39;2020-03-19 17:19:39 UTC;Validated Phenotype;3;Disease;8577156
+51618793;Black and white colobus;Colobus guerza;2020-04-06 00:14:57;2020-04-07 00:14:57 UTC;Working Definition;3;Vital;9440846
+18992951;Penguin, magellanic;Spheniscus magellanicus;2020-05-28 04:46:03;2020-05-29 04:46:03 UTC;Validated Phenotype;1;Vital;7765408
+33149771;Woolly-necked stork;Ciconia episcopus;2019-12-31 07:19:25;2020-09-28 19:11:07;Validated Phenotype;3;Vital;5669894
+53608865;Bird, magnificent frigate;Fregata magnificans;2021-02-25 13:04:31;2021-02-26 13:04:31 UTC;Validated Phenotype;1;Procedure;8305047
+10883487;Common ringtail;Pseudocheirus peregrinus;2020-04-11 09:49:22;2021-02-09 21:52:32;Validated Phenotype;2;Disease;8766743
+99370248;Mouse, four-striped grass;Rhabdomys pumilio;2020-04-24 00:15:35;2021-02-26 06:05:59;Working Definition;2;Vital;7910320
+66120417;Common boubou shrike;Laniarius ferrugineus;2019-10-03 19:37:03;2019-11-20 11:17:32;Working Definition;3;Demograpic;9763833
+33942775;Capuchin, black-capped;Cebus apella;2021-04-02 22:24:38;2021-04-03 22:24:38 UTC;Working Definition;3;Lab;9232820
+50387514;Emu;Dromaeus novaehollandiae;2020-04-24 14:43:34;2020-04-25 14:43:34 UTC;Validated Phenotype;1;Demograpic;9419327
+6759504;Canada goose;Branta canadensis;2020-07-29 03:14:54;2020-07-30 03:14:54 UTC;In Progress;1;Demograpic;8597337
+97189872;Bulbul, black-fronted;Pycnonotus nigricans;2019-10-24 20:39:32;2020-03-09 01:21:17;In Progress;2;Disease;7720384
+54593541;Jungle kangaroo;Macropus agilis;2021-03-20 12:28:24;2021-03-21 12:28:24 UTC;Working Definition;3;MedPhenotype;7164010
+91692938;Deer, mule;Odocoileus hemionus;2020-08-19 19:22:35;2020-08-20 19:22:35 UTC;Validated Phenotype;1;Procedure;9707543
+33776684;Red-necked phalarope;Phalaropus lobatus;2020-09-10 08:28:39;2020-09-11 08:28:39 UTC;Validated Phenotype;1;Disease;6285456
+37161652;Violet-eared waxbill;Uraeginthus granatina;2021-01-20 15:54:22;2021-01-21 15:54:22 UTC;Working Definition;3;Lab;8603812
+61139509;Griffon vulture;Gyps fulvus;2019-10-31 03:43:49;2020-05-29 00:49:16;Validated Phenotype;3;Lab;7910320
+16372195;Pintail, bahama;Anas bahamensis;2020-06-02 03:09:05;2020-06-03 03:09:05 UTC;In Progress;1;Vital;7352545
+71593595;Black kite;Milvus migrans;2021-01-27 13:41:03;2021-02-19 15:23:08;Validated Phenotype;1;Lab;7514195
+24627736;Bennett's wallaby;Macropus rufogriseus;2021-03-15 09:30:00;2021-03-16 09:30:00 UTC;Working Definition;2;LifeStyle_Envi;6124265
+35739004;Meerkat;Suricata suricatta;2020-05-03 05:25:29;2020-08-25 01:30:30;Validated Phenotype;3;Demograpic;5610460
+62516022;Grouse, sage;Centrocercus urophasianus;2020-08-25 13:36:43;2020-08-26 13:36:43 UTC;Working Definition;2;Demograpic;5797755
+45243218;Black-cheeked waxbill;Estrilda erythronotos;2021-02-21 04:47:23;2021-02-22 04:47:23 UTC;Validated Phenotype;3;Demograpic;8984482
+2574238;Roller, lilac-breasted;Coracias caudata;2019-12-07 21:04:00;2019-12-08 21:04:00 UTC;In Progress;3;Demograpic;6963162
+85088386;Gazelle, thomson's;Gazella thompsonii;2020-02-09 08:00:44;2020-02-10 08:00:44 UTC;In Progress;2;Procedure;7701809
+8284399;Fox, savanna;Dusicyon thous;2020-07-21 19:24:22;2020-07-22 19:24:22 UTC;In Progress;1;Disease;9199629
+71372622;Tokay gecko;Gekko gecko;2019-11-02 02:18:51;2020-09-11 02:26:49;In Progress;2;MedPhenotype;9084552
+76954740;Common nighthawk;Chordeiles minor;2020-10-31 03:32:18;2020-11-01 03:32:18 UTC;Working Definition;1;LifeStyle_Envi;5559527
+96690657;Mongoose, eastern dwarf;Helogale undulata;2020-07-24 23:43:19;2020-11-26 21:36:12;Validated Phenotype;2;Vital;5765066
+13045904;Cockatoo, long-billed;Cacatua tenuirostris;2020-12-14 19:09:43;2020-12-15 19:09:43 UTC;In Progress;2;Demograpic;9091539
+73479520;Bird, secretary;Sagittarius serpentarius;2021-02-11 13:07:38;2021-02-12 13:07:38 UTC;In Progress;3;Disease;9638652
+71435639;Weaver, lesser masked;Ploceus intermedius;2020-10-23 05:46:38;2020-10-24 05:46:38 UTC;In Progress;3;Vital;8583619
+44666818;Sungazer, yellow-brown;Cordylus giganteus;2020-05-08 12:12:41;2020-05-09 12:12:41 UTC;In Progress;3;Demograpic;9274463
+22720730;Lourie, grey;Lorythaixoides concolor;2020-03-16 14:40:16;2020-09-24 17:32:14;Working Definition;2;Procedure;9073583
+74321777;Squirrel, palm;Funambulus pennati;2019-10-03 04:53:33;2020-10-23 10:05:03;In Progress;1;Lab;8816484
+30311492;Vine snake (unidentified);Oxybelis sp.;2020-08-05 23:24:38;2020-10-07 10:41:33;In Progress;2;MedPhenotype;7080444
+65052364;Rhinoceros, black;Diceros bicornis;2020-11-11 05:01:30;2021-04-15 01:08:59;In Progress;2;MedPhenotype;7970232
+47958845;Brown and yellow marshbird;Pseudoleistes virescens;2021-03-19 07:33:46;2021-03-20 07:33:46 UTC;In Progress;1;MedPhenotype;6646257
+7865729;Seven-banded armadillo;Dasypus septemcincus;2020-10-07 03:43:02;2020-10-08 03:43:02 UTC;Validated Phenotype;3;Demograpic;9041575
+87728664;Tasmanian devil;Sarcophilus harrisii;2020-07-11 07:42:33;2020-07-12 07:42:33 UTC;In Progress;3;MedPhenotype;9852751
+2522683;Langur, hanuman;Semnopithecus entellus;2020-07-31 05:09:14;2020-11-29 22:01:41;Validated Phenotype;2;LifeStyle_Envi;8630095
+42891006;Brush-tailed rat kangaroo;Bettongia penicillata;2020-07-05 23:17:51;2021-02-22 13:19:07;In Progress;3;MedPhenotype;5608202
+47594046;Dragon, frilled;Chlamydosaurus kingii;2020-07-21 02:32:24;2020-08-15 14:03:53;Validated Phenotype;2;Vital;6359277
+35298223;Jackal, asiatic;Canis aureus;2021-01-03 19:53:41;2021-01-04 19:53:41 UTC;Working Definition;2;Demograpic;7454413
+81472411;Brocket, red;Mazama americana;2020-07-05 00:27:35;2021-02-03 02:54:29;Working Definition;3;Demograpic;5759714
+12885505;Short-nosed bandicoot;Isoodon obesulus;2020-11-07 00:13:37;2020-11-08 00:13:37 UTC;Validated Phenotype;1;Vital;9580843
+59477434;Zebra, plains;Equus burchelli;2020-10-10 14:18:23;2021-02-26 04:09:28;Working Definition;2;MedPhenotype;6744977
+83068074;Osprey;Pandon haliaetus;2019-11-03 03:50:15;2020-03-19 14:44:46;Working Definition;1;Procedure;6930172
+20304031;Black-eyed bulbul;Pycnonotus barbatus;2019-11-15 08:12:46;2021-02-16 03:09:18;In Progress;2;Disease;9677954
+37181434;Otter, oriental short-clawed;Aonyx cinerea;2019-12-27 08:00:43;2020-07-10 02:18:26;In Progress;1;Lab;5769878
+9781898;Wambenger, red-tailed;Phascogale calura;2019-09-19 01:24:25;2021-01-19 11:08:07;In Progress;3;Vital;5974807
+86537422;Sandgrouse, yellow-throated;Pterocles gutturalis;2020-06-05 12:33:16;2020-12-07 22:45:25;Validated Phenotype;3;MedPhenotype;9386356
+92012038;Lemur, grey mouse;Microcebus murinus;2020-08-31 13:42:55;2020-11-26 15:23:01;Validated Phenotype;2;Lab;6272638
+28061888;Magpie, australian;Gymnorhina tibicen;2019-12-06 01:46:51;2020-07-03 07:39:26;In Progress;1;LifeStyle_Envi;7352545
+86043632;Robin, white-throated;Irania gutteralis;2020-09-10 20:46:20;2020-09-11 20:46:20 UTC;In Progress;2;Procedure;5892719
+44033163;Dog, african wild;Lycaon pictus;2020-04-01 21:35:25;2020-04-02 21:35:25 UTC;Validated Phenotype;2;Disease;8181348
+4578613;North American red fox;Vulpes vulpes;2019-12-26 20:35:09;2020-12-20 09:49:54;Working Definition;3;Demograpic;5830056
+15888089;Skunk, striped;Mephitis mephitis;2020-07-05 15:49:39;2020-07-06 15:49:39 UTC;Validated Phenotype;2;Lab;6708229
+77167969;Caracara (unidentified);unavailable;2020-04-20 03:16:57;2020-11-04 08:01:41;Validated Phenotype;3;Disease;8122460
+83856149;Four-horned antelope;Tetracerus quadricornis;2020-11-19 07:45:34;2020-11-20 07:45:34 UTC;In Progress;3;Lab;6142086
+31634115;Wolf, timber;Canis lupus lycaon;2020-07-10 17:11:32;2021-03-24 10:39:49;Validated Phenotype;2;Demograpic;5766602
+36407870;Whale, long-finned pilot;Globicephala melas;2020-05-28 08:04:21;2020-09-29 00:22:13;In Progress;2;Demograpic;9355008
+95814432;Long-necked turtle;Chelodina longicollis;2020-06-17 01:58:53;2020-06-18 01:58:53 UTC;In Progress;2;Demograpic;7590194
+67780129;Eurasian beaver;Castor fiber;2020-11-21 16:34:15;2020-11-22 16:34:15 UTC;Validated Phenotype;3;LifeStyle_Envi;7699538
+75590355;Beaver, north american;Castor canadensis;2020-07-29 10:58:35;2021-03-28 23:50:08;In Progress;2;Procedure;8186672
+67172629;Crane, wattled;Bugeranus caruncalatus;2021-03-11 21:40:16;2021-03-12 21:40:16 UTC;Validated Phenotype;2;MedPhenotype;9886121
+84231762;Radiated tortoise;Geochelone radiata;2019-10-17 07:57:00;2021-02-22 16:24:37;In Progress;2;LifeStyle_Envi;7622301
+12954255;Mexican wolf;Canis lupus baileyi;2019-12-13 20:35:27;2020-10-21 10:12:19;Working Definition;2;Demograpic;7111080
+87546643;Kelp gull;Larus dominicanus;2020-01-29 11:27:41;2020-02-11 11:38:45;In Progress;2;Demograpic;8640108
+86627811;Numbat;Myrmecobius fasciatus;2020-08-26 13:09:44;2020-08-27 13:09:44 UTC;Validated Phenotype;1;Lab;9274463
+81272952;Otter, african clawless;Aonyx capensis;2020-02-22 09:25:43;2020-02-23 09:25:43 UTC;In Progress;3;MedPhenotype;6066616
+2311835;Western spotted skunk;Spilogale gracilis;2019-10-31 23:51:40;2020-01-26 07:32:03;Validated Phenotype;2;Vital;9073583
+80456143;Native cat;Dasyurus viverrinus;2020-08-27 05:08:59;2020-09-26 13:48:02;Working Definition;1;Demograpic;8189263
+25697005;Black-capped capuchin;Cebus apella;2020-01-21 12:12:10;2020-03-28 06:05:27;Validated Phenotype;3;Disease;5797755
+13247746;Oryx, fringe-eared;Oryx gazella callotis;2020-12-09 02:59:20;2020-12-10 02:59:20 UTC;Working Definition;2;MedPhenotype;9298229
+26660137;Gray langur;Semnopithecus entellus;2020-03-11 11:05:18;2020-03-12 11:05:18 UTC;Working Definition;2;Procedure;7691919
+24262293;Bunting, crested;Melophus lathami;2020-12-21 11:45:51;2021-04-20 03:00:38;Working Definition;2;Lab;9555781
+23398755;Aardwolf;Proteles cristatus;2020-12-28 15:09:42;2020-12-29 15:09:42 UTC;Working Definition;2;LifeStyle_Envi;7334345
+38974362;Hawk, galapagos;Buteo galapagoensis;2020-05-10 11:30:56;2020-05-11 11:30:56 UTC;Working Definition;1;LifeStyle_Envi;8682440
+18926850;Cape cobra;Naja nivea;2020-08-31 01:34:16;2020-09-01 01:34:16 UTC;Working Definition;3;Disease;7454873
+41769046;Tasmanian devil;Sarcophilus harrisii;2020-11-25 22:07:44;2020-11-26 22:07:44 UTC;Working Definition;2;Demograpic;7868167
+11157900;Macaw, blue and gold;Ara ararauna;2019-10-05 01:42:21;2020-11-03 20:43:25;In Progress;2;Procedure;8690016
+76424446;Gull, lava;Larus fuliginosus;2019-10-27 23:18:15;2019-11-22 10:03:46;In Progress;1;LifeStyle_Envi;6663379
+33760509;Dik, kirk's dik;Madoqua kirkii;2020-07-19 02:25:35;2020-11-20 18:51:56;In Progress;1;Demograpic;6183380
+69466842;Hoopoe, eurasian;Upupa epops;2021-01-22 18:24:51;2021-01-23 18:24:51 UTC;Working Definition;3;Lab;5632418
+22026295;Heron, green-backed;Butorides striatus;2020-07-28 20:08:57;2020-07-29 20:08:57 UTC;Working Definition;2;Procedure;7404027
+78300811;Kafue flats lechwe;Kobus leche robertsi;2020-07-17 06:19:26;2021-03-02 10:27:11;Working Definition;2;Procedure;9232820
+25560936;Oriental short-clawed otter;Aonyx cinerea;2021-03-18 21:18:47;2021-03-19 21:18:47 UTC;Working Definition;2;Demograpic;9014371
+49781839;Flicker, field;Colaptes campestroides;2019-11-19 13:16:12;2020-11-09 05:01:26;Validated Phenotype;3;Disease;6983081
+58500129;Otter, african clawless;Aonyx capensis;2020-04-03 05:21:36;2020-04-04 05:21:36 UTC;In Progress;1;Vital;9602154
+87471822;Fox, crab-eating;Dusicyon thous;2020-05-22 09:04:54;2020-06-29 04:36:51;Working Definition;3;Procedure;6437491
+6917526;Fairy penguin;Eudyptula minor;2020-09-19 13:28:07;2020-12-13 09:00:52;Validated Phenotype;2;Disease;8984482
+87833372;Arboral spiny rat;Echimys chrysurus;2020-07-10 04:26:53;2020-07-11 04:26:53 UTC;In Progress;3;Disease;7511357
+25126957;Ovenbird;Seiurus aurocapillus;2021-02-15 15:53:45;2021-02-16 15:53:45 UTC;In Progress;3;Lab;7571342
+74870866;Wallaby, tammar;Macropus eugenii;2020-09-22 10:31:53;2020-12-20 08:45:59;Working Definition;2;MedPhenotype;9014371
+70340492;Tiger snake;Notechis semmiannulatus;2021-02-05 17:58:17;2021-04-04 23:10:17;Working Definition;2;Vital;6167571
+40193968;Ornate rock dragon;Ctenophorus ornatus;2020-10-06 11:28:21;2020-10-07 11:28:21 UTC;Working Definition;3;Lab;7404027
+21553493;Nubian bee-eater;Merops nubicus;2020-08-15 11:05:58;2020-08-16 11:05:58 UTC;Validated Phenotype;3;Lab;8612830
+82569441;Fox, grey;Vulpes cinereoargenteus;2020-01-28 17:08:30;2021-02-27 02:22:25;In Progress;1;Vital;9157724
+57151335;Common boubou shrike;Laniarius ferrugineus;2020-06-29 20:03:15;2020-06-30 20:03:15 UTC;Validated Phenotype;1;LifeStyle_Envi;6153209
+51893856;Jackal, golden;Canis aureus;2021-01-13 18:21:00;2021-01-14 18:21:00 UTC;In Progress;1;Procedure;7810237
+97100516;Black swan;Cygnus atratus;2021-03-10 21:38:06;2021-03-11 21:38:06 UTC;Working Definition;1;Vital;6986208
+11033944;Four-horned antelope;Tetracerus quadricornis;2021-03-10 18:53:57;2021-03-15 16:39:06;In Progress;2;MedPhenotype;6437491
+35770425;Blackish oystercatcher;Haematopus ater;2020-09-12 04:04:55;2021-02-17 16:02:39;Validated Phenotype;1;Vital;7926112
+39429532;Two-toed tree sloth;Choloepus hoffmani;2020-04-29 00:45:33;2020-08-11 03:14:50;Validated Phenotype;2;Demograpic;7472905
+36609593;Lemur, ring-tailed;Lemur catta;2020-12-21 12:42:23;2021-03-02 17:43:40;In Progress;1;Lab;8755893
+76824063;Ibis, puna;Plegadis ridgwayi;2020-06-12 10:02:10;2020-06-13 10:02:10 UTC;In Progress;3;LifeStyle_Envi;9143267
+17808084;Vulture, lappet-faced;Aegypius tracheliotus;2020-09-30 15:56:52;2020-10-01 15:56:52 UTC;In Progress;2;Lab;8552767
+23202618;Beaver, eurasian;Castor fiber;2020-05-03 04:43:42;2020-07-09 23:54:17;In Progress;3;Procedure;8251517
+64677045;Cattle egret;Bubulcus ibis;2021-04-18 08:16:38;2021-04-19 08:16:38 UTC;Working Definition;1;Vital;7681358
+87000576;American marten;Martes americana;2021-01-19 03:18:58;2021-01-20 03:18:58 UTC;In Progress;1;Disease;8210158
+20158802;Chipmunk, least;Eutamias minimus;2020-07-18 10:28:59;2020-08-22 18:40:47;Validated Phenotype;1;MedPhenotype;8957763
+44480195;Fox, blue;Alopex lagopus;2020-05-14 20:21:00;2020-05-15 20:21:00 UTC;Validated Phenotype;3;MedPhenotype;6429797
+95119431;Chuckwalla;Sauromalus obesus;2020-10-31 05:01:17;2021-03-30 17:49:00;Working Definition;3;Vital;9525279
+84700501;Eurasian hoopoe;Upupa epops;2019-12-18 12:16:30;2020-05-26 22:25:17;Validated Phenotype;2;Demograpic;7825928
+72980286;Catfish, blue;Ictalurus furcatus;2020-01-06 12:05:40;2020-08-26 09:14:46;In Progress;1;Vital;9180811
+21610224;Starling, greater blue-eared;Lamprotornis chalybaeus;2020-05-27 10:15:10;2020-10-30 03:46:26;Working Definition;2;LifeStyle_Envi;9459592
+86055965;Brown capuchin;Cebus apella;2020-10-04 22:05:49;2020-10-05 22:05:49 UTC;Validated Phenotype;1;Procedure;9971668
+65580274;Roseate cockatoo;Eolophus roseicapillus;2021-01-19 19:53:47;2021-01-20 19:53:47 UTC;In Progress;2;Demograpic;9531344
+79755779;Goose, egyptian;Alopochen aegyptiacus;2020-01-05 22:15:48;2020-03-12 04:27:31;Validated Phenotype;2;Lab;9136337
+9708850;Crab (unidentified);unavailable;2021-04-06 19:45:04;2021-04-07 19:45:04 UTC;Validated Phenotype;1;Procedure;5780463
+27550183;Lion, steller's sea;Eumetopias jubatus;2021-03-26 02:08:06;2021-03-27 02:08:06 UTC;In Progress;3;Demograpic;6534301
+16449714;African skink;Mabuya spilogaster;2021-01-16 07:13:18;2021-01-17 07:13:18 UTC;Working Definition;1;Procedure;9062475
+39209288;Nyala;Tragelaphus angasi;2019-12-26 14:32:14;2020-03-26 23:27:28;In Progress;1;Vital;9763390
+8594645;Scottish highland cow;Bos taurus;2019-12-15 06:43:17;2019-12-20 09:09:08;In Progress;3;Procedure;6480740
+65290635;Onager;Equus hemionus;2020-10-07 02:34:22;2020-10-08 02:34:22 UTC;Validated Phenotype;2;Procedure;5886053
+1575900;Yellow-throated sandgrouse;Pterocles gutturalis;2020-11-16 17:55:00;2020-11-17 17:55:00 UTC;Working Definition;1;LifeStyle_Envi;7111787
+11155524;Flicker, field;Colaptes campestroides;2020-09-01 08:05:38;2020-09-02 08:05:38 UTC;Validated Phenotype;3;MedPhenotype;6183380
+8126260;Common wallaroo;Macropus robustus;2020-03-15 10:47:56;2020-05-26 05:27:17;In Progress;3;Disease;9451009
+83578758;Nilgai;Boselaphus tragocamelus;2020-11-17 21:28:16;2020-12-20 15:48:49;In Progress;1;Procedure;6055285
+30699419;Turtle (unidentified);unavailable;2020-10-31 13:37:29;2020-11-01 13:37:29 UTC;Working Definition;1;MedPhenotype;9084552
+11553763;Rhinoceros, square-lipped;Ceratotherium simum;2019-12-07 09:35:11;2019-12-08 09:35:11 UTC;Working Definition;1;Vital;9180811
+90462014;Monkey, red howler;Alouatta seniculus;2021-02-23 13:11:22;2021-02-24 13:11:22 UTC;Validated Phenotype;3;Procedure;5933328
+3372670;Gecko, ring-tailed;Cyrtodactylus louisiadensis;2020-07-30 16:43:25;2020-07-31 16:43:25 UTC;In Progress;1;Disease;6032619
+15299111;Blue and yellow macaw;Ara ararauna;2020-02-27 08:16:43;2021-03-09 08:23:49;Working Definition;1;Disease;5613313
+61343700;Asian water buffalo;Bubalus arnee;2021-03-01 09:23:17;2021-03-02 09:23:17 UTC;In Progress;2;LifeStyle_Envi;9720495
+37778872;Badger, european;Meles meles;2020-08-21 16:42:17;2020-08-22 16:42:17 UTC;Working Definition;1;MedPhenotype;6272886
+93787661;Squirrel, eastern fox;Sciurus niger;2020-03-05 16:53:32;2020-07-04 10:44:53;In Progress;2;Disease;8663436
+59984871;Mexican wolf;Canis lupus baileyi;2021-01-30 23:14:18;2021-03-17 08:18:46;Validated Phenotype;2;Disease;7096759
+81625485;Urial;Ovis orientalis;2021-02-19 21:58:57;2021-02-20 21:58:57 UTC;In Progress;2;Lab;6448705
+83260880;Tarantula, salmon pink bird eater;Lasiodora parahybana;2020-10-08 14:48:47;2021-02-11 04:32:34;In Progress;3;MedPhenotype;5797755
+27567365;Large cormorant;Phalacrocorax carbo;2020-12-30 17:19:44;2020-12-31 17:19:44 UTC;Working Definition;3;Vital;9430422
+23554844;Gorilla, western lowland;Gorilla gorilla;2020-07-10 11:22:38;2020-10-12 21:18:42;Working Definition;3;Procedure;6527028
+67645201;Seal, harbor;Phoca vitulina;2021-02-25 16:03:10;2021-02-26 16:03:10 UTC;Validated Phenotype;2;Vital;9203140
+62948921;Civet (unidentified);unavailable;2020-09-05 18:27:45;2020-09-06 18:27:45 UTC;Validated Phenotype;3;Demograpic;7234625
+47745584;American black bear;Ursus americanus;2020-07-21 16:36:00;2020-11-28 10:59:50;Working Definition;1;MedPhenotype;8549441
+38203442;Giraffe;Giraffe camelopardalis;2020-08-03 16:26:01;2020-10-14 01:23:47;Validated Phenotype;3;Disease;9180811
+5013545;Grey mouse lemur;Microcebus murinus;2020-04-12 14:36:58;2020-05-31 15:42:51;Validated Phenotype;1;Disease;9826497
+16720935;Rainbow lory;Trichoglossus haematodus moluccanus;2021-03-23 17:11:28;2021-03-24 17:11:28 UTC;Working Definition;1;LifeStyle_Envi;8254258
+10665011;Eagle, white-bellied sea;Haliaetus leucogaster;2021-02-24 01:39:15;2021-02-25 01:39:15 UTC;In Progress;2;Disease;5772582
+68172205;Musk ox;Ovibos moschatus;2019-12-08 04:33:02;2020-01-18 13:13:35;In Progress;1;Procedure;7853217
+80644778;Legaan, Monitor (unidentified);Varanus sp.;2020-03-15 02:51:00;2020-10-29 21:00:23;Validated Phenotype;1;Demograpic;9321383
+17260126;Kangaroo, red;Macropus rufus;2019-12-31 15:41:07;2020-06-20 20:41:55;In Progress;2;Lab;7450522
+95090287;Black kite;Milvus migrans;2019-09-30 03:05:20;2020-03-02 19:14:57;In Progress;1;Vital;6582646
+57642901;Pied crow;Corvus albus;2021-04-16 16:53:03;2021-04-17 16:53:03 UTC;Validated Phenotype;1;Demograpic;7109850
+99447307;Kangaroo, western grey;Macropus fuliginosus;2021-01-07 23:59:18;2021-01-08 23:59:18 UTC;Working Definition;1;Demograpic;8272792
+97444364;Sockeye salmon;Oncorhynchus nerka;2021-02-18 10:09:43;2021-02-19 10:09:43 UTC;Validated Phenotype;1;Procedure;5892719
+57420166;Asian openbill;Anastomus oscitans;2020-03-31 17:46:37;2021-04-17 01:48:24;In Progress;3;Disease;9707543
+51135223;Downy woodpecker;Picoides pubescens;2020-12-11 13:50:26;2021-03-30 10:27:06;Validated Phenotype;1;MedPhenotype;8148845
+55421120;Viper, egyptian;Naja haje;2020-02-01 05:46:55;2021-02-26 12:00:48;Working Definition;2;LifeStyle_Envi;5603614
+59000024;Palm squirrel;Funambulus pennati;2021-03-04 16:41:04;2021-04-14 20:22:53;In Progress;1;MedPhenotype;7765537
+62655042;Black-throated butcher bird;Cracticus nigroagularis;2020-12-16 15:28:40;2020-12-17 15:28:40 UTC;Validated Phenotype;1;Disease;9333492
+55366895;Prairie falcon;Falco mexicanus;2020-01-25 13:10:32;2020-01-26 13:10:32 UTC;In Progress;1;Lab;5851791
+26795020;Eagle, pallas's fish;Haliaeetus leucoryphus;2019-12-25 10:28:21;2021-04-13 09:07:31;Working Definition;3;Demograpic;6166646
+88527969;Blue-footed booby;Sula nebouxii;2019-11-20 06:33:53;2020-07-30 05:35:51;Working Definition;2;Lab;9654133
+93129214;Glossy starling (unidentified);Lamprotornis sp.;2020-05-10 08:02:04;2020-05-11 08:02:04 UTC;In Progress;1;Vital;7067905
+14853137;Eland, common;Taurotagus oryx;2021-04-01 13:37:54;2021-04-02 13:37:54 UTC;In Progress;3;LifeStyle_Envi;5669894
+43006844;Pelican, australian;Pelecanus conspicillatus;2020-07-28 02:55:06;2020-11-16 14:03:35;Validated Phenotype;1;MedPhenotype;5884392
+71138349;African bush squirrel;Paraxerus cepapi;2019-11-03 12:11:08;2020-09-13 10:24:03;Validated Phenotype;2;Demograpic;7750396
+73191115;Nelson ground squirrel;Ammospermophilus nelsoni;2020-05-03 11:34:09;2020-12-28 17:46:06;Working Definition;3;Lab;8539415
+70662917;African fish eagle;Haliaetus vocifer;2020-02-02 20:51:25;2020-03-23 04:00:58;Validated Phenotype;1;MedPhenotype;8108075
+40124658;Stanley bustard;Neotis denhami;2020-05-24 22:13:05;2020-05-25 22:13:05 UTC;Validated Phenotype;3;MedPhenotype;9329384
+93904753;Snake, tiger;Notechis semmiannulatus;2020-03-18 20:28:56;2021-02-24 15:53:13;In Progress;3;Lab;7127620
+46094483;Robin, white-throated;Irania gutteralis;2020-03-15 14:59:49;2021-03-30 10:17:36;In Progress;1;Vital;9333492
+37570516;Goanna lizard;Varanus sp.;2020-11-08 12:02:22;2021-01-24 06:38:24;Validated Phenotype;3;MedPhenotype;7718722
+46249516;Mountain goat;Oreamnos americanus;2020-04-28 12:56:09;2020-10-16 01:26:07;Working Definition;1;Demograpic;8616416
+84271689;Sun gazer;Cordylus giganteus;2020-04-24 08:54:28;2020-12-04 04:10:20;In Progress;1;Demograpic;8906669
+91090588;Silver gull;Larus novaehollandiae;2021-01-03 11:33:05;2021-01-04 11:33:05 UTC;Working Definition;3;Procedure;6503730
+94767093;Moose;Alces alces;2020-06-24 02:13:42;2021-01-02 23:04:30;In Progress;2;LifeStyle_Envi;7259131
+36615881;Silver gull;Larus novaehollandiae;2020-04-01 03:45:46;2020-11-14 09:31:38;In Progress;3;Lab;7019938
+59821672;Southern lapwing;Vanellus chilensis;2020-01-08 20:14:35;2020-01-09 20:14:35 UTC;Validated Phenotype;1;Demograpic;8109173
+33617192;American buffalo;Bison bison;2020-09-21 18:33:42;2020-09-22 18:33:42 UTC;Working Definition;2;Vital;7673986
+80609190;North American porcupine;Erethizon dorsatum;2020-09-02 03:54:34;2021-03-19 02:10:10;In Progress;3;LifeStyle_Envi;7585590
+64095666;Red-tailed hawk;Buteo jamaicensis;2020-07-07 06:31:52;2020-07-08 06:31:52 UTC;Working Definition;2;LifeStyle_Envi;6235111
+97646915;Darwin ground finch (unidentified);Geospiza sp.;2020-06-26 22:55:40;2020-06-27 22:55:40 UTC;Working Definition;1;LifeStyle_Envi;7639475
+45220707;Black spider monkey;Ateles paniscus;2020-06-15 02:27:38;2020-10-21 21:12:05;Working Definition;3;Lab;6938086
+90489166;Stork, painted;Mycteria leucocephala;2019-10-26 11:27:36;2020-01-01 00:20:26;In Progress;2;MedPhenotype;6166646
+80760247;Tawny eagle;Anitibyx armatus;2019-11-28 10:30:32;2020-12-17 18:45:23;Working Definition;1;Vital;9788401
+7412763;Kangaroo, red;Macropus rufus;2020-11-17 10:31:00;2020-11-18 10:31:00 UTC;In Progress;3;MedPhenotype;6207064
+68401935;Helmeted guinea fowl;Numida meleagris;2020-02-02 00:28:28;2020-02-12 21:10:03;In Progress;1;MedPhenotype;6129653
+43990753;Egyptian viper;Naja haje;2020-05-05 18:09:03;2020-08-25 03:55:25;Working Definition;3;Demograpic;6771273
+47404878;Red phalarope;Phalaropus fulicarius;2021-01-16 22:25:53;2021-01-19 06:50:15;Working Definition;1;Disease;7788442
+66960027;Lion, california sea;Zalophus californicus;2021-02-19 17:13:16;2021-02-20 17:13:16 UTC;Validated Phenotype;1;Vital;9747373
+56047243;Butterfly (unidentified);unavailable;2019-09-18 03:56:49;2020-03-18 10:15:08;In Progress;2;LifeStyle_Envi;6744902
+50670598;Antelope, four-horned;Tetracerus quadricornis;2020-08-08 11:43:10;2021-03-05 07:40:47;Working Definition;1;Vital;6709598
+33924088;Lion, california sea;Zalophus californicus;2020-08-06 16:14:33;2021-01-02 23:04:50;Working Definition;1;Procedure;9471756
+1646716;Lapwing, southern;Vanellus chilensis;2020-05-10 16:49:42;2020-07-29 15:36:01;In Progress;1;LifeStyle_Envi;7325575
+89033300;White-tailed jackrabbit;Lepus townsendii;2020-07-30 00:26:14;2020-07-31 00:26:14 UTC;Working Definition;3;Vital;9721744
+64185484;Hawk-eagle, crowned;Spizaetus coronatus;2019-10-11 22:04:01;2021-01-11 17:33:13;Working Definition;2;Vital;7880496
+23200151;Marine iguana;Amblyrhynchus cristatus;2020-08-11 02:43:54;2020-08-12 02:43:54 UTC;Working Definition;1;Disease;6121158
+62751589;American alligator;Alligator mississippiensis;2020-03-10 07:39:24;2020-03-11 07:39:24 UTC;In Progress;1;Demograpic;7061634
+19087997;Jabiru stork;Ephippiorhynchus mycteria;2020-07-15 22:53:54;2021-02-16 23:45:13;In Progress;2;Demograpic;7626397
+99169723;Devil, tasmanian;Sarcophilus harrisii;2020-10-13 10:30:21;2020-10-14 10:30:21 UTC;Validated Phenotype;1;Lab;7688082
+14912435;Lizard, frilled;Chlamydosaurus kingii;2020-09-27 18:09:03;2020-09-28 18:09:03 UTC;Working Definition;2;Disease;8698341
+62981302;Little grebe;Tachybaptus ruficollis;2020-09-03 22:07:22;2020-09-04 22:07:22 UTC;Working Definition;2;Demograpic;6503730
+25528714;Golden eagle;Aquila chrysaetos;2020-04-18 12:50:47;2020-07-19 03:10:07;In Progress;1;LifeStyle_Envi;6514990
+93039468;Ground monitor (unidentified);Varanus sp.;2019-10-30 04:58:24;2019-11-20 17:46:54;In Progress;3;LifeStyle_Envi;9459081
+67309785;Red-billed toucan;Ramphastos tucanus;2021-04-11 22:57:38;2021-04-12 22:57:38 UTC;Validated Phenotype;3;Procedure;6836169
+96735215;Squirrel, antelope ground;Ammospermophilus nelsoni;2020-06-07 05:06:33;2021-02-04 17:24:39;In Progress;3;Procedure;7970632
+52974640;Glider, feathertail;Acrobates pygmaeus;2020-03-18 16:10:53;2020-10-11 10:18:49;Validated Phenotype;3;Demograpic;7171944
+62091660;Brown and yellow marshbird;Pseudoleistes virescens;2019-10-30 17:49:06;2021-01-08 01:54:50;Validated Phenotype;1;Vital;9132978
+37762229;Great white pelican;Pelecans onocratalus;2020-08-15 03:06:45;2020-08-16 03:06:45 UTC;Working Definition;1;Vital;5632418
+26735723;Butterfly, canadian tiger swallowtail;Papilio canadensis;2020-12-07 16:16:28;2021-03-19 04:35:47;Validated Phenotype;1;Disease;8432182
+15012367;Tokay gecko;Gekko gecko;2020-05-31 09:52:54;2020-06-01 09:52:54 UTC;In Progress;1;Demograpic;6155580
+40334488;Ground monitor (unidentified);Varanus sp.;2020-01-28 17:29:26;2020-02-26 21:12:55;Validated Phenotype;2;Demograpic;9570638
+12629399;White-nosed coatimundi;Nasua narica;2021-03-06 17:46:24;2021-03-07 17:46:24 UTC;In Progress;3;Lab;5639587
+39482790;Cockatoo, long-billed;Cacatua tenuirostris;2020-10-22 18:08:13;2020-10-23 18:08:13 UTC;In Progress;3;LifeStyle_Envi;7207642
+30620041;Nine-banded armadillo;Dasypus novemcinctus;2019-11-04 18:00:10;2020-04-05 03:01:39;Validated Phenotype;2;MedPhenotype;8108075
+26850957;Bateleur eagle;Terathopius ecaudatus;2020-08-31 07:33:59;2020-12-24 02:37:51;Validated Phenotype;2;Demograpic;9871370
+82965379;Chilean flamingo;Phoenicopterus chilensis;2020-03-26 15:50:17;2020-08-31 22:14:03;Validated Phenotype;2;Demograpic;7928052
+28093503;Banded mongoose;Mungos mungo;2020-08-16 10:32:15;2020-12-28 04:51:24;Validated Phenotype;2;Vital;5715504
+86487950;Common brushtail possum;Trichosurus vulpecula;2020-03-15 19:39:40;2020-04-26 05:19:06;Validated Phenotype;3;Demograpic;9555981
+22119315;Smith's bush squirrel;Paraxerus cepapi;2019-11-11 17:14:00;2020-04-05 18:38:10;In Progress;3;Procedure;8723425
+11379545;Common seal;Phoca vitulina;2020-08-29 01:59:44;2020-08-30 01:59:44 UTC;In Progress;1;Procedure;7765537
+71966592;Hartebeest, coke's;Alcelaphus buselaphus cokii;2020-09-11 09:41:20;2020-09-12 09:41:20 UTC;Validated Phenotype;3;LifeStyle_Envi;9980628
+83947242;Yellow-throated sandgrouse;Pterocles gutturalis;2020-11-02 07:07:39;2020-11-03 07:07:39 UTC;Working Definition;1;Vital;8089547
+53985558;Hen, sage;Centrocercus urophasianus;2020-09-07 11:44:00;2020-09-08 11:44:00 UTC;In Progress;2;LifeStyle_Envi;6272886
+39364193;Parrot, hawk-headed;Deroptyus accipitrinus;2020-04-14 20:56:32;2020-07-28 06:31:44;In Progress;1;Vital;8723425
+43813594;Four-striped grass mouse;Rhabdomys pumilio;2020-06-07 09:18:28;2020-06-08 09:18:28 UTC;In Progress;1;MedPhenotype;9225409
+26445865;Smith's bush squirrel;Paraxerus cepapi;2019-09-29 22:35:32;2020-04-25 09:40:27;Working Definition;3;LifeStyle_Envi;7399658
+21999144;Australian pelican;Pelecanus conspicillatus;2021-02-17 15:47:08;2021-02-18 15:47:08 UTC;Working Definition;2;Procedure;7231345
+82978845;Flamingo, roseat;Phoenicopterus ruber;2020-11-16 21:32:34;2020-11-17 21:32:34 UTC;In Progress;3;Demograpic;9230916
+39473332;Mouse, four-striped grass;Rhabdomys pumilio;2019-11-09 02:44:53;2019-11-10 02:44:53 UTC;Working Definition;3;Lab;9696844
+9996274;Crab (unidentified);unavailable;2020-03-18 08:26:32;2021-02-02 13:40:32;Working Definition;3;LifeStyle_Envi;8401148
+36798225;Hornbill, leadbeateri's ground;Bucorvus leadbeateri;2019-10-04 22:49:17;2020-05-04 23:53:07;Working Definition;2;Vital;6629023
+30721995;Gecko, bent-toed;Cyrtodactylus louisiadensis;2020-12-19 13:46:40;2020-12-20 13:46:40 UTC;In Progress;3;LifeStyle_Envi;7882624
+96305445;Pallas's fish eagle;Haliaeetus leucoryphus;2019-12-14 19:42:49;2019-12-15 19:42:49 UTC;In Progress;1;Demograpic;5777191
+50826611;Snake, buttermilk;Coluber constrictor;2019-10-17 05:16:11;2019-12-04 00:42:16;Validated Phenotype;3;MedPhenotype;7448881
+32346001;Reedbuck, bohor;Redunca redunca;2020-01-20 09:08:06;2021-02-20 19:36:28;In Progress;2;Procedure;6858642
+34324742;Western palm tanager (unidentified);unavailable;2020-07-03 18:47:52;2020-11-03 21:54:13;Validated Phenotype;1;Disease;7478550
+61733127;Eastern indigo snake;Drymarchon corias couperi;2020-08-17 00:34:59;2020-08-18 00:34:59 UTC;Working Definition;1;Lab;8693404
+6741074;Woodcock, american;Scolopax minor;2021-04-12 20:11:17;2021-04-13 20:11:17 UTC;Validated Phenotype;3;MedPhenotype;7910520
+69975106;Python (unidentified);unavailable;2020-02-10 03:57:19;2020-10-29 21:03:04;In Progress;3;Demograpic;6808745
+84620772;Water legaan;Varanus salvator;2020-11-10 08:56:33;2020-11-11 08:56:33 UTC;In Progress;3;Procedure;6858642
+89700416;Grey lourie;Lorythaixoides concolor;2020-10-10 12:29:20;2020-10-11 12:29:20 UTC;In Progress;3;Demograpic;7478550
+12656478;Eastern indigo snake;Drymarchon corias couperi;2020-09-28 09:23:36;2020-09-29 09:23:36 UTC;Validated Phenotype;1;Lab;6595721
+92643598;Godwit, hudsonian;Limosa haemastica;2020-05-01 15:10:45;2021-01-09 05:48:51;In Progress;1;LifeStyle_Envi;9949825
+75849683;Southern hairy-nosed wombat;Lasiorhinus latifrons;2021-01-22 18:34:36;2021-01-23 18:34:36 UTC;In Progress;1;Lab;8318447
+35909788;Porcupine, african;Hystrix cristata;2021-01-20 15:20:06;2021-01-21 15:20:06 UTC;In Progress;3;Disease;6235111
+4998708;African jacana;Actophilornis africanus;2020-08-28 02:43:10;2020-11-03 23:17:06;Working Definition;2;Procedure;7171944
+13446917;Cormorant, little;Phalacrocorax niger;2020-11-05 16:06:08;2020-11-06 16:06:08 UTC;Validated Phenotype;3;Procedure;8051960
+57125330;Sloth bear;Melursus ursinus;2021-03-18 12:34:54;2021-03-19 12:34:54 UTC;Validated Phenotype;1;Procedure;8966195
+40852475;Peregrine falcon;Falco peregrinus;2020-06-09 20:03:22;2020-12-23 21:03:27;Validated Phenotype;1;Procedure;7252612
+94094448;Whale, southern right;Eubalaena australis;2020-04-07 19:59:16;2021-01-08 03:50:21;In Progress;2;Vital;6771273
+90268597;Common genet;Genetta genetta;2020-08-02 07:23:16;2020-08-03 07:23:16 UTC;In Progress;1;LifeStyle_Envi;9826497
+99398479;Black and white colobus;Colobus guerza;2019-12-18 11:25:06;2020-11-03 08:04:18;Working Definition;2;LifeStyle_Envi;8690016
+54314461;Francolin, coqui;Francolinus coqui;2020-12-24 13:13:09;2020-12-25 13:13:09 UTC;Validated Phenotype;1;Lab;9886567
+49799297;Hawk, ferruginous;Buteo regalis;2020-04-02 23:26:10;2020-12-27 18:07:39;Validated Phenotype;1;Vital;7810237
+98331265;Tern, white-winged black;Chlidonias leucopterus;2020-06-01 12:30:39;2020-09-08 03:25:01;Working Definition;2;Lab;6690211
+4986366;Black kite;Milvus migrans;2020-06-14 17:50:56;2021-04-06 04:49:24;Working Definition;3;Lab;6359277
+70636470;Dingo;Canis dingo;2020-07-30 22:58:51;2020-10-02 20:51:35;In Progress;3;Vital;6836623
+48476685;Flicker, field;Colaptes campestroides;2019-11-22 05:21:38;2020-10-28 14:53:31;Working Definition;3;Lab;9274463
+1869144;Lemming, collared;Dicrostonyx groenlandicus;2020-10-22 08:08:06;2020-10-23 08:08:06 UTC;In Progress;3;LifeStyle_Envi;7723823
+92228598;Kangaroo, red;Macropus rufus;2020-08-13 06:40:25;2021-02-04 23:42:09;Validated Phenotype;2;Procedure;9329179
+6907359;Hudsonian godwit;Limosa haemastica;2019-09-21 18:02:42;2019-09-27 07:09:10;In Progress;3;Procedure;9844832
+91014471;Burrowing owl;Speotyte cuniculata;2020-10-27 06:09:59;2020-10-28 06:09:59 UTC;In Progress;3;Lab;9788401
+94903301;Cormorant, neotropic;Phalacrocorax brasilianus;2021-01-30 05:09:05;2021-01-31 05:09:05 UTC;Working Definition;2;Disease;6670282
+74217086;Baboon, olive;Papio cynocephalus;2020-12-25 21:07:28;2020-12-26 21:07:28 UTC;Working Definition;1;Disease;9164022
+4932504;Water monitor;Varanus salvator;2020-04-10 06:58:57;2020-04-11 06:58:57 UTC;Validated Phenotype;1;MedPhenotype;7861366
+70104135;Marten, american;Martes americana;2020-03-01 05:48:55;2020-03-02 05:48:55 UTC;Validated Phenotype;3;MedPhenotype;6399066
+36012421;Galapagos tortoise;Geochelone elephantopus;2020-12-14 06:17:09;2021-04-17 15:26:54;In Progress;3;Demograpic;7318951
+34165074;Langur, common;Semnopithecus entellus;2020-05-22 15:19:36;2020-10-14 14:04:50;Validated Phenotype;2;Vital;7941676
+91697155;Weeper capuchin;Cebus nigrivittatus;2020-02-14 09:00:25;2020-09-24 00:09:32;Working Definition;1;Procedure;6483534
+47156013;Ground monitor (unidentified);Varanus sp.;2020-02-15 01:14:19;2020-03-12 04:51:56;Validated Phenotype;3;Demograpic;7940282
+47028304;Mountain goat;Oreamnos americanus;2020-12-06 09:15:26;2021-03-21 10:08:18;In Progress;2;LifeStyle_Envi;9654133
+14826949;Blue peacock;Pavo cristatus;2020-03-25 09:39:07;2020-06-28 15:01:59;Working Definition;2;Procedure;8732484
+28988568;Squirrel, european red;Sciurus vulgaris;2021-01-10 22:09:05;2021-01-11 22:09:05 UTC;Working Definition;1;MedPhenotype;8603812
+60866687;Hoopoe, eurasian;Upupa epops;2019-10-24 17:39:58;2021-04-05 19:29:33;In Progress;1;LifeStyle_Envi;8186672
+30694061;Black-backed magpie;Gymnorhina tibicen;2020-01-21 15:30:43;2020-04-13 05:00:32;In Progress;3;LifeStyle_Envi;6986710
+91566873;Black-throated cardinal;Paroaria gularis;2020-01-08 08:32:21;2020-01-09 08:32:21 UTC;In Progress;1;Lab;8108402
+96873137;Kori bustard;Choriotis kori;2020-02-24 06:45:12;2021-02-18 20:20:07;In Progress;3;Disease;9057619
+62479070;Olive baboon;Papio cynocephalus;2021-02-18 18:46:02;2021-02-19 18:46:02 UTC;Working Definition;2;Vital;7111787
+67607815;Skua, great;Catharacta skua;2020-10-09 08:45:03;2020-10-10 08:45:03 UTC;In Progress;1;Vital;6121158
+26069769;Blackbird, red-winged;Agelaius phoeniceus;2020-11-16 12:48:32;2020-11-17 12:48:32 UTC;Validated Phenotype;2;Lab;7622301
+82868413;Gemsbok;Oryx gazella;2020-01-02 00:50:22;2020-02-09 18:42:51;Working Definition;1;Lab;9602154
+91412977;Cape Barren goose;Cereopsis novaehollandiae;2021-02-16 19:00:01;2021-02-17 19:00:01 UTC;Validated Phenotype;1;Vital;9013615
+29268609;Tortoise, burmese brown mountain;Manouria emys;2020-08-31 01:02:49;2020-11-11 09:24:56;In Progress;3;MedPhenotype;7917719
+7964339;Brown brocket;Mazama gouazoubira;2021-03-09 00:18:25;2021-03-10 00:18:25 UTC;Working Definition;3;Procedure;7854203
+88873765;Red-winged blackbird;Agelaius phoeniceus;2020-12-04 20:44:03;2020-12-05 20:44:03 UTC;Validated Phenotype;1;Lab;8816484
+34321504;Boa, cook's tree;Corallus hortulanus cooki;2020-06-24 15:43:21;2020-09-28 01:30:15;Validated Phenotype;1;Demograpic;7099528
+78416543;Gecko, barking;Phylurus milli;2020-08-23 02:23:49;2020-08-24 02:23:49 UTC;Working Definition;3;Demograpic;5701170
+30035248;Wallaby, bennett's;Macropus rufogriseus;2020-07-06 18:08:42;2020-07-07 18:08:42 UTC;In Progress;2;MedPhenotype;5917624
+89664732;Coke's hartebeest;Alcelaphus buselaphus cokii;2020-03-09 02:06:20;2020-10-03 16:34:56;In Progress;3;Disease;7058177
+2386464;Hornbill, leadbeateri's ground;Bucorvus leadbeateri;2020-09-01 17:24:58;2020-09-02 17:24:58 UTC;Working Definition;1;Demograpic;7041732
+49932615;Grebe, little;Tachybaptus ruficollis;2020-04-26 19:59:52;2020-11-09 23:45:08;Working Definition;3;Disease;6595721
+18882268;Suricate;Suricata suricatta;2021-01-04 19:49:17;2021-01-05 19:49:17 UTC;Working Definition;3;MedPhenotype;6336269
+12277982;Marshbird, brown and yellow;Pseudoleistes virescens;2021-04-12 19:24:58;2021-04-13 19:24:58 UTC;Validated Phenotype;1;MedPhenotype;7162041
+18286667;Bee-eater, white-fronted;Merops bullockoides;2020-06-04 18:29:33;2020-09-11 04:11:18;In Progress;2;MedPhenotype;6483534
+41480688;Otter, cape clawless;Aonyx capensis;2020-02-21 03:31:05;2020-02-22 03:31:05 UTC;In Progress;3;MedPhenotype;7041732
+24668015;Royal tern;Thalasseus maximus;2020-02-17 22:23:04;2020-04-01 07:11:04;Validated Phenotype;1;MedPhenotype;8540584
+20668619;Owl, australian masked;Tyto novaehollandiae;2020-03-19 08:14:59;2020-07-04 01:48:14;Validated Phenotype;2;Demograpic;9074251
+20366334;White-browed sparrow weaver;Plocepasser mahali;2020-05-31 08:21:33;2020-06-01 08:21:33 UTC;In Progress;2;Lab;9632833
+17548326;Heron, giant;Ardea golieth;2020-07-18 02:25:38;2021-04-17 10:17:34;Working Definition;2;LifeStyle_Envi;7058481
+93061961;Collared lemming;Dicrostonyx groenlandicus;2019-11-19 19:20:21;2021-04-12 23:19:24;Working Definition;3;Procedure;6986710
+6310117;Mandras tree shrew;Anathana ellioti;2021-04-08 00:34:48;2021-04-09 00:34:48 UTC;Validated Phenotype;1;Vital;7910520
+45451618;Superb starling;Lamprotornis superbus;2020-12-12 23:14:38;2020-12-13 23:14:38 UTC;Working Definition;3;Vital;8533312
+90110001;Possum, western pygmy;Cercatetus concinnus;2020-09-05 03:10:10;2021-03-20 04:03:41;Validated Phenotype;2;LifeStyle_Envi;6429797
+66343093;Great skua;Catharacta skua;2020-03-17 00:00:47;2020-06-06 13:40:34;In Progress;3;Demograpic;6575705
+28521032;Gull, kelp;Larus dominicanus;2020-08-07 00:27:55;2020-08-11 09:04:10;Working Definition;1;MedPhenotype;8378275
+78138777;Otter, giant;Pteronura brasiliensis;2020-03-07 11:03:31;2020-11-02 03:45:42;Working Definition;3;Vital;7535676
+67896900;Gemsbok;Oryx gazella;2020-06-23 14:27:41;2020-12-08 01:45:31;Working Definition;1;MedPhenotype;9963879
+28230804;Anaconda (unidentified);Eunectes sp.;2020-08-18 11:05:16;2021-03-19 02:48:09;Working Definition;2;Demograpic;6106812
+28064207;Glider, squirrel;Petaurus norfolcensis;2020-01-15 11:34:44;2020-08-21 17:00:32;Validated Phenotype;1;Vital;7626397
+62605951;Squirrel, european red;Sciurus vulgaris;2020-07-18 17:43:57;2020-07-19 17:43:57 UTC;In Progress;3;LifeStyle_Envi;6963162
+77188692;Paradoxure;Paradoxurus hermaphroditus;2020-06-01 12:57:05;2020-10-19 23:19:39;Validated Phenotype;3;Procedure;7585590
+74483233;Common seal;Phoca vitulina;2019-12-21 03:50:15;2020-05-29 13:45:25;Working Definition;1;Procedure;9137067
+15457858;Butterfly, tropical buckeye;Junonia genoveua;2020-08-22 01:12:35;2020-08-23 01:12:35 UTC;In Progress;1;Lab;6584448
+15545578;Brown hyena;Hyaena brunnea;2021-01-12 08:42:28;2021-01-13 08:42:28 UTC;Validated Phenotype;2;Lab;6395194
+56682334;Pygmy possum;Acrobates pygmaeus;2021-01-05 12:00:09;2021-01-06 12:00:09 UTC;Validated Phenotype;3;LifeStyle_Envi;9836432
+42416975;White-throated toucan;Ramphastos tucanus;2020-11-05 05:16:47;2020-11-06 05:16:47 UTC;Working Definition;2;Procedure;5807430
+51880162;Mouflon;Ovis musimon;2020-03-25 12:38:04;2020-03-26 12:38:04 UTC;Working Definition;2;Demograpic;9294634
+6530193;Campo flicker;Colaptes campestroides;2021-02-03 11:38:51;2021-02-04 11:38:51 UTC;Validated Phenotype;1;Vital;7164080
+1324527;Eastern boa constrictor;Acrantophis madagascariensis;2021-03-21 13:54:04;2021-03-22 13:54:04 UTC;Working Definition;2;LifeStyle_Envi;8742043
+97599999;Eagle, pallas's fish;Haliaeetus leucoryphus;2020-07-24 18:00:12;2020-09-29 05:41:08;In Progress;1;Vital;8624866
+59631848;Black-cheeked waxbill;Estrilda erythronotos;2021-04-17 05:29:16;2021-04-18 05:29:16 UTC;In Progress;2;Procedure;5664958
+9609973;Common melba finch;Pytilia melba;2020-04-09 10:34:59;2020-06-22 17:50:21;In Progress;2;MedPhenotype;7294220
+46034217;Vine snake (unidentified);Oxybelis sp.;2020-04-22 17:53:15;2020-04-23 17:53:15 UTC;In Progress;2;Demograpic;7868167
+94514554;Bushbuck;Tragelaphus scriptus;2020-12-17 17:18:45;2020-12-18 17:18:45 UTC;In Progress;2;MedPhenotype;6150216
+75572835;Wild water buffalo;Bubalus arnee;2019-11-25 07:02:48;2019-11-26 07:02:48 UTC;Validated Phenotype;3;Disease;6993700
+32453517;Red-billed hornbill;Tockus erythrorhyncus;2021-03-27 14:40:10;2021-04-05 09:27:30;In Progress;1;MedPhenotype;9132978
+44547012;Albatross, waved;Diomedea irrorata;2019-12-12 04:37:39;2019-12-13 04:37:39 UTC;Validated Phenotype;1;Procedure;7970632
