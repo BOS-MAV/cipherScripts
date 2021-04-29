@@ -1,0 +1,1001 @@
+DataSourceID;DataSource
+5388;Teva Pharmaceuticals USA Inc
+1126;Proficient Rx LP
+9983;REMEDYREPACK INC.
+5644;Nelco Laboratories, Inc.
+1860;Newton Laboratories, Inc.
+3628;Nelco Laboratories, Inc.
+2573;Rimmel Inc.
+6488;Mylan Pharmaceuticals Inc.
+3819;Rebel Distributors Corp
+3923;Allergy Laboratories, Inc.
+2549;Cadila Healthcare Limited
+6917;H E B
+4101;WALGREENS Co
+4479;Hospira, Inc.
+9193;AMI Cosmetic Co.,Ltd.
+1677;SJ Creations, Inc.
+3210;Genzyme Corporation
+3174;Ningbo Dowland Daily Health Co., Ltd
+1848;PD-Rx Pharmaceuticals, Inc.
+3028;Poly Pharmaceuticals
+4336;Cherry Hill Sales Co
+9393;DOLGENCORP, INC.
+1483;AMERICAN SALES COMPANY
+7898;Taro Pharmaceuticals U.S.A., Inc.
+4856;Mylan Institutional Inc.
+9346;Carver Korea Co.,Ltd
+4483;Forest Laboratories, Inc.
+3388;Support Medical Company
+7024;Boots Retail USA Inc
+6944;Onset Dermatologics LLC
+2362;Humphreys Pharmacal, Incorporated
+4730;STAT RX USA LLC
+2944;NorthStar RxLLC
+3657;Uriel Pharmacy Inc.
+5381;Global Pharmaceuticals, Division of Impax Laboratories Inc.
+7312;Kroger Company
+3166;Mylan Pharmaceuticals Inc.
+8862;Nelco Laboratories, Inc.
+5540;DOLGENCORP, LLC
+3625;REMEDYREPACK INC.
+1906;Health Care Products
+3046;FORTUNE PHARMACAL COMPANY LIMITED
+6529;Jazz Pharmaceuticals, Inc.
+7615;Ventura Corporation LTD
+5240;Target
+6763;Janssen Biotech, Inc.
+4651;Best Choice (Valu Merchandisers Company)
+4810;Supervalu Inc
+2256;Mylan Institutional Inc.
+4205;Cardinal Health
+3661;DOLGENCORP INC
+2041;PD-Rx Pharmaceuticals, Inc.
+6884;Golden State Medical Supply, Inc.
+9530;Dr. Reddy's Laboratories Limited
+1076;NeoStrata Company Inc.
+9983;Clinical Solutions Wholesale
+8323;CVS Pharmacy
+1206;Hospira, Inc.
+7314;Nelco Laboratories, Inc.
+4288;Conopco Inc. d/b/a Unilever
+3008;Lake Erie Medical DBA Quality Care Products LLC
+5499;Home Sweet Homeopathics
+2295;CHAIN DRUG MARKETING ASSOCIATION INC
+9379;Mylan Institutional Inc.
+6934;Nelco Laboratories, Inc.
+6569;GE Healthcare Inc.
+3500;Physicians Total Care, Inc.
+3049;A.M. Home Diagnostics Inc. dba Healthline
+8176;State of Florida DOH Central Pharmacy
+4952;PD-Rx Pharmaceuticals, Inc.
+8774;Physicians Total Care, Inc.
+9080;Lupin Pharmaceuticals, Inc.
+5359;Shopko Stores Operating Co., LLC.
+1590;Cardinal Health
+3012;Rebel Distributors Corp
+4493;KINeSYS Pharmaceutical Inc.
+8417;NATURE REPUBLIC CO., LTD.
+1326;L. Perrigo Company
+8643;HyVee Inc
+9540;Target Corporation
+3451;Dr. Reddy's Laboratories Limited
+6326;Par Pharmaceutical Inc.
+8612;Rebel Distributors Corp
+9776;Cadila Healthcare Limited
+8011;Vi-Jon
+9259;H.J. Harkins Company, Inc.
+3210;Laboratoires Clarins S.A.
+3773;Fresenius Medical Care North America
+9310;Energetix Corp
+1985;Nelco Laboratories, Inc.
+9363;TARGET
+8363;Nelco Laboratories, Inc.
+1468;Shopko Stores Operating Co., LLC
+1648;King Bio Inc.
+7086;IASO Inc
+2156;Kroger Company
+1105;REMEDYREPACK INC.
+3401;Northstar Rx LLC
+1433;Walgreens
+5505;Reckitt Benckiser LLC
+1233;Unit Dose Services
+3255;Walgreen Company
+5001;Allermed Laboratories, Inc.
+4643;Physicians Total Care, Inc.
+1201;Diversified Global Technologies DBA Diversified Distribution
+2168;Home Sweet Homeopathics
+7919;Bonita Pharmaceuticals LLC
+4761;REMEDYREPACK INC.
+3321;ALK-Abello, Inc.
+4567;Novartis Pharmaceuticals Corporation
+4151;Bryant Ranch Prepack
+3230;REMEDYREPACK INC.
+1908;Physicians Total Care, Inc.
+9770;Contract Pharmacy Services-PA
+1077;SEINDNI CO., LTD.
+8946;MarcasUSA LLC
+5477;TYA Pharmaceuticals
+2004;West-Ward Pharmaceutical Corp.
+1638;Monroe Welding Supply, Inc.
+1825;Target Corporation
+8248;Ecolab Inc.
+2203;Antigen Laboratories, Inc.
+1858;West-ward Pharmaceutical Corp.
+6055;Unit Dose Services
+2495;Walgreens
+1316;NANTONG JIDESHENG BIOLOGY HEALTH CARE PRODUCTS CO LTD
+2801;BioComp Pharma, Inc.
+6258;Prime Packaging, Inc.
+6107;VIATREXX BIO INCORPORATED
+2170;Mangiacotti Floral LLC
+4261;Prometheus Laboratories Inc.
+1019;REMEDYREPACK INC.
+5548;Apotex Corp.
+5492;Physicians Total Care, Inc.
+2772;Physicians Total Care, Inc.
+7612;Major Pharmaceuticals
+4661;Cardinal Health
+3983;ARAMIS INC.
+5336;Unit Dose Services
+4391;AMERICAN SALES COMPANY
+3037;Young Dental Manufacturing Co 1, LLC
+4753;E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc.
+9869;Natures Way Holding Co.
+2119;Chain Drug Marketing Association Inc.
+4868;Pain and Stress Center Products
+9172;AbbVie Inc.
+2788;PD-Rx Pharmaceuticals, Inc.
+9576;Rebel Distributors Corp
+1921;Apotheca Company
+4030;DUKAL CORPORATION
+6875;Aidarex Pharmaceuticals LLC
+2608;Cadila Healthcare Limited
+7974;Bio-Pharm, Inc.
+9699;Dermazone Solutions, LLC
+2646;Apotheca Company
+1477;General Injectables & Vaccine, Inc
+8532;Sunrider Manufacturing L.P.
+3727;GlaxoSmithKline LLC
+1981;DIRECT RX
+3391;Wal-Mart
+9026;Antigen Laboratories, Inc.
+5037;HyVee Inc
+9563;MSD Consumer Care, Inc.
+4036;International Medication Systems, Limited
+5542;Teton Outfitters LLC dba Klim Aggressive Sledwear
+1115;Mylan Institutional Inc.
+2802;Atco International
+2673;Paramesh Banerji Life Sciences LLC
+8356;Amneal Pharmaceuticals
+6330;Elizabeth Arden, Inc
+4769;Lupin Pharmaceuticals, Inc.
+3365;DZA Brands LLC
+8720;Jubilant HollisterStier LLC
+6940;CorePharma, LLC
+5069;Akrimax Pharmaceuticals, LLC
+2696;Labratoires Boiron
+1785;Best Sanitizer, Inc.
+6831;A-S Medication Solutions LLC
+9058;AbbVie Inc.
+9364;Keraplast Technologies LLC
+4817;Henry Schein, Inc.
+1899;Mission Hills S.A de C.V
+1112;Migranade Inc.
+4603;Uriel Pharmacy Inc.
+3753;The Mentholatum Company
+9769;Major Pharmaceuticals
+1446;Northwind Pharmaceuticals, LLC
+9616;A-S Medication Solutions LLC
+9398;Meda Pharmaceuticals Inc.
+8353;Nelco Laboratories, Inc.
+1185;AvKARE, Inc.
+5281;Preferred Pharmaceuticals, Inc.
+1489;King Bio Inc.
+2172;Banner Pharmacaps
+1739;Nelco Laboratories, Inc.
+4406;Newton Laboratories, Inc.
+3105;Cardinal Health
+8560;AMOREPACIFIC
+5983;Rising Pharmaceuticals, Inc.
+1263;Supervalu Inc
+3197;Allergy Laboratories, Inc.
+4413;Hisamitsu Pharmaceutical Co., Inc.
+6557;Amneal Pharmaceuticals
+3827;REMEDYREPACK INC.
+7136;Parke-Davis Div of Pfizer Inc
+6901;L'Oreal USA Products Inc
+9463;Carroll Company
+1908;Bath & Body Works, Inc.
+9000;Aptalis Pharma US, Inc.
+1908;Supervalu Inc
+4589;Aidarex Pharmaceuticals LLC
+4443;NSE Products, Inc.
+2832;Fresenius Kabi USA, LLC
+2638;Ventura Corporation, LTD
+5047;Ventura Corporation (San Juan, P.R)
+3853;Elizabeth Arden, Inc
+6991;Prasco Laboratories
+2752;Cobalt Laboratories
+5772;Procter & Gamble Manufacturing Company
+3014;Clinical Solutions Wholesale
+8182;Citron Pharma LLC
+9203;Washington Homeopathic Products
+6023;Uriel Pharmacy Inc.
+6243;Bath & Body Works, Inc.
+6273;Cardinal Health
+6973;Pfizer Laboratories Div Pfizer Inc
+7420;Merck Sharp & Dohme Corp.
+6813;Ventura International LTD
+5605;TARGET Corporation
+8534;Mission Pharmacal Company
+5328;Zee Medical
+9080;Macleods Pharmaceuticals Limited
+4615;Colgate-Palmolive Company
+2519;Clinical Solutions Wholesale
+9789;Rebel Distributors Corp
+9938;S+
+7722;Apotex Corp
+9575;Antigen Laboratories, Inc.
+8967;Hospira, Inc
+3751;Golden State Medical Supply, Inc.
+2990;Dispensing Solutions, Inc.
+9208;Neopharm Co,. Ltd
+9082;Dermalogica, Inc.
+1585;KINeSYS Pharmaceutical Inc.
+1405;Physicians Total Care, Inc.
+7200;Rite Aid
+9904;REMEDYREPACK INC.
+5813;Topco Associates LLC
+9127;REMEDYREPACK INC.
+7115;Greenstone LLC
+7689;WALGREEN CO.
+2513;Physicians Total Care, Inc.
+8542;Native Remedies, LLC
+3683;Dispensing Solutions, Inc.
+1853;Allergy Laboratories, Inc.
+2743;Physicians Total Care, Inc.
+5350;PD-Rx Pharmaceuticals, Inc.
+3044;Par Pharmaceutical Inc.
+4281;REMEDYREPACK INC.
+9644;AvPAK
+6749;VVF Kansas Services LLC
+5998;State of Florida DOH Central Pharmacy
+1865;STAT Rx USA LLC
+6926;AvPAK
+3891;Physicians Total Care, Inc.
+5017;Viny Health and Beauty Inc
+2379;Dr. Reddy's Laboratories Limited
+1469;Valeant Pharmaceuticals North America LLC
+1620;sanofi-aventis U.S. LLC
+4821;Tween Brands Inc
+3814;Apotheca Company
+3582;Kroger Company
+4929;AvKARE, Inc.
+9078;Elizabeth Arden, Inc
+4526;Liddell Laboratories, Inc.
+2088;Sun Pharmaceutical Industries Limited
+7191;Procter & Gamble Manufacturing Company
+8400;ALK-Abello, Inc.
+1765;A-S Medication Solutions LLC
+8374;Global Pharmaceuticals, Division of Impax Laboratories Inc.
+1163;TYA Pharmaceuticals
+4989;General Injectables & Vaccines, Inc
+1774;Bare Escentuals Beauty Inc.
+2682;STAT RX USA LLC
+6996;Teva Parenteral Medicines, Inc.
+9511;APP Pharmaceuticals, LLC
+7399;Topco Associates LLC
+7995;Guerbet LLC
+7027;McKesson
+5806;Dispensing Solutions, Inc.
+1418;Mylan Pharmaceuticals Inc.
+5738;Apotheca Company
+4457;Mylan Institutional Inc.
+2615;Teva Pharmaceuticals USA Inc
+3979;Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+8715;Samson Medical Technologies, L.L.C.
+4088;Cantrell Drug Company
+4336;Conopco Inc. d/b/a Unilever
+4325;Supervalu Inc.
+2885;MAKEUP ART COSMETICS
+7248;Genesis Pharmaceutical, Inc.
+4143;Cobalt Laboratories Inc.
+8458;MAKEUP ART COSMETICS
+4131;Cornerstone Therapeutics Inc.
+1063;Cardinal Health
+8951;Cardinal Health
+2159;Premier Value (Chain Drug Consortium, LLC)
+3382;REMEDYREPACK INC.
+9189;Lake Erie Medical DBA Quality Care Products LLC
+8903;Caraco Pharmaceutical Laboratories, Ltd.
+2483;Bayer HealthCare Consumer Care
+8449;HOMEOLAB USA INC.
+1138;State of Florida DOH Central Pharmacy
+6621;MEIJER, INC.
+6110;STAT RX USA LLC
+9610;Coty US LLC
+9808;Camber Pharmaceuticals
+1981;True Botanica, LLC
+7478;W. H. Goodale Co. Inc.
+5972;Camber Pharmaceuticals, Inc.
+2300;NCS HealthCare of KY, Inc dba Vangard Labs
+4679;Preferred Pharmaceuticals, Inc
+2559;Walgreens
+4591;ALK-Abello, Inc.
+6713;Actavis Pharma, Inc.
+7688;Aidarex Pharmaceuticals LLC
+1703;Accudial Pharmaceutical, Inc.
+5021;Pfizer Laboratories Div Pfizer Inc
+8532;Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
+5135;Aurolife Pharma, LLC
+3284;Bliss World LLC
+1703;Janssen Pharmaceuticals, Inc.
+6209;Major Pharmaceuticals
+3627;GlaxoSmithKline LLC
+8332;Jubilant HollisterStier LLC
+8852;Perrigo New York Inc
+7123;Actavis Elizabeth LLC
+4529;Rite Aid
+9010;NASH-FINCH COMPANY
+2447;Homeocare Laboratories
+9494;APOLLO HEALTH AND BEAUTY CARE
+3443;Rebel Distributors Corp.
+2600;REMEDYREPACK INC.
+8320;Lake Erie Medical DBA Quality Care Products LLC
+9468;Colgate-Palmolive Company
+5120;L.N.K. International, Inc.
+3729;American Health Packaging
+2747;Cardinal Health
+5431;Kosan Kozmetik Sanayi ve Ticaret A.S.
+3648;Rebel Distributors Corp
+4850;Respa Pharmaceuticals, Inc.
+6522;Jubilant Cadista Pharmaceuticals Inc
+4385;Moore Medical LLC
+5230;Roxane Laboratories, Inc.
+5595;DZA Brands LLC
+4520;Melaleuca, Inc.
+8422;Sandoz Inc
+8561;Colorpink R&D Inc.
+3273;NCS HealthCare of KY, Inc dba Vangard Labs
+1485;REMEDYREPACK INC.
+1165;Greenstone LLC
+2959;H.J. Harkins Company, Inc.
+5367;Hospira, Inc.
+6590;Sanum Kehlbeck GmbH & Co. KG
+1700;Akorn, Inc.
+4230;Physicians Total Care, Inc.
+6246;Laboratoires Clarins S.A.
+5302;Sandoz Inc
+1006;Claris Lifesciences Inc.
+4562;Lake Erie Medical DBA Quality Care Products LLC
+7553;Medical Chemical Corporation
+6299;Wise Consumer Products
+5886;Hyland's
+6253;Blistex Inc.
+5441;Topco Associates LLC
+3285;Cardinal Health
+5326;Golden State Medical Supply, Inc.
+7944;Mallinckrodt, Inc.
+4314;Jubilant HollisterStier LLC
+8023;AvPAK
+6924;Good Neighbor Pharmacy
+1754;KJI Industrial Co Ltd
+7385;REMEDYREPACK INC.
+3586;Zenith Medicosm SL
+6860;H.J. Harkins Company, Inc.
+4085;Rebel Distributors Corp
+6750;AMI Cosmetic Co.,Ltd.
+9939;Aurobindo Pharma Limited
+6209;Praelia Pharmaceuticals Inc
+7595;Aurobindo Pharma Limited
+6981;ZURICH MEDICAL LABS, LLC
+3533;STAT RX USA LLC
+6215;Roxane Laboratories, Inc.
+3191;GlaxoSmithKline Consumer Heathcare LP
+1017;Mylan Pharmaceuticals Inc.
+5485;Topco Associates LLC
+3813;Hospira, Inc.
+9878;Rebel Distributors Corp
+7835;Bayer HealthCare LLC, Consumer Care
+1123;West-ward Pharmaceutical Corp
+4789;Major Pharmaceuticals
+1420;Elizabeth Arden, Inc
+1218;REMEDYREPACK INC.
+9730;Good Sense (Geiss, Destin & Dunn, Inc.)
+9834;American Regent, Inc.
+3637;Cardinal Health
+7126;Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+4820;Bryant Ranch Prepack
+7943;ALK-Abello, Inc.
+6879;Inel Cosmetics Co., Ltd.
+4917;Allermed Laboratories, Inc.
+8690;Ventura Corporation LTD
+3623;McNeil Consumer Healthcare Div McNeil-PPC, Inc
+8985;CVS PHARMACY
+8864;Nelco Laboratories, Inc.
+8935;Aurobindo Pharma Limited
+1336;Golden State Medical Supply, Inc.
+4340;Zylera Pharmaceuticals, LLC
+8011;Sandoz Inc
+7263;McKesson Contract Packaging
+3750;Jafra Cosmetics International Inc
+2738;A-S Medication Solutions LLC
+4138;CVS Pharmacy
+4266;SJ Creations, Inc.
+8945;Watson Laboratories, Inc.
+2564;Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc.
+8658;Golden State Medical Supply, Inc.
+7952;NCS HealthCare of KY, Inc dba Vangard Labs
+4090;H.J. Harkins Company, Inc.
+4316;McKesson (Health Mart)
+4162;PD-Rx Pharmaceuticals, Inc.
+4572;Rebel Distributors Corp
+1716;Washington Homeopathic Products
+3888;Publix Super Markets Inc
+5837;Pfizer Laboratories Div Pfizer Inc
+7498;Bonne Bell LLC
+8093;Aphena Pharma Solutions - Tennessee, LLC
+2769;American Regent, Inc.
+2014;SHISEIDO AMERICA INC.
+8096;Dukal Corporation
+6863;JAFRA COSMETICS INTERNATIONAL
+6790;FREDS, INC
+9193;Greenbrier International
+2694;Geri-Care Pharmaceutical Corp
+1865;Preferred Pharmaceuticals, Inc
+5141;Newton Laboratories, Inc.
+4299;Newton Laboratories, Inc.
+3072;ReadyMeds
+8565;Parfums Christian Dior
+7435;Alberto-Culver USA Inc.
+7876;Physicians Total Care, Inc.
+4257;Small World Trading Company
+2175;PruGen, Inc.
+3113;Heel Inc
+8881;Dolgencorp, Inc. (DOLLAR GENERAL & REXALL)
+4918;Ventura Corporation (San Juan, P.R)
+8393;Tiger Balm (Malaysia) Sdn. Bhd.
+7922;Roxane Laboratories, Inc
+1866;TYA Pharmaceuticals
+8047;Contract Pharmacy Services-PA
+4213;Major Pharmaceuticals
+1328;Rugby Laboratories
+2475;Arbor Pharmaceuticals, Inc.
+3319;Cardinal Health
+3354;Allermed Laboratories, Inc.
+6904;Hospira, Inc.
+4586;Nelco Laboratories, Inc.
+2995;Preferred Pharmaceuticals, Inc
+8952;China Ningbo Shangge Cosmetic Technology Corp.
+4445;Thai Herb and Spa
+1005;Walgreen Company
+8322;Hospira, Inc
+3187;Western Family Foods, Inc.
+3874;Physicians Total Care, Inc.
+2989;Greenbrier International, Inc.
+6428;Johnson & Johnson Healthcare Products, Division of McNEIL-PPC, Inc.
+3976;Napoleon Perdis Cosmetics, Inc
+1192;CVS Pharmacy
+3109;Western Family Foods, Inc.
+2854;Cardinal Health
+8099;Laboratoires Clarins S.A.
+3415;Lake Erie Medical DBA Quality Care Products LLC
+5760;Valu Merchandisers, Co
+6158;Rebel Distributors Corp
+8860;Major Pharmaceuticals
+2634;Rugby Laboratories
+1699;Natural Health Supply
+1865;Cantrell Drug Company
+5624;Alembic Pharmaceuticals Limited
+3789;Aurobindo Pharma Limited
+2863;Nelco Laboratories, Inc.
+3733;Barr Laboratories Inc.
+3698;Nova Homeopathic Therapeutics, Inc.
+9036;Valeant Pharmaceuticals North America LLC
+8304;Sanum Kehlbeck GmbH & Co. KG
+7786;Supervalu Inc
+1351;Taro Pharmaceuticals U.S.A., Inc.
+8103;Cardinal Health
+7004;Lupin Pharmaceuticals, Inc.
+4173;WOCKHARDT LIMITED
+7600;Coloplast Manufacturing US, LLC
+3980;Safeway
+8936;Aurobindo Pharma Limited
+9157;REMEDYREPACK INC.
+8475;Uriel Pharmacy Inc.
+2268;Bryant Ranch Prepack
+4958;AR Medicom Inc
+5903;Target Corporation
+8660;WOONSOCKET PRESCRIPTION CENTER,INCORPORATED
+5689;Uriel Pharmacy Inc.
+4044;The Dial Corporation
+1349;Rebel Distributors Corp
+3180;Antigen Laboratories, Inc.
+6261;Physicians Total Care, Inc.
+7970;Prometheus Laboratories Inc.
+8914;E. FOUGERA & CO., A division of Fougera Pharmaceuticals Inc.
+6623;Topco Associates LLC
+6280;AmerisourceBergen
+7653;Ranbaxy Pharmaceuticals Inc.
+5987;Halogent, LLC (DBA Exposed Skin Care)
+7646;RedPharm
+9388;Jubilant Cadista Pharmaceuticals Inc.
+7590;Hospira, Inc.
+1894;Mylan Pharmaceuticals Inc.
+3237;Novartis Pharmaceuticals Corporation
+6640;Jubilant HollisterStier LLC
+9887;KJI Industrial Co Ltd
+9609;Uriel Pharmacy Inc.
+4595;Sandoz Inc
+1951;Prestige Brands Holdings, Inc.
+3338;McKesson
+3593;Uriel Pharmacy Inc.
+8934;BELLA SCHNEIDER BEAUTY LLC
+3700;Apotheca Company
+4131;Natural Health Supply
+1859;Sam's West Inc
+2781;Home Sweet Homeopathics
+3431;Major Pharmaceuticals
+6902;Seton Pharmaceuticals LLC
+4095;REMEDYREPACK INC.
+5452;Rebel Distributors Corp
+8484;Breckenridge Pharmaceutical, Inc.
+7520;RedPharm Drug Inc.
+3310;Physicians Total Care, Inc.
+4074;Antigen Laboratories, Inc.
+1888;Lead Chemical Co. Ltd.
+5639;Allermed Laboratories, Inc.
+9764;WALGREEN CO.
+4581;Bryant Ranch Prepack
+9479;Church & Dwight Co., Inc.
+7230;Purdue Products LP
+5943;Avema Pharma Solutions
+2725;King Bio Inc.
+2965;PD-Rx Pharmaceuticals, Inc.
+6812;AvPAK
+8852;Changzhou Maokang Medical Products Co., Ltd
+7524;Antigen Laboratories, Inc.
+1529;Apotex Corp.
+3236;Watson Pharma, Inc.
+8498;BioActive Nutritional, Inc.
+7695;Amerisource Bergen
+4157;7-Eleven
+7878;Shanghai Yinjing Medical Supplies Co., Ltd.
+8493;Sam's West Inc
+7707;CVS Pharmacy
+9167;Meijer Distribution Inc
+1998;Aurobindo Pharma Limited
+6152;CARDINAL HEALTH
+8921;Watson Laboratories, Inc.
+7808;Baxter Healthcare Corporation
+8887;Walgreen Company
+2219;Hospira Worldwide, Inc.
+3343;NorthStar RxLLC
+3487;Rebel Distributors Corp.
+3024;SCIENCE OF SKINCARE LLC
+5347;Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+1324;Novartis Consumer Health
+1307;UNITED EXCHANGE CORP
+8427;Liberty Pharmaceuticals, Inc.
+8938;China Ningbo Shangge Cosmetic Technology Corp.
+2062;Proficient Rx LP
+8579;H E B
+4783;Northstar Rx LLC
+8423;Bentley Laboratories, LLC
+7414;Alcon Laboratories, Inc.
+3853;Natural Health Supply
+6467;NATURE REPUBLIC CO., LTD.
+2546;Linde Gas North America LLC
+6994;ReadyMeds
+9341;Physicians Total Care, Inc.
+4849;Bare Escentuals Beauty Inc.
+8028;Walgreen Company
+5016;Watson Laboratories, Inc.
+6252;Meijer Distribution Inc
+7962;SAFEWAY INC.
+4993;ViiV Healthcare Company
+6126;Unit Dose Services
+8397;Bryant Ranch Prepack
+7609;Noxell
+5545;Teva Select Brands
+9427;Professional Disposables International, Inc.
+5650;REMEDYREPACK INC.
+2133;Preferred Pharmaceuticals, Inc.
+1620;Tender Corporation
+2741;Feelgood Health
+6156;Bryant Ranch Prepack
+4715;St Marys Medical Park Pharmacy
+3531;Rebel Distributors Corp.
+3822;Physician Therapeutics LLC
+2769;Bath & Body Works, Inc.
+3291;Genentech, Inc.
+1077;Physicians Total Care, Inc.
+7745;Meijer Distribution Inc
+1805;WOCKHARDT LIMITED
+1395;West-ward Pharmaceutical Corp.
+1269;Tween Brands Inc
+3298;McKesson
+4327;Physicians Total Care, Inc.
+7514;Neutrogena Corporation
+3005;Hannaford Brothers Company
+3002;Dispensing Solutions Inc.
+9131;Natural Health Supply
+4166;Sanofi Pasteur Inc.
+3324;Rugby Laboratories
+8999;Ranbaxy Pharmaceuticals Inc.
+8876;Cardinal Health
+8568;AstraZeneca Pharmaceuticals LP
+5759;REMEDYREPACK INC.
+4733;Rebel Distributors Corp.
+1822;SJ Creations, Inc.
+5485;REMEDYREPACK INC.
+3843;Hospira, Inc.
+4434;AAA Pharmaceutical, Inc.
+5487;STAT RX USA LLC
+4039;Innocutis Holdings LLC
+8361;Greenstone LLC
+1921;Winthrop U.S.
+5032;Mallinckrodt, Inc
+4128;JHP Pharmaceuticals LLC
+8151;Nelco Laboratories, Inc.
+7835;Bausch & Lomb Incorporated
+7098;Gilead Sciences, Inc.
+6209;Chester Packaging, LLC
+5130;Mylan Institutional Inc.
+3155;Nelco Laboratories, Inc.
+8807;Greenstone LLC
+8855;HYVEE INC.
+8819;Safeway, Inc
+6616;Genentech, Inc.
+1630;State of Florida DOH Central Pharmacy
+7272;MEIJER DISTRIBUTION INC
+6498;McKesson Contract Packaging
+2294;Publix Super Markets Inc
+1569;Sandoz Inc
+8969;Apotheca Company
+8941;Upsher-Smith Laboratories, Inc
+3899;Babor Cosmetics America, Corp.
+8910;Tom's of Maine, Inc.
+3958;Valeant Pharmaceuticals North America LLC
+8614;Newton Laboratories, Inc.
+2222;Laser Pharmaceuticals, LLC
+5672;OMP, INC.
+5533;Pharmacia and Upjohn Company
+7151;Zenith Medicosm SL
+9504;Janssen Pharmaceutical, Inc.
+4054;AvKARE, Inc.
+3675;Washington Homeopathic Products
+7819;Tri-Coastal Design Company Inc.
+4697;Torrent Pharmaceuticals Limited
+5284;Kinray Inc
+2766;Uriel Pharmacy Inc.
+6034;Aztex Enterprises
+3496;Rising Pharmaceuticals, Inc.
+6855;Ventura Corporation LTD.
+8628;Aphena Pharma Solutions - Tennessee, LLC
+1756;REMEDYREPACK INC.
+4988;Lab Safety Supply, Inc.
+1930;Praxair Distribution, Inc.
+3400;Avon Products, Inc.
+9743;Onpoint, Inc
+3831;Wockhardt USA LLC.
+9849;McKesson (Sunmark)
+8862;Aphena Pharma Solutions - Tennessee, LLC
+6203;Nelco Laboratories, Inc.
+6486;Antigen Laboratories, Inc.
+2601;Publix Super Markets Inc
+9383;Chattem, Inc.
+3516;MARTIN EKWEALOR PHARMACEUTICALS, INC.
+1821;Physicians Total Care, Inc.
+5460;Nash-Finch Company
+1424;Sun Pharma Global FZE
+4445;Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+1180;Amerisource Bergen
+7119;Cardinal Health
+9040;Procter & Gamble Manufacturing Company
+9956;Chester Packaging, LLC
+5704;ALK-Abello A S
+5108;Homeocare Laboratories
+3866;PD-Rx Pharmaceuticals, Inc.
+7061;Kao Brands Company
+6385;Cephalon, Inc.
+6204;Pharmacia and Upjohn Company
+3463;REMEDYREPACK INC.
+8348;Amerigen Pharmaceuticals Inc.
+1902;Elizabeth Arden, Inc
+2075;Preferred Pharmaceuticals, Inc
+2157;Antigen Laboratories, Inc.
+1984;Physicians Total Care, Inc.
+2127;Dispensing Solutions, Inc.
+6756;Uriel Pharmacy Inc.
+5408;Watson Laboratories, Inc.
+2994;Wal-Mart Stores Inc
+9986;Hy-Vee
+9807;Greenbrier International, Inc
+7315;Topco Associates LLC
+4614;Cardinal Health
+2141;Hangzhou Minsheng Binjiang Pharmaceutical CO., Ltd
+2521;Lake Erie Medical DBA Quality Care Products LLC
+1051;H E B
+1155;Pfizer Laboratories Div Pfizer Inc.
+1250;La Roche-Posay Laboratoire Pharmaceutique
+6247;Sam's West Inc
+3037;Bryant Ranch Prepack
+3739;Sunovion Pharmaceuticals Inc.
+5034;Betco Corporation, Ltd.
+4452;Teva Pharmaceuticals USA Inc
+8710;Chattem, Inc.
+5443;Janssen Products, LP
+6152;Dolgencorp Inc
+1734;Wal-Mart Stores Inc
+5272;Rituals Cosmetics USA, Inc.
+4725;Pharmacia and Upjohn Company
+2827;SUPERVALU INC
+7423;Greenstone LLC
+9612;Aphena Pharma Solutions - Tennessee, LLC
+8953;CVS Pharmacy, Inc
+6684;Watson Laboratories, Inc.
+2199;JELMA PHILIPPINES INC
+5455;Amneal Pharmaceuticals
+2568;Acorda Therapeutics, Inc.
+7564;Pharmacia and Upjohn Company
+6472;Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+2714;Physicians Total Care, Inc.
+3940;Aidarex Pharmaceuticals LLC
+3783;Laboratorios Cero S.A.
+6051;Accord Healthcare Inc.
+5673;Teva Women's Health, Inc.
+4405;Cypress Pharmaceutical, Inc.
+4292;Keltman Pharmaceuticals Inc.
+6590;AMOREPACIFIC
+2326;St. Marys Medical Park Pharmacy
+4625;Actavis Pharma, Inc.
+9086;3LAB, Inc
+8905;KROGER Co
+1829;Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.
+9068;King Bio Inc.
+4252;Continental Manufacturing Chemist, Inc.
+8347;Ascend Laboratories, LLC
+2515;Mallinckrodt, Inc.
+7874;Nehemiah Manufacturing
+7689;Fenwal, Inc.
+3576;Sion Biotext Medical Ltd
+9688;Sandoz Inc
+6598;Colgate-Palmolive Company
+6573;Select Brand Distributors
+3685;CHANEL PARFUMS BEAUTE
+8754;Home Sweet Homeopathics
+7327;Jubilant HollisterStier LLC
+1852;Rugby Laboratories Inc.
+2251;Carilion Materials Management
+4680;Aphena Pharma Solutions - Tennessee, LLC
+1970;WG Critical Care, LLC
+6148;Fresenius Kabi USA, LLC
+6807;Baxter Healthcare Corporation
+4119;Jackson Welding Supply Co Inc.
+6254;Laboratoires Clarins S.A.
+1928;Cardinal Health
+8396;Janssen Pharmaceuticals, Inc.
+5463;Meijer Distribution Inc
+7087;RITE AID CORPORATION
+9008;Contract Pharmacy Services-PA
+9942;UCB, Inc.
+5911;Lake Erie Medical DBA Quality Care Products LLC
+7586;Natural Health Supply
+7853;Genuine First Aid LLC
+1829;Woodbine Products Company
+6534;Boca Pharmacal, LLC
+3093;H.J. Harkins Company, Inc.
+5199;BluePoint Laboratories
+8559;Tween Brands Inc
+4815;Family Dollar
+5245;Rochester Midland Corporation
+6426;Deseret Biologicals, Inc.
+6475;Good Neighbor Pharmacy
+3580;Procter & Gamble Manufacturing Company
+9913;PD-Rx Pharmaceuticals, Inc.
+2261;Parfums Christian Dior
+7512;Lupin Pharmaceuticals, Inc.
+1466;Medimetriks Pharmaceuticals
+7660;Nelco Laboratories, Inc.
+1382;BioActive Nutritional, Inc.
+6828;American Sales Company
+2163;Endo Pharmaceuticals Inc
+5967;Nelco Laboratories, Inc.
+6361;Apotheca Company
+3406;Energique, Inc.
+8660;Tyco Healthcare Group LP
+1544;Meijer Distribution Inc
+4856;APP Pharmaceuticals, LLC
+9544;Cardinal Health
+1221;Aurolife Pharma LLC
+3049;Elizabeth Arden, Inc
+6417;Paddock Laboratories, LLC
+8354;CLINIQUE LABORATORIES INC
+7872;Bryant Ranch Prepack
+9532;Bryant Ranch Prepack
+4259;3LAB, Inc
+4129;Isagenix International, LLC
+9848;Medicine Shoppe International
+5108;Aphena Pharma Solutions - Tennessee, LLC
+5904;Dispensing Solutions, Inc.
+9226;APP Pharmaceuticals, LLC
+4493;REMEDYREPACK INC.
+3824;Supervalu Inc
+2547;Cardinal Health
+7480;Physicians Total Care, Inc.
+9867;Nelco Laboratories, Inc.
+3522;Allermed Laboratories, Inc.
+3578;International Beauty Exchange
+5901;Jubilant HollisterStier LLC
+7561;Pharmacia and Upjohn Company
+4716;Alaven Pharmaceutical LLC
+1228;CVS Pharmacy
+1683;PD-Rx Pharmaceuticals, Inc.
+2838;Walgreen Company
+8415;Rebel Distributors Corp
+8223;WOCKHARDT LIMITED
+7544;Bolero Home Decor, Inc.
+2685;Physicians Total Care, Inc.
+9964;Bio Spectra
+9300;Uriel Pharmacy Inc.
+3148;Aidance Skincare & Topical Solutions, LLC
+3936;Air Liquide America Specialty Gases LLC
+3222;Rebel Distributors Corp
+6070;Femme Couture International, Inc
+3258;Actavis Elizabeth LLC
+8638;Acme United Corporation
+1074;Incyte Corporation
+4631;Aphena Pharma Solutions - Tennessee, LLC
+3000;Allermed Laboratories, Inc.
+7933;Cypress Pharmaceutical, Inc.
+1993;Daley International
+7475;Kroger Company
+9972;Ajou Medics Co., Ltd
+6368;Roxane Laboratories, Inc
+3587;Nelco Laboratories, Inc.
+8376;Lantern Enterprises Ltd.
+8278;Pharmaceutical Associates, Inc.
+3901;Cal Pharma
+1703;Northwind Pharmaceuticals, LLC
+4213;Mylan Pharmaceuticals Inc.
+3604;Antigen Laboratories, Inc.
+7619;Kroger Company
+1081;Laura Geller Beauty, LLC
+5346;Glytone
+8113;Norco, Inc
+5434;Physicians Total Care, Inc.
+3017;EQUALINE (SuperValu)
+7093;Feelgood Health
+6109;Charm-Tex, Inc.
+8927;Jubilant HollisterStier LLC
+1282;Zenith Medicosm SL
+1183;Energetix Corp
+4646;Bryant Ranch Prepack
+8714;Aurobindo Pharma Limited
+9051;Physicians Total Care, Inc.
+5514;Uriel Pharmacy Inc.
+6183;-L'Oreal USA Products Inc
+6224;Teva Pharmaceuticals USA Inc
+4420;Cardinal Health 418, Inc
+1685;Cardinal Health
+1144;WALGREEN CO.
+3302;Novartis Pharmaceuticals Corporation
+5012;Parfums Christian Dior
+7895;Mylan Pharmaceuticals Inc.
+1540;3M Company
+5875;AvKARE, Inc.
+2334;Parfums Christian Dior
+4087;Parke-Davis Div of Pfizer Inc
+5585;REMEDYREPACK INC.
+1247;Actavis Pharma, Inc.
+1445;Energetix Corp
+3078;WOONSOCKET PRESCRIPTION CENTER,INCORPORATED
+4912;WellSpring Pharmaceutical Corporation
+2046;Tri-Coastal Design Company Inc.
+8082;Amneal Pharmaceuticals of New York, LLC
+6971;Cardinal Health
+7619;PD-Rx Pharmaceuticals, Inc.
+5401;Camellix, LLC
+8815;Kimberly-Clark Corporation
+3223;CVS
+9668;Pfizer Laboratories Div Pfizer Inc
+1595;Physicians Total Care, Inc.
+5127;VIATREXX BIO INCORPORATED
+9944;GlaxoSmithKline Consumer Healthcare LP
+9290;Service Drug
+8178;Golden Sunshine International, Inc.
+4978;Cypress Pharmaceutical, Inc.
+5345;Cardinal Health
+3493;Aidarex Pharmaceuticals LLC
+1239;Hyland's
+2591;Bayer HealthCare Consumer Care
+8240;Ohm Laboratories Inc.
+7396;Mylan Pharmaceuticals Inc.
+6098;Valeant Pharmaceuticals North America LLC
+9431;Medtech Products Inc.
+8317;KANEBO COSMETICS INC
+9669;Janssen Pharmaceuticals, Inc.
+8604;Avon Products, Inc
+4267;Mylan Institutional LLC
+3541;NorthStar Rx LLC
+2006;Walgreen Company
+5672;GlaxoSmithKline LLC
+4807;Safeway
+4021;REMEDYREPACK INC.
+7438;Rebel Distributors Corp
+2629;Laboratoires Anios
+8735;Breckenridge Pharmaceutical, Inc.
+1747;BioMarin Pharmaceutical Inc.
+6443;NATURE REPUBLIC CO., LTD.
+6469;Cadila Healthcare Limited
+6150;Newton Laboratories, Inc.
+3475;PD-Rx Pharmaceuticals, Inc.
+6755;Golden State Medical Supply, Inc.
+3265;Mylan Pharmaceuticals Inc.
+8807;Chain Drug Marketing Association
+2661;Neutrogena Corporation
+6632;Dr. Reddy's Laboratories Limited
+7844;Fenwal, Inc.
+7266;JAFRA COSMETICS INTERNATIONAL
+8744;Sagent Pharmaceuticals
+4800;Actavis Pharma, Inc.
+5238;WOCKHARDT USA LLC
+2590;Genuine First Aid LLC
+2261;NATURE REPUBLIC CO., LTD.
+1475;Aphena Pharma Solutions - Tennessee, LLC
+3700;Cardinal Health
+2142;Procter & Gamble Manufacturing Company
+5295;McKesson Contract Packaging
+2690;West-Ward Pharmaceutical Corp
+9455;West-ward Pharmaceutical Corp
+4540;SiCap Industries LLC
+4544;Dr. Reddy's Laboratories Limited
+9721;White Manufacturing Incorporated DBA Micro-West
+9095;Premier Value
+9196;Physicians Total Care, Inc.
+8823;Rebel Distributors Corp
+5364;Taro Pharmaceuticals U.S.A., Inc.
+8313;Rebel Distributors Corp
+3960;Methapharm, Inc.
+4311;Duramed Pharmaceuticals Inc.
+2021;CVS
+9794;Energizer Personal Care LLC
+6499;Church & Dwight Co., Inc.
+3110;REMEDYREPACK INC.
+3013;Citron Pharma LLC
+9029;Wal-Mart Stores Inc
+5096;Dr. Reddy's Laboratories Limited
+9157;Uriel Pharmacy Inc.
+9928;Cardinal Health
+3534;Wyeth Pharmaceutical Division of Wyeth Holdings Corporation, a subsidiary of Pfizer Inc.
+2508;NorthStar Rx LLC
+6572;Dolgencorp, LLC
+2381;Preferred Pharmaceuticals, Inc
+7821;Altura Pharmaceuticals, Inc.
+2450;Cardinal Health
+4040;Wal-Mart Stores Inc
+5927;Ortho-McNeil-Janssen Pharmaceutical
+7483;Geiss, Destin & Dunn, Inc
+5500;Silarx Pharmaceuticals, Inc
+4922;Homeocare Laboratories
+5703;COSTCO WHOLESALE CORPORATION
+8508;Safeway
+6205;Remedy Makers
+3782;Winthrop U.S.
+6257;Cardinal Health
+9965;Rebel Distributors Corp
+9490;HomeopathyStore.com
+9101;Watson Laboratories, Inc.
+3695;STAT Rx USA LLC
+7148;REMEDYREPACK INC.
+2442;Antigen Laboratories, Inc.
+9458;Boca Pharmacal, LLC
+3905;Teva Pharmaceuticals USA Inc
+6902;REMEDYREPACK INC.
+3601;HOMEOLAB USA INC.
+2944;Engergique, Inc.
+5879;Ulta
+2013;Apotex Corp.
+7146;Claris Lifesciences, Inc.
