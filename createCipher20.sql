@@ -6,7 +6,7 @@ create table POC.Population (
 
 create table POC.PhenoDef (
     PhenoTypeID     int identity primary key,
-    PhenotypeName   varchar(30),
+    PhenotypeName   varchar(60),
     PhenoDesc       varchar(255),
     DateAdded       datetime,
     LastModified    datetime,
