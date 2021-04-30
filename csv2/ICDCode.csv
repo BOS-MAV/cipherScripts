@@ -1,0 +1,1001 @@
+ICDCodeID,ICDCode,ICDType,ICDDesc
+100001,W504XXS,procedure,"Accidental scratch by another person, sequela"
+100002,S36593S,diagnosis,"Other injury of sigmoid colon, sequela"
+100003,T45602S,procedure,"Poisoning by unsp fibrin-affct drugs, self-harm, sequela"
+100004,Z518,procedure,Encounter for other specified aftercare
+100005,M23007,procedure,"Cystic meniscus, unspecified meniscus, left knee"
+100006,T2043XS,procedure,"Corrosion of unspecified degree of chin, sequela"
+100007,V613XXD,diagnosis,"Occup of hv veh injured in clsn w pedl cyc nontraf, subs"
+100008,S0211EA,procedure,"Type III occipital condyle fracture, right side, init"
+100009,B457,procedure,Disseminated cryptococcosis
+100010,T24521S,procedure,"Corrosion of first degree of right knee, sequela"
+100011,S7702XS,diagnosis,"Crushing injury of left hip, sequela"
+100012,T85121A,diagnosis,"Displacement of implnt elec nstim of prph nrv lead, init"
+100013,V97810D,procedure,"Civilian aircraft in air trnsp acc w military aircraft, subs"
+100014,K0881,procedure,Primary occlusal trauma
+100015,S82126C,procedure,"Nondisp fx of lateral condyle of unsp tibia, 7thC"
+100016,T886XXA,procedure,"Anaphyl reaction due to advrs eff drug/med prop admin, init"
+100017,S72499S,procedure,"Other fracture of lower end of unspecified femur, sequela"
+100018,S3282XK,procedure,"Mult fx of pelv w/o disrupt of pelv ring, 7thK"
+100019,S60032,procedure,Contusion of left middle finger without damage to nail
+100020,S79012P,procedure,"Sltr-haris Type I physl fx upr end l femr, 7thP"
+100021,S93325D,procedure,"Dislocation of tarsometatarsal joint of left foot, subs"
+100022,T44992D,diagnosis,"Poisn by oth drug aff the autonm nervous sys, slf-hrm, subs"
+100023,V422XXS,diagnosis,"Person outside car inj in clsn w 2/3-whl mv nontraf, sequela"
+100024,I69312,procedure,Vis def/sptl nglct following cerebral infarction
+100025,C7A025,procedure,Malignant carcinoid tumor of the sigmoid colon
+100026,S728X9E,procedure,"Oth fx unsp femur, subs for opn fx type I/2 w routn heal"
+100027,I82A,procedure,Embolism and thrombosis of axillary vein
+100028,M25162,diagnosis,"Fistula, left knee"
+100029,S63529S,procedure,"Sprain of radiocarpal joint of unspecified wrist, sequela"
+100030,T23762A,diagnosis,"Corrosion of third degree of back of left hand, init encntr"
+100031,S32314K,diagnosis,"Nondisp avulsion fx right ilium, subs for fx w nonunion"
+100032,T81535S,diagnosis,"Perf due to fb acc left in body fol heart cath, sequela"
+100033,S52399G,diagnosis,"Oth fx shaft of rad, unsp arm, subs for clos fx w delay heal"
+100034,V512XXA,diagnosis,"Person outsd pk-up/van inj in clsn w pedl cyc nontraf, init"
+100035,N763,procedure,Subacute and chronic vulvitis
+100036,S42442A,diagnosis,"Disp fx (avulsion) of medial epicondyle of l humerus, init"
+100037,M84,diagnosis,Disorder of continuity of bone
+100038,R3121,diagnosis,Asymptomatic microscopic hematuria
+100039,H401230,procedure,"Low-tension glaucoma, bilateral, stage unspecified"
+100040,S62152P,procedure,"Disp fx of hook pro of hamate bone, l wrs, 7thP"
+100041,S92252S,procedure,"Displaced fracture of navicular of left foot, sequela"
+100042,T582X3S,diagnosis,"Tox eff of carb monx fr incmpl combst dmst fuel, asslt, sqla"
+100043,S96021,diagnosis,"Lacerat msl/tnd lng flxr msl of toe at ank/ft level, r foot"
+100044,M13839,procedure,"Other specified arthritis, unspecified wrist"
+100045,T2372,procedure,Corros third degree of single finger (nail) except thumb
+100046,H1584,procedure,Scleral ectasia
+100047,S62600,diagnosis,Fracture of unspecified phalanx of right index finger
+100048,M21764,procedure,"Unequal limb length (acquired), left fibula"
+100049,D379,procedure,"Neoplasm of uncertain behavior of digestive organ, unsp"
+100050,T85614,diagnosis,Breakdown (mechanical) of insulin pump
+100051,S89321G,diagnosis,"Sltr-haris Type II physl fx low end r fibula, 7thG"
+100052,T8541,procedure,Breakdown (mechanical) of breast prosthesis and implant
+100053,M84362,diagnosis,"Stress fracture, left tibia"
+100054,Z490,procedure,Preparatory care for renal dialysis
+100055,S82425M,procedure,"Nondisp transverse fx shaft of l fibula, 7thM"
+100056,S82423F,diagnosis,"Displ transverse fx shaft of unsp fibula, 7thF"
+100057,B6731,diagnosis,"Echinococcus granulosus infection, thyroid gland"
+100058,F1318,procedure,"Sedative, hypnotic or anxiolytic abuse w oth disorders"
+100059,W174XXD,diagnosis,"Fall from dock, subsequent encounter"
+100060,T63451A,diagnosis,"Toxic effect of venom of hornets, accidental, init"
+100061,P80,diagnosis,Hypothermia of newborn
+100062,S76899A,procedure,"Inj musc/fasc/tend at thigh level, unsp thigh, init encntr"
+100063,S73033D,procedure,"Other anterior subluxation of unspecified hip, subs encntr"
+100064,O36592,procedure,"Matern care for oth known or susp poor fetal grth, 2nd tri"
+100065,M1202,diagnosis,"Chronic postrheumatic arthropathy [Jaccoud], elbow"
+100066,C8314,diagnosis,"Mantle cell lymphoma, lymph nodes of axilla and upper limb"
+100067,V359XXS,diagnosis,"Occup of 3-whl mv inj in clsn w rail trn/veh in traf, sqla"
+100068,S50851A,diagnosis,"Superficial foreign body of right forearm, initial encounter"
+100069,S99211G,diagnosis,"Sltr-haris Type I physeal fx phalanx of right toe, 7thG"
+100070,M67869,diagnosis,"Oth disrd of synovium and tendon, unspecified knee"
+100071,M1A2290,procedure,"Drug-induced chronic gout, unspecified elbow, without tophus"
+100072,H40243,procedure,"Residual stage of angle-closure glaucoma, bilateral"
+100073,M21831,diagnosis,Other specified acquired deformities of right forearm
+100074,M70971,procedure,"Unsp soft tissue disord rel to use/pressure, right ank/ft"
+100075,S82112,procedure,Displaced fracture of left tibial spine
+100076,S46002,procedure,Unsp injury of musc/tend the rotator cuff of left shoulder
+100077,S62326B,procedure,"Disp fx of shaft of fifth MC bone, r hand, init for opn fx"
+100078,M1483,diagnosis,"Arthropathies in oth diseases classified elsewhere, wrist"
+100079,A202,diagnosis,Pneumonic plague
+100080,T4992XS,diagnosis,"Poisoning by unsp topical agent, self-harm, sequela"
+100081,S8292XQ,procedure,"Unsp fx l low leg, subs for opn fx type I/2 w malunion"
+100082,S59029P,diagnosis,"Sltr-haris Type II physl fx low end ulna, unsp arm, 7thP"
+100083,V959XXD,diagnosis,"Unspecified aircraft accident injuring occupant, subs encntr"
+100084,S82492D,procedure,"Oth fx shaft of left fibula, subs for clos fx w routn heal"
+100085,S5782,procedure,Crushing injury of left forearm
+100086,S23143S,diagnosis,"Dislocation of T7/T8 thoracic vertebra, sequela"
+100087,S68118S,diagnosis,"Complete traumatic MCP amputation of finger, sequela"
+100088,T69019,diagnosis,"Immersion hand, unspecified hand"
+100089,H7133,diagnosis,"Diffuse cholesteatosis, bilateral"
+100090,H61329,procedure,"Acq stenos of ext ear canal sec to inflam & infct, unsp ear"
+100091,O4101X9,diagnosis,"Oligohydramnios, first trimester, other fetus"
+100092,H1881,diagnosis,Anesthesia and hypoesthesia of cornea
+100093,S53439A,procedure,"Radial collateral ligament sprain of unsp elbow, init encntr"
+100094,H04303,diagnosis,Unspecified dacryocystitis of bilateral lacrimal passages
+100095,M1A169,diagnosis,"Lead-induced chronic gout, unspecified knee"
+100096,S01442D,diagnosis,"Pnctr w foreign body of left cheek and TMJ area, subs"
+100097,S68613S,diagnosis,"Complete traumatic trnsphal amp of l mid finger, sequela"
+100098,S52279F,diagnosis,"Monteggia's fx unsp ulna, 7thF"
+100099,S92402G,diagnosis,"Displaced unsp fx left great toe, subs for fx w delay heal"
+100100,S63282A,diagnosis,"Disloc of proximal interphaln joint of r mid finger, init"
+100101,T22342D,procedure,"Burn of third degree of left axilla, subsequent encounter"
+100102,S52031G,procedure,"Disp fx of olecran pro w intartic extn r ulna, 7thG"
+100103,I6926,procedure,Oth paralytic syndrome following oth ntrm intcrn hemorrhage
+100104,S70261,procedure,"Insect bite (nonvenomous), right hip"
+100105,S72133,diagnosis,Displaced apophyseal fracture of unspecified femur
+100106,M89233,procedure,"Other disorders of bone development and growth, right radius"
+100107,S52135C,diagnosis,"Nondisp fx of neck of left rad, init for opn fx type 3A/B/C"
+100108,S6991XA,diagnosis,"Unsp injury of right wrist, hand and finger(s), init encntr"
+100109,K9402,procedure,Colostomy infection
+100110,H3512,procedure,"Retinopathy of prematurity, stage 1"
+100111,S52031J,procedure,"Disp fx of olecran pro w intartic extn r ulna, 7thJ"
+100112,C44611,procedure,"Basal cell carcinoma skin/ unsp upper limb, inc shoulder"
+100113,S0105XS,diagnosis,"Open bite of scalp, sequela"
+100114,V503XXD,procedure,"Occup of pk-up/van injured in clsn w ped/anml nontraf, subs"
+100115,S52001D,diagnosis,"Unsp fx upper end of r ulna, subs for clos fx w routn heal"
+100116,K1121,procedure,Acute sialoadenitis
+100117,S9491XA,procedure,"Injury of unsp nerve at ank/ft level, right leg, init"
+100118,O64,procedure,Obstructed labor due to malposition and malpresent of fetus
+100119,T3692XS,procedure,"Poisoning by unsp systemic antibiotic, self-harm, sequela"
+100120,A3981,procedure,Meningococcal encephalitis
+100121,H05211,procedure,"Displacement (lateral) of globe, right eye"
+100122,Z8701,diagnosis,Personal history of pneumonia (recurrent)
+100123,S53412S,procedure,"Radiohumeral (joint) sprain of left elbow, sequela"
+100124,M47,procedure,Spondylosis
+100125,S65419S,procedure,"Laceration of blood vessel of unspecified thumb, sequela"
+100126,O29111,procedure,"Cardiac arrest due to anesth during preg, first trimester"
+100127,Z4732,diagnosis,Aftercare following explantation of hip joint prosthesis
+100128,M66159,procedure,"Rupture of synovium, unspecified hip"
+100129,T62,procedure,Toxic effect of other noxious substances eaten as food
+100130,M91,procedure,Juvenile osteochondrosis of hip and pelvis
+100131,S4215,diagnosis,Fracture of neck of scapula
+100132,S42326A,diagnosis,"Nondisp transverse fx shaft of humerus, unsp arm, init"
+100133,T2345,procedure,Corrosion of unspecified degree of palm
+100134,T497X1S,procedure,"Poisoning by dental drugs, topically applied, acc, sequela"
+100135,I69059,diagnosis,Hemiplga following ntrm subarach hemor affecting unsp side
+100136,M8979,diagnosis,"Major osseous defect, multiple sites"
+100137,Y37490S,diagnosis,"Milt op involving oth conventional warfare, milt, sequela"
+100138,H260,procedure,Infantile and juvenile cataract
+100139,M84569,diagnosis,"Path fracture in neoplastic disease, unsp tibia and fibula"
+100140,T879,diagnosis,Unspecified complications of amputation stump
+100141,H11413,procedure,"Vascular abnormalities of conjunctiva, bilateral"
+100142,V6920,diagnosis,Occup of hv veh injured in collision w unsp mv nontraf
+100143,T448X1D,procedure,"Poisoning by centr-acting/adren-neurn-block agnt, acc, subs"
+100144,S52351Q,procedure,"Displ commnt fx shaft of rad, r arm, 7thQ"
+100145,H30022,diagnosis,"Focal chorioretinal inflammation of posterior pole, left eye"
+100146,S65409S,procedure,"Unsp injury of blood vessel of unspecified thumb, sequela"
+100147,S06305S,procedure,"Unsp focal TBI w LOC >24 hr w ret consc lev, sequela"
+100148,S53449S,diagnosis,"Ulnar collateral ligament sprain of unsp elbow, sequela"
+100149,S42321,diagnosis,"Displaced transverse fracture of shaft of humerus, right arm"
+100150,S86301D,diagnosis,"Unsp inj musc/tend peroneal grp at low leg lev, r leg, subs"
+100151,T753XXA,procedure,"Motion sickness, initial encounter"
+100152,S24134,procedure,Anterior cord syndrome at T11-T12
+100153,Q18,procedure,Other congenital malformations of face and neck
+100154,S12551D,diagnosis,"Oth traum nondisp spondylolysis of sixth cervcal vert, 7thD"
+100155,S9811,procedure,Complete traumatic amputation of great toe
+100156,B909,diagnosis,Sequelae of respiratory and unspecified tuberculosis
+100157,S63636D,diagnosis,"Sprain of interphalangeal joint of right little finger, subs"
+100158,S72344B,diagnosis,"Nondisp spiral fx shaft of r femur, init for opn fx type I/2"
+100159,W941,diagnosis,Exposure to prolonged low air pressure
+100160,S82862Q,procedure,"Displ Maisonneuve's fx l leg, 7thQ"
+100161,T446X5D,diagnosis,"Adverse effect of alpha-adrenoreceptor antagonists, subs"
+100162,T22249S,diagnosis,"Burn of second degree of unspecified axilla, sequela"
+100163,S91106D,procedure,"Unsp opn wnd unsp lesser toe(s) w/o damage to nail, subs"
+100164,R0682,procedure,"Tachypnea, not elsewhere classified"
+100165,Y380,procedure,Terrorism involving explosion of marine weapons
+100166,T2303,procedure,"Burn of unsp deg mult fingers (nail), not including thumb"
+100167,S728X2M,procedure,"Oth fx left femur, subs for opn fx type I/2 w nonunion"
+100168,S93602S,procedure,"Unspecified sprain of left foot, sequela"
+100169,T22241S,procedure,"Burn of second degree of right axilla, sequela"
+100170,V00228A,diagnosis,"Other sled accident, initial encounter"
+100171,S90211A,procedure,"Contusion of right great toe w damage to nail, init encntr"
+100172,I824Z2,procedure,Ac emblsm and thombos unsp deep veins of left dist low extrm
+100173,S49011K,diagnosis,"Sltr-haris Type I physl fx upr end humer, r arm, 7thK"
+100174,S31635D,diagnosis,"Pnctr w/o fb of abd wl, periumb rgn w penet perit cav, subs"
+100175,I69014,diagnosis,Fntl lb and exec fcn def following ntrm subarach hemorrhage
+100176,T34522D,diagnosis,"Frostbite with tissue necrosis of left hand, subs encntr"
+100177,T69021D,diagnosis,"Immersion foot, right foot, subsequent encounter"
+100178,S162,diagnosis,"Laceration of muscle, fascia and tendon at neck level"
+100179,S4580,procedure,Unsp injury of blood vessels at shoulder and upper arm level
+100180,M70031,procedure,"Crepitant synovitis (acute) (chronic), right wrist"
+100181,C794,procedure,Secondary malig neoplasm of and unsp parts of nervous sys
+100182,S92245A,procedure,"Nondisp fx of medial cuneiform of left foot, init"
+100183,S59141G,procedure,"Sltr-haris Type IV physl fx upr end rad, r arm, 7thG"
+100184,S76229S,procedure,"Laceration of adductor musc/fasc/tend unsp thigh, sequela"
+100185,V675XXA,diagnosis,"Driver of hv veh inj in clsn w statnry object in traf, init"
+100186,H47022,diagnosis,"Hemorrhage in optic nerve sheath, left eye"
+100187,T43026S,procedure,"Underdosing of tetracyclic antidepressants, sequela"
+100188,E2602,diagnosis,Glucocorticoid-remediable aldosteronism
+100189,T8132XA,diagnosis,"Disruption of internal operation (surgical) wound, NEC, init"
+100190,T8242XS,procedure,"Displacement of vascular dialysis catheter, sequela"
+100191,S8254XA,procedure,"Nondisp fx of medial malleolus of right tibia, init"
+100192,E71440,diagnosis,Ruvalcaba-Myhre-Smith syndrome
+100193,T450X3,diagnosis,"Poisoning by antiallergic and antiemetic drugs, assault"
+100194,V0510XA,procedure,"Ped on foot injured in clsn w rail trn/veh in traf, init"
+100195,A4851,diagnosis,Infant botulism
+100196,F12950,diagnosis,"Cannabis use, unsp with psychotic disorder with delusions"
+100197,D0222,procedure,Carcinoma in situ of left bronchus and lung
+100198,S59031D,diagnosis,"Sltr-haris Type III physl fx low end ulna, r arm, 7thD"
+100199,T43023A,procedure,"Poisoning by tetracyclic antidepressants, assault, init"
+100200,S63133A,procedure,"Subluxation of proximal interphalangeal joint of thmb, init"
+100201,T23439S,procedure,"Corros unsp degree of unsp mult fngr, not inc thumb, sqla"
+100202,S46002S,procedure,"Unsp inj musc/tend the rotator cuff of l shoulder, sequela"
+100203,S8265XJ,diagnosis,"Nondisp fx of lateral malleolus of l fibula, 7thJ"
+100204,S36112D,procedure,"Contusion of liver, subsequent encounter"
+100205,V324,diagnosis,Prsn brd/alit a 3-whl mv injured in collision w 2/3-whl mv
+100206,S82232J,diagnosis,"Displ oblique fx shaft of l tibia, 7thJ"
+100207,T22699D,diagnosis,"Corros 2nd deg mul sites of shldr/up lmb, ex wrs/hnd, subs"
+100208,G7111,diagnosis,Myotonic muscular dystrophy
+100209,S06384A,procedure,"Contus/lac/hem brainstem w LOC of 6 hours to 24 hours, init"
+100210,S66499,procedure,Inj intrinsic musc/fasc/tend thmb at wrist and hand level
+100211,S56999S,diagnosis,"Inj unsp musc/fasc/tend at forearm level, unsp arm, sequela"
+100212,T43021A,diagnosis,"Poisoning by tetracyclic antidepressants, accidental, init"
+100213,S60466S,diagnosis,"Insect bite (nonvenomous) of right little finger, sequela"
+100214,T8489XD,diagnosis,"Oth comp of internal orthopedic prosth dev/grft, subs"
+100215,C7400,diagnosis,Malignant neoplasm of cortex of unspecified adrenal gland
+100216,V8642XD,diagnosis,"Person injured wh brd/alit from snowmobile, subs"
+100217,O368934,procedure,"Maternal care for oth fetal problems, third tri, fetus 4"
+100218,T85731D,diagnosis,"I/I react d/t implnt elec nstim of brain, lead, subs"
+100219,S32131B,diagnosis,"Minimally displaced Zone III fx sacrum, init for opn fx"
+100220,Y0881,procedure,Assault by crashing of aircraft
+100221,T46903S,procedure,"Poisn by unsp agents aff the cardiovasc sys, asslt, sequela"
+100222,T448X6,diagnosis,Underdosing of centr-acting/adren-neurn-block agnt
+100223,O4433,diagnosis,"Partial placenta previa with hemorrhage, third trimester"
+100224,T43506A,diagnosis,"Underdosing of unsp antipsychotics and neuroleptics, init"
+100225,S62342K,diagnosis,"Nondisp fx of base of 3rd MC bone, r hand, 7thK"
+100226,H02231,procedure,Paralytic lagophthalmos right upper eyelid
+100227,S4811,diagnosis,Complete traumatic amp at level betw shoulder and elbow
+100228,S9305XA,procedure,"Dislocation of left ankle joint, initial encounter"
+100229,O365190,procedure,"Matern care for known or susp placntl insuff, unsp tri, unsp"
+100230,M4857,diagnosis,"Collapsed vertebra, NEC, lumbosacral region"
+100231,Z9001,diagnosis,Acquired absence of eye
+100232,W1692XD,procedure,"Jumping or diving into unsp water causing oth injury, subs"
+100233,S68011,procedure,Complete traumatic MCP amputation of right thumb
+100234,J9501,procedure,Hemorrhage from tracheostomy stoma
+100235,S42114,diagnosis,"Nondisplaced fracture of body of scapula, right shoulder"
+100236,T8331,diagnosis,Breakdown (mechanical) of intrauterine contraceptive device
+100237,V9106XS,procedure,"Burn due to (nonpowered) inflatable craft on fire, sequela"
+100238,S73003,procedure,Unspecified subluxation of unspecified hip
+100239,T20512,procedure,Corrosion of first degree of left ear
+100240,O9A23,diagnosis,Inj/poisn/oth conseq of external causes comp the puerperium
+100241,V9003XD,procedure,"Drown due to oth powered watercraft overturning, subs"
+100242,S52514F,diagnosis,"Nondisp fx of r radial styloid pro, 7thF"
+100243,E133,procedure,Oth diabetes mellitus with ophthalmic complications
+100244,H01133,diagnosis,"Eczematous dermatitis of right eye, unspecified eyelid"
+100245,S66517S,procedure,"Strain intrns musc/fasc/tend l lit fngr at wrs/hnd lv, sqla"
+100246,S93516S,diagnosis,"Sprain of interphaln joint of unsp lesser toe(s), sequela"
+100247,Y36490S,diagnosis,"War operations involving oth conventl warfare, milt, sequela"
+100248,N179,diagnosis,"Acute kidney failure, unspecified"
+100249,C44211,procedure,Basal cell carcinoma skin/ unsp ear and external auric canal
+100250,O411212,procedure,"Chorioamnionitis, first trimester, fetus 2"
+100251,T22511D,procedure,"Corrosion of first degree of right forearm, subs encntr"
+100252,S62605P,diagnosis,"Fx unsp phalanx of l rng fngr, subs for fx w malunion"
+100253,S82871P,diagnosis,"Displaced pilon fx right tibia, subs for clos fx w malunion"
+100254,S8490XD,diagnosis,"Injury of unsp nerve at lower leg level, unsp leg, subs"
+100255,V1949XA,procedure,"Pedl cyc driver injured in collision w oth mv in traf, init"
+100256,M8430XK,procedure,"Stress fracture, unsp site, subs for fx w nonunion"
+100257,I70542,procedure,Athscl nonaut bio bypass of the left leg w ulcer of calf
+100258,N838,diagnosis,"Oth noninflammatory disord of ovary, fallop and broad ligmt"
+100259,T24121S,procedure,"Burn of first degree of right knee, sequela"
+100260,T31,procedure,Burns classified accord extent body involv
+100261,Y379,diagnosis,Other and unspecified military operations
+100262,S6792,diagnosis,"Crushing injury of unsp part(s) of l wrist, hand and fingers"
+100263,C8132,diagnosis,"Lymphocyte depleted Hodgkin lymphoma, intrathorac nodes"
+100264,Q243,diagnosis,Pulmonary infundibular stenosis
+100265,T23179A,diagnosis,"Burn of first degree of unspecified wrist, initial encounter"
+100266,T2025,procedure,Burn of second degree of scalp [any part]
+100267,S82116S,procedure,"Nondisplaced fracture of unspecified tibial spine, sequela"
+100268,E311,procedure,Polyglandular hyperfunction
+100269,M67952,diagnosis,"Unspecified disorder of synovium and tendon, left thigh"
+100270,T24231S,procedure,"Burn of second degree of right lower leg, sequela"
+100271,S92216,procedure,Nondisplaced fracture of cuboid bone of unspecified foot
+100272,T82218D,diagnosis,"Mech compl of coronary artery bypass graft, subs encntr"
+100273,S79101,diagnosis,Unspecified physeal fracture of lower end of right femur
+100274,S36590S,procedure,"Other injury of ascending [right] colon, sequela"
+100275,T63792D,diagnosis,"Toxic effect of contact w oth venomous plant, slf-hrm, subs"
+100276,I6012,diagnosis,Ntrm subarach hemorrhage from left middle cerebral artery
+100277,S68613,diagnosis,Complete traumatic trnsphal amputation of l mid finger
+100278,E1042,diagnosis,Type 1 diabetes mellitus with diabetic polyneuropathy
+100279,S27491D,procedure,"Other injury of bronchus, unilateral, subsequent encounter"
+100280,S43316A,procedure,"Dislocation of unspecified scapula, initial encounter"
+100281,S93326S,procedure,"Dislocation of tarsometatarsal joint of unsp foot, sequela"
+100282,M62132,diagnosis,"Other rupture of muscle (nontraumatic), left forearm"
+100283,V9014XD,diagnosis,"Drowning and submersion due to sailboat sinking, subs encntr"
+100284,K55032,diagnosis,Diffuse acute (reversible) ischemia of large intestine
+100285,H44653,procedure,"Retained (old) magnetic fb in vitreous body, bilateral"
+100286,A513,procedure,Secondary syphilis of skin and mucous membranes
+100287,O261,procedure,Low weight gain in pregnancy
+100288,S72344K,procedure,"Nondisp spiral fx shaft of r femr, 7thK"
+100289,L03325,diagnosis,Acute lymphangitis of perineum
+100290,H1582,procedure,Localized anterior staphyloma
+100291,Z90711,procedure,Acquired absence of uterus with remaining cervical stump
+100292,S66092,diagnosis,Inj long flexor musc/fasc/tend left thumb at wrs/hnd lv
+100293,S0031XS,diagnosis,"Abrasion of nose, sequela"
+100294,M67863,diagnosis,"Other specified disorders of tendon, right knee"
+100295,S52026N,procedure,"Nondisp fx of olecran pro w/o intartic extn unsp ulna, 7thN"
+100296,V134XXD,procedure,"Pedl cyc driver inj pick-up truck, pk-up/van in traf, subs"
+100297,S86912D,diagnosis,"Strain of unsp musc/tend at lower leg level, left leg, subs"
+100298,S5332XA,procedure,"Traumatic rupture of left ulnar collateral ligament, init"
+100299,V80010S,procedure,"Animl-ridr injured by fall fr horse in nonclsn acc, sequela"
+100300,O4100X0,procedure,"Oligohydramnios, unsp trimester, not applicable or unsp"
+100301,S65909,procedure,Unsp injury of unsp blood vessel at wrs/hnd lv of unsp arm
+100302,S62224S,diagnosis,"Nondisplaced Rolando's fracture, right hand, sequela"
+100303,T480X5S,procedure,"Adverse effect of oxytocic drugs, sequela"
+100304,M8723,diagnosis,"Osteonecrs due to previous trauma of radius, ulna and carpus"
+100305,M4844XA,diagnosis,"Fatigue fracture of vertebra, thoracic region, init for fx"
+100306,S49142,diagnosis,"Sltr-haris Type IV physeal fx lower end of humerus, left arm"
+100307,S79102P,procedure,"Unsp physeal fx lower end of l femur, subs for fx w malunion"
+100308,M21512,procedure,"Acquired clawhand, left hand"
+100309,S7222XA,procedure,"Displaced subtrochanteric fracture of left femur, init"
+100310,V300XXD,procedure,"Driver of 3-whl mv injured in clsn w ped/anml nontraf, subs"
+100311,S35401A,procedure,"Unspecified injury of right renal artery, initial encounter"
+100312,S79001G,diagnosis,"Unsp physl fx upper end of r femur, subs for fx w delay heal"
+100313,H3001,diagnosis,"Focal chorioretinal inflammation, juxtapapillary"
+100314,T63711A,procedure,"Toxic effect of contact w venomous marine plant, acc, init"
+100315,S35338S,procedure,"Other specified injury of superior mesenteric vein, sequela"
+100316,M8633,diagnosis,"Chronic multifocal osteomyelitis, radius and ulna"
+100317,S80879D,procedure,"Other superficial bite, unspecified lower leg, subs encntr"
+100318,T63691A,procedure,"Toxic effect of cntct w oth venom marine animals, acc, init"
+100319,V9421XA,diagnosis,"Rider of nonpowr wtrcrft struck by oth nonpowr wtrcrft, init"
+100320,N5082,diagnosis,Scrotal pain
+100321,Y36191,procedure,"War operations involving oth dest arcrft, civilian"
+100322,S40219,diagnosis,Abrasion of unspecified shoulder
+100323,S82123D,diagnosis,"Disp fx of lateral condyle of unsp tibia, 7thD"
+100324,S66599S,diagnosis,"Inj intrns musc/fasc/tend unsp finger at wrs/hnd lv, sequela"
+100325,S6412XS,procedure,"Injury of median nerve at wrs/hnd lv of left arm, sequela"
+100326,S52045J,diagnosis,"Nondisp fx of coronoid pro of l ulna, 7thJ"
+100327,M84475S,procedure,"Pathological fracture, left foot, sequela"
+100328,W5602,diagnosis,Struck by dolphin
+100329,S55811S,diagnosis,"Laceration of blood vessels at forarm lv, right arm, sequela"
+100330,S0057,diagnosis,Other superficial bite of lip and oral cavity
+100331,Z89522,diagnosis,Acquired absence of left knee
+100332,Z138,diagnosis,Encounter for screening for oth diseases and disorders
+100333,M86411,procedure,"Chronic osteomyelitis with draining sinus, right shoulder"
+100334,M6130,diagnosis,"Calcifcn and ossifictn of muscles assoc w burns, unsp site"
+100335,T23002,procedure,"Burn of unspecified degree of left hand, unspecified site"
+100336,O4190X2,procedure,"Disorder of amnio fluid and membrns, unsp, unsp tri, fetus 2"
+100337,S63074S,procedure,"Dislocation of distal end of right ulna, sequela"
+100338,S82016R,diagnosis,"Nondisp osteochon fx unsp patella, 7thR"
+100339,W0110XA,procedure,"Fall same lev from slip/trip w strike agnst unsp obj, init"
+100340,T1812,procedure,Food in esophagus
+100341,S4351XS,procedure,"Sprain of right acromioclavicular joint, sequela"
+100342,H16252,diagnosis,"Phlyctenular keratoconjunctivitis, left eye"
+100343,T8329XA,procedure,"Mech compl of graft of urinary organ, initial encounter"
+100344,G892,diagnosis,"Chronic pain, not elsewhere classified"
+100345,S85499D,diagnosis,"Inj lesser saphenous vein at lower leg level, unsp leg, subs"
+100346,W6132,diagnosis,Struck by chicken
+100347,E133529,diagnosis,"Oth diab with prolif diab rtnop with trctn dtch macula, unsp"
+100348,S61211S,procedure,"Laceration w/o fb of l idx fngr w/o damage to nail, sequela"
+100349,S32021G,procedure,"Stable burst fx second lum vert, subs for fx w delay heal"
+100350,L729,procedure,"Follicular cyst of the skin and subcutaneous tissue, unsp"
+100351,I69820,diagnosis,Aphasia following other cerebrovascular disease
+100352,S61001D,procedure,"Unsp open wound of right thumb w/o damage to nail, subs"
+100353,S62225B,diagnosis,"Nondisplaced Rolando's fracture, left hand, init for opn fx"
+100354,S89009D,diagnosis,"Unsp physl fx upper end unsp tibia, subs for fx w routn heal"
+100355,S00431,procedure,Contusion of right ear
+100356,S42433B,diagnosis,"Disp fx of lateral epicondyl of unsp humer, init for opn fx"
+100357,T434X6A,diagnosis,"Underdosing of butyrophen/thiothixen neuroleptics, init"
+100358,S42454P,procedure,"Nondisp fx of lateral condyle of r humer, 7thP"
+100359,S72021,diagnosis,Disp fx of epiphysis (separation) (upper) of right femur
+100360,S5084,procedure,External constriction of forearm
+100361,S62661K,diagnosis,"Nondisp fx of dist phalanx of l idx fngr, 7thK"
+100362,V640,procedure,Driver of hv veh injured in collision w hv veh nontraf
+100363,H05263,diagnosis,"Pulsating exophthalmos, bilateral"
+100364,T448X1A,diagnosis,"Poisoning by centr-acting/adren-neurn-block agnt, acc, init"
+100365,P508,procedure,Newborn affected by other intrauterine (fetal) blood loss
+100366,O411092,diagnosis,"Infct of amniotic sac and membrns, unsp, unsp tri, fetus 2"
+100367,S96091S,diagnosis,"Inj msl/tnd lng flxr msl toe at ank/ft level, r foot, sqla"
+100368,T2003,diagnosis,Burn of unspecified degree of chin
+100369,O30119,diagnosis,"Triplet preg w two or more monochorionic fetuses, unsp tri"
+100370,S96221S,diagnosis,"Lacerat intrinsic msl/tnd at ank/ft level, r foot, sequela"
+100371,T450X6,procedure,Underdosing of antiallergic and antiemetic drugs
+100372,E24,procedure,Cushing's syndrome
+100373,W5531XS,diagnosis,"Bitten by other hoof stock, sequela"
+100374,W1831XA,procedure,"Fall on same level due to stepping on an object, init encntr"
+100375,S66819,diagnosis,"Strain of musc/fasc/tend at wrist and hand level, unsp hand"
+100376,S020XXA,diagnosis,"Fracture of vault of skull, init encntr for closed fracture"
+100377,A5609,diagnosis,Other chlamydial infection of lower genitourinary tract
+100378,S63412A,procedure,"Traum rupt of collat ligmt of r mid fngr at MCP/IP jt, init"
+100379,H05353,diagnosis,Exostosis of bilateral orbits
+100380,M23211,diagnosis,"Derang of ant horn of medial mensc d/t old tear/inj, r knee"
+100381,C9391,diagnosis,"Monocytic leukemia, unspecified in remission"
+100382,Q371,diagnosis,Cleft hard palate with unilateral cleft lip
+100383,V607,diagnosis,Person outside hv veh injured in clsn w ped/anml in traf
+100384,S85122D,procedure,"Oth injury of unsp tibial artery, left leg, subs encntr"
+100385,K0850,diagnosis,"Unsatisfactory restoration of tooth, unspecified"
+100386,B191,diagnosis,Unspecified viral hepatitis B
+100387,S70279A,procedure,"Other superficial bite of hip, unspecified hip, init encntr"
+100388,T24111S,diagnosis,"Burn of first degree of right thigh, sequela"
+100389,S46202S,diagnosis,"Unsp injury of musc/fasc/tend prt biceps, left arm, sequela"
+100390,T22049,diagnosis,Burn of unspecified degree of unspecified axilla
+100391,V0209XS,procedure,"Ped w convey injured in clsn w 2/3-whl mv nontraf, sequela"
+100392,S34104A,procedure,"Unsp injury to L4 level of lumbar spinal cord, init encntr"
+100393,T63621A,procedure,"Toxic effect of contact w oth jellyfish, accidental, init"
+100394,J09,procedure,Influenza due to certain identified influenza viruses
+100395,T438X4D,diagnosis,"Poisoning by oth psychotropic drugs, undetermined, subs"
+100396,O3621X4,diagnosis,"Maternal care for hydrops fetalis, first trimester, fetus 4"
+100397,T80310,diagnosis,ABO incompatibility w acute hemolytic transfusion reaction
+100398,S89109S,diagnosis,"Unsp physeal fracture of lower end of unsp tibia, sequela"
+100399,S72399S,procedure,"Other fracture of shaft of unspecified femur, sequela"
+100400,S6559,diagnosis,Oth injury of blood vessel of other and unspecified finger
+100401,M84521P,diagnosis,"Path fx in neopltc dis, r humerus, subs for fx w malunion"
+100402,M2173,diagnosis,"Unequal limb length (acquired), ulna and radius"
+100403,T71153A,diagnosis,"Asphyxiation due to smothering in furniture, assault, init"
+100404,I2789,procedure,Other specified pulmonary heart diseases
+100405,S58922S,diagnosis,"Partial traumatic amp of l forearm, level unsp, sequela"
+100406,S52691C,procedure,"Oth fx lower end of right ulna, init for opn fx type 3A/B/C"
+100407,P7883,diagnosis,Newborn esophageal reflux
+100408,T23562,diagnosis,Corrosion of first degree of back of left hand
+100409,S90931A,procedure,"Unsp superficial injury of right great toe, init encntr"
+100410,M4848XS,diagnosis,"Fatigue fracture of vertebra, sacr/sacrocygl region, sqla"
+100411,S40911,procedure,Unspecified superficial injury of right shoulder
+100412,T363X6A,diagnosis,"Underdosing of macrolides, initial encounter"
+100413,S32512,diagnosis,Fracture of superior rim of left pubis
+100414,S46102A,diagnosis,"Unsp injury of musc/fasc/tend long hd bicep, left arm, init"
+100415,S72051H,procedure,"Unsp fx head of r femr, 7thH"
+100416,T43294S,procedure,"Poisoning by other antidepressants, undetermined, sequela"
+100417,K5504,procedure,Acute infarction of large intestine
+100418,T33831D,procedure,"Superficial frostbite of right toe(s), subsequent encounter"
+100419,T2631XS,procedure,"Burns of oth parts of right eye and adnexa, sequela"
+100420,T388,diagnosis,And unsp hormones and synthetic substitutes
+100421,M4852XD,diagnosis,"Collapsed vert, NEC, cerv region, subs for fx w routn heal"
+100422,C8594,procedure,"Non-Hodgkin lymphoma, unsp, nodes of axilla and upper limb"
+100423,H11141,procedure,"Conjunctival xerosis, unspecified, right eye"
+100424,T2166XS,diagnosis,"Corrosion of second degree of male genital region, sequela"
+100425,S25401,procedure,Unspecified injury of right pulmonary blood vessels
+100426,S0280XD,diagnosis,"Fx oth skull and facial bones, unspecified side, 7thD"
+100427,S8256XR,diagnosis,"Nondisp fx of med malleolus of unsp tibia, 7thR"
+100428,S72332P,procedure,"Displ oblique fx shaft of l femr, 7thP"
+100429,M4845XD,diagnosis,"Fatigue fx vertebra, thrclm region, subs for fx w routn heal"
+100430,S68627D,diagnosis,"Partial traumatic trnsphal amp of l little finger, subs"
+100431,S7701XD,diagnosis,"Crushing injury of right hip, subsequent encounter"
+100432,R29708,procedure,NIHSS score 8
+100433,S08112D,procedure,"Complete traumatic amputation of left ear, subs encntr"
+100434,S1253,procedure,Unsp traumatic spondylolisthesis of sixth cervical vertebra
+100435,Y29XXXD,procedure,"Contact with blunt object, undetermined intent, subs encntr"
+100436,S728X2D,procedure,"Oth fracture of left femur, subs for clos fx w routn heal"
+100437,S3216XK,diagnosis,"Type 3 fracture of sacrum, subs for fx w nonunion"
+100438,Z622,procedure,Upbringing away from parents
+100439,G973,diagnosis,Intraop hemor/hemtom of a nervous sys org comp a procedure
+100440,M4988,diagnosis,"Spond in diseases classd elswhr, sacr/sacrocygl region"
+100441,S62311,diagnosis,Disp fx of base of second metacarpal bone. left hand
+100442,O30811,diagnosis,"Oth mult gest w two or more monochorionic fetuses, first tri"
+100443,S63202S,procedure,"Unspecified subluxation of right middle finger, sequela"
+100444,H81311,procedure,"Aural vertigo, right ear"
+100445,S37818S,procedure,"Other injury of adrenal gland, sequela"
+100446,Z381,diagnosis,"Single liveborn infant, born outside hospital"
+100447,H16209,diagnosis,"Unspecified keratoconjunctivitis, unspecified eye"
+100448,M1004,procedure,"Idiopathic gout, hand"
+100449,X023,procedure,Fall from burning building or structure in controlled fire
+100450,T385X4A,diagnosis,"Poisoning by oth estrogens and progstrn, undetermined, init"
+100451,T541X4A,procedure,"Toxic effect of corrosive organic compounds, undet, init"
+100452,T22159D,diagnosis,"Burn of first degree of unspecified shoulder, subs encntr"
+100453,T2075XS,diagnosis,"Corrosion of third degree of scalp [any part], sequela"
+100454,T2123XA,procedure,"Burn of second degree of upper back, initial encounter"
+100455,S63391A,procedure,"Traumatic rupture of oth ligament of right wrist, init"
+100456,L89,procedure,Pressure ulcer
+100457,S42326S,diagnosis,"Nondisp transverse fx shaft of humerus, unsp arm, sequela"
+100458,S52255H,diagnosis,"Nondisp commnt fx shaft of ulna, l arm, 7thH"
+100459,V932,diagnosis,Heat exposure on board watercraft
+100460,S51822,procedure,Laceration with foreign body of left forearm
+100461,I824Z3,procedure,"Ac emblsm and thombos unsp deep veins of dist low extrm, bi"
+100462,Z801,procedure,"Family history of malig neoplasm of trachea, bronc and lung"
+100463,O43191,diagnosis,"Other malformation of placenta, first trimester"
+100464,T6112XD,diagnosis,"Scombroid fish poisoning, intentional self-harm, subs encntr"
+100465,Z7702,diagnosis,Contact w and exposure to hazardous aromatic compounds
+100466,H44133,procedure,"Sympathetic uveitis, bilateral"
+100467,T86848,diagnosis,Other complications of corneal transplant
+100468,T7691XA,diagnosis,"Unspecified adult maltreatment, suspected, initial encounter"
+100469,Y36811S,procedure,"Explosn of mine place dur war op but expld after, civ, sqla"
+100470,D78,procedure,Intraop and postprocedural complications of the spleen
+100471,M84619A,diagnosis,"Pathological fracture in oth disease, unsp shoulder, init"
+100472,C504,diagnosis,Malignant neoplasm of upper-outer quadrant of breast
+100473,S76891A,procedure,"Inj musc/fasc/tend at thigh level, right thigh, init encntr"
+100474,M08872,diagnosis,"Other juvenile arthritis, left ankle and foot"
+100475,S23101A,procedure,"Dislocation of unspecified thoracic vertebra, init encntr"
+100476,T25721D,procedure,"Corrosion of third degree of right foot, subs encntr"
+100477,S65902A,diagnosis,"Unsp inj unsp blood vess at wrs/hnd lv of left arm, init"
+100478,T82339S,diagnosis,"Leakage of unspecified vascular graft, sequela"
+100479,Y218XXA,procedure,"Oth drowning and submersion, undetermined intent, init"
+100480,Y37051D,diagnosis,"Milt op w acc deton onboard marine weapons, civilian, subs"
+100481,S3992XD,diagnosis,"Unspecified injury of lower back, subsequent encounter"
+100482,S65819A,procedure,"Laceration of blood vessels at wrs/hnd lv of unsp arm, init"
+100483,H04169,procedure,"Lacrimal gland dislocation, unspecified lacrimal gland"
+100484,T2660,diagnosis,"Corrosion of cornea and conjunctival sac, unspecified eye"
+100485,Z87412,diagnosis,Personal history of vulvar dysplasia
+100486,O354XX2,diagnosis,"Maternal care for damage to fetus from alcohol, fetus 2"
+100487,T84199S,procedure,"Mech compl of int fix of unsp bone of limb, sequela"
+100488,M6682,procedure,"Spontaneous rupture of other tendons, upper arm"
+100489,S56302A,procedure,"Unsp inj extn/abdr musc/fasc/tend of l thm at forarm lv,init"
+100490,T23299A,diagnosis,"Burn of 2nd deg mul sites of unsp wrist and hand, init"
+100491,N1370,procedure,"Vesicoureteral-reflux, unspecified"
+100492,C506,procedure,Malignant neoplasm of axillary tail of breast
+100493,S3131,diagnosis,Laceration without foreign body of scrotum and testes
+100494,C8303,procedure,"Small cell B-cell lymphoma, intra-abdominal lymph nodes"
+100495,S93503,procedure,Unspecified sprain of unspecified great toe
+100496,M1A01,diagnosis,"Idiopathic chronic gout, shoulder"
+100497,S42493A,diagnosis,"Oth disp fx of lower end of unsp humerus, init for clos fx"
+100498,T24799S,procedure,"Corros 3rd deg mu sites of unsp lower limb, ex ank/ft, sqla"
+100499,S32432K,procedure,"Disp fx of ant column of left acetab, subs for fx w nonunion"
+100500,H353,diagnosis,Degeneration of macula and posterior pole
+100501,M84345D,diagnosis,"Stress fracture, left finger(s), subs for fx w routn heal"
+100502,V184XXA,diagnosis,"Pedl cyc driver injured in nonclsn trnsp acc in traf, init"
+100503,T22732S,procedure,"Corrosion of third degree of left upper arm, sequela"
+100504,H5352,diagnosis,Acquired color vision deficiency
+100505,K51311,diagnosis,Ulcerative (chronic) rectosigmoiditis with rectal bleeding
+100506,M23229,diagnosis,"Derang of post horn of med mensc d/t old tear/inj, unsp knee"
+100507,H2609,procedure,Other infantile and juvenile cataract
+100508,S92346K,diagnosis,"Nondisp fx of 4th metatarsal bone, unsp ft, 7thK"
+100509,S27893A,procedure,"Laceration of oth intrathoracic organs, init encntr"
+100510,J45990,diagnosis,Exercise induced bronchospasm
+100511,Y282XXA,diagnosis,"Contact w sword or dagger, undetermined intent, init encntr"
+100512,M84758D,procedure,"Complete oblique atypical femoral fracture, left leg, 7thD"
+100513,Y021XXD,diagnosis,"Assault by push/place victim in front of train, subs"
+100514,S62125K,diagnosis,"Nondisp fx of lunate, left wrist, subs for fx w nonunion"
+100515,S63092S,procedure,"Other subluxation of left wrist and hand, sequela"
+100516,S96999S,procedure,"Inj unsp msl/tnd at ankle and foot level, unsp foot, sequela"
+100517,M1A18X0,diagnosis,"Lead-induced chronic gout, vertebrae, without tophus (tophi)"
+100518,T2060XD,diagnosis,"Corros second deg of head, face, and neck, unsp site, subs"
+100519,S83251D,procedure,"Bucket-hndl tear of lat mensc, current injury, r knee, subs"
+100520,S8802,diagnosis,Partial traumatic amputation at knee level
+100521,T458X1S,procedure,"Poisn by oth prim sys and hematolog agents, acc, sequela"
+100522,T595X4S,procedure,"Toxic eff of fluorine gas and hydrogen fluoride, undet, sqla"
+100523,S52109A,diagnosis,"Unsp fracture of upper end of unsp radius, init for clos fx"
+100524,M24259,diagnosis,"Disorder of ligament, unspecified hip"
+100525,S71052D,diagnosis,"Open bite, left hip, subsequent encounter"
+100526,R7871,procedure,Abnormal lead level in blood
+100527,S82012M,procedure,"Displ osteochon fx l patella, 7thM"
+100528,S0452XS,diagnosis,"Injury of facial nerve, left side, sequela"
+100529,S62394,procedure,"Other fracture of fourth metacarpal bone, right hand"
+100530,Y38893S,diagnosis,"Terrorism involving other means, terrorist injured, sequela"
+100531,S32474S,procedure,"Nondisp fx of medial wall of right acetabulum, sequela"
+100532,S61236,procedure,Pnctr w/o foreign body of r little finger w/o damage to nail
+100533,S62627K,diagnosis,"Disp fx of med phalanx of l lit fngr, subs for fx w nonunion"
+100534,T380X6D,diagnosis,"Underdosing of glucocorticoids and synthetic analogues, subs"
+100535,S50359D,procedure,"Superficial foreign body of unspecified elbow, subs encntr"
+100536,T45625S,procedure,"Adverse effect of hemostatic drug, sequela"
+100537,S02601D,procedure,"Fracture of unspecified part of body of right mandible, 7thD"
+100538,S31051S,diagnosis,"Open bite of low back and pelvis w penet retroperiton, sqla"
+100539,S42242G,diagnosis,"4-part fx surg neck of l humerus, subs for fx w delay heal"
+100540,S3231,procedure,Avulsion fracture of ilium
+100541,S22038K,diagnosis,"Oth fracture of third thor vertebra, subs for fx w nonunion"
+100542,S92244B,diagnosis,"Nondisp fx of medial cuneiform of r foot, init for opn fx"
+100543,T24731S,procedure,"Corrosion of third degree of right lower leg, sequela"
+100544,S78129A,procedure,"Partial traumatic amp at level betw unsp hip and knee, init"
+100545,T25422S,diagnosis,"Corrosion of unspecified degree of left foot, sequela"
+100546,S83135D,diagnosis,"Medial dislocation of proximal end of tibia, left knee, subs"
+100547,S04811,procedure,"Injury of olfactory [1st ] nerve, right side"
+100548,S32051B,diagnosis,"Stable burst fracture of fifth lum vertebra, init for opn fx"
+100549,M24642,procedure,"Ankylosis, left hand"
+100550,S72134Q,diagnosis,"Nondisp apophyseal fx r femr, 7thQ"
+100551,M21239,procedure,"Flexion deformity, unspecified wrist"
+100552,S73036,procedure,Other anterior dislocation of unspecified hip
+100553,I63341,procedure,Cerebral infrc due to thrombosis of right cereblr artery
+100554,S52352G,procedure,"Displ commnt fx shaft of rad, l arm, 7thG"
+100555,S82034A,procedure,"Nondisplaced transverse fracture of right patella, init"
+100556,S72461Q,procedure,"Displ suprcndl fx w intrcndl extn low end r femr, 7thQ"
+100557,S52326H,diagnosis,"Nondisp transverse fx shaft of unsp rad, 7thH"
+100558,S60859A,diagnosis,"Superficial foreign body of unspecified wrist, init encntr"
+100559,V4940XS,diagnosis,"Driver injured in collision w unsp mv in traf, sequela"
+100560,M0521,diagnosis,Rheumatoid vasculitis with rheumatoid arthritis of shoulder
+100561,H18039,procedure,"Corneal deposits in metabolic disorders, unspecified eye"
+100562,S82022G,diagnosis,"Displ longitud fx l patella, subs for clos fx w delay heal"
+100563,V682,diagnosis,Person outside hv veh injured in nonclsn trnsp acc nontraf
+100564,S72023K,procedure,"Disp fx of epiphy (separation) (upper) of unsp femr, 7thK"
+100565,S82855H,diagnosis,"Nondisp trimalleol fx l low leg, 7thH"
+100566,V723XXS,diagnosis,"Occup of bus injured in clsn w 2/3-whl mv nontraf, sequela"
+100567,S32613S,diagnosis,"Displaced avulsion fracture of unspecified ischium, sequela"
+100568,T63322,procedure,"Toxic effect of venom of tarantula, intentional self-harm"
+100569,S61052A,procedure,"Open bite of left thumb without damage to nail, init encntr"
+100570,D631,diagnosis,Anemia in chronic kidney disease
+100571,V9431,diagnosis,Inj to rider of recreatl wtrcrft being puld beh oth wtrcrft
+100572,S96202S,diagnosis,"Unsp inj intrns msl/tnd at ank/ft level, left foot, sequela"
+100573,M9980,diagnosis,Other biomechanical lesions of head region
+100574,S89222A,procedure,"Sltr-haris Type II physeal fx upper end of left fibula, init"
+100575,H550,diagnosis,Nystagmus
+100576,M5407,procedure,"Panniculitis affecting regions of neck/bk, lumbosacr region"
+100577,S72345K,procedure,"Nondisp spiral fx shaft of l femr, 7thK"
+100578,S96221,procedure,"Laceration of intrinsic msl/tnd at ank/ft level, right foot"
+100579,T63002S,diagnosis,"Toxic effect of unsp snake venom, self-harm, sequela"
+100580,L02413,procedure,Cutaneous abscess of right upper limb
+100581,S78019,procedure,Complete traumatic amputation at unspecified hip joint
+100582,T25512S,diagnosis,"Corrosion of first degree of left ankle, sequela"
+100583,S72336B,procedure,"Nondisp oblique fx shaft of unsp femr, 7thB"
+100584,S82436N,procedure,"Nondisp oblique fx shaft of unsp fibula, 7thN"
+100585,F428,procedure,Other obsessive-compulsive disorder
+100586,S52135C,diagnosis,"Nondisp fx of neck of left rad, init for opn fx type 3A/B/C"
+100587,H2511,procedure,"Age-related nuclear cataract, right eye"
+100588,M1A429,diagnosis,"Other secondary chronic gout, unspecified elbow"
+100589,S52612K,procedure,"Disp fx of l ulna styloid pro, subs for clos fx w nonunion"
+100590,P721,procedure,Transitory neonatal hyperthyroidism
+100591,V4364,procedure,Car passenger injured in collision w van in traffic accident
+100592,S52601J,diagnosis,"Unsp fx low end r ulna, 7thJ"
+100593,O4442,diagnosis,"Low lying placenta NOS or without hemor, second trimester"
+100594,S60440A,procedure,"External constriction of right index finger, init encntr"
+100595,S62362S,procedure,"Nondisp fx of neck of third MC bone, right hand, sequela"
+100596,S92222,diagnosis,Displaced fracture of lateral cuneiform of left foot
+100597,T85613A,diagnosis,"Breakdown of artificial skin grft /decellular alloderm, init"
+100598,S63206A,procedure,"Unspecified subluxation of right little finger, init encntr"
+100599,S82015G,procedure,"Nondisp osteochon fx l patella, 7thG"
+100600,M60075,procedure,"Infective myositis, unspecified foot"
+100601,T476X2,diagnosis,"Poisoning by antidiarrheal drugs, intentional self-harm"
+100602,S95119A,procedure,"Laceration of plantar artery of unsp foot, init encntr"
+100603,V9123XA,procedure,"Fall d/t clsn betw oth pwr wtrcrft and oth wtrcrft/obj, init"
+100604,T43224,diagnosis,"Poisoning by selective serotonin reuptake inhibitors, undet"
+100605,T79A21S,procedure,"Traumatic compartment syndrome of r low extrem, sequela"
+100606,S62025P,diagnosis,"Nondisp fx of mid 3rd of navic bone of l wrs, 7thP"
+100607,S0082XA,procedure,"Blister (nonthermal) of other part of head, init encntr"
+100608,M67422,diagnosis,"Ganglion, left elbow"
+100609,S89329G,procedure,"Sltr-haris Type II physl fx low end unsp fibula, 7thG"
+100610,V9500XS,diagnosis,"Unspecified helicopter accident injuring occupant, sequela"
+100611,S27302D,procedure,"Unspecified injury of lung, bilateral, subsequent encounter"
+100612,V471XXD,diagnosis,"Car pasngr injured in clsn with statnry object nontraf, subs"
+100613,S66325A,procedure,"Lacerat extn musc/fasc/tend l rng fngr at wrs/hnd lv, init"
+100614,T3441,diagnosis,Frostbite with tissue necrosis of right arm
+100615,S42475K,diagnosis,"Nondisp transcondy fx l humerus, subs for fx w nonunion"
+100616,V707XXA,procedure,"Person outside bus injured in clsn w ped/anml in traf, init"
+100617,B972,diagnosis,Coronavirus as the cause of diseases classified elsewhere
+100618,S0211AK,procedure,"Type I occipital condyle fracture, right side, 7thK"
+100619,S52601B,diagnosis,"Unsp fx lower end of right ulna, init for opn fx type I/2"
+100620,V782,diagnosis,Person outside bus injured in nonclsn trnsp accident nontraf
+100621,S51842A,diagnosis,"Puncture wound w foreign body of left forearm, init encntr"
+100622,S41029,procedure,Laceration with foreign body of unspecified shoulder
+100623,S62397D,procedure,"Oth fx fifth MC bone, left hand, subs for fx w routn heal"
+100624,O3471,diagnosis,"Maternal care for abnlt of vulva and perineum, first tri"
+100625,Q963,procedure,"Mosaicism, 45, X/46, XX or XY"
+100626,H401322,diagnosis,"Pigmentary glaucoma, left eye, moderate stage"
+100627,S52292S,diagnosis,"Other fracture of shaft of left ulna, sequela"
+100628,V2909XD,procedure,"Mtrcy driver injured in collision w oth mv nontraf, subs"
+100629,Q7150,diagnosis,Longitudinal reduction defect of unspecified ulna
+100630,W5539XS,procedure,"Other contact with other hoof stock, sequela"
+100631,R786,procedure,Finding of steroid agent in blood
+100632,S52613P,procedure,"Disp fx of unsp ulna styloid pro, 7thP"
+100633,M4658,diagnosis,"Oth infective spondylopathies, sacr/sacrocygl region"
+100634,C781,diagnosis,Secondary malignant neoplasm of mediastinum
+100635,S14156A,procedure,"Oth incomplete lesion at C6, init"
+100636,S72114Q,diagnosis,"Nondisp fx of greater trochanter of r femr, 7thQ"
+100637,S92522A,diagnosis,"Disp fx of medial phalanx of left lesser toe(s), init"
+100638,E876,procedure,Hypokalemia
+100639,H55,procedure,Nystagmus and other irregular eye movements
+100640,Y838,diagnosis,"Oth surgical procedures cause abn react/compl, w/o misadvnt"
+100641,T364X6A,diagnosis,"Underdosing of tetracyclines, initial encounter"
+100642,T2019XS,procedure,"Burn first deg mult sites of head, face, and neck, sequela"
+100643,Q789,diagnosis,"Osteochondrodysplasia, unspecified"
+100644,S43004,procedure,Unspecified dislocation of right shoulder joint
+100645,V9137XA,procedure,"Hit by falling object due to accident to water-skis, init"
+100646,Z6844,diagnosis,"Body mass index (BMI) 60.0-69.9, adult"
+100647,S31621S,procedure,"Lac w fb of abd wall, l upr q w penet perit cav, sequela"
+100648,S12030B,diagnosis,"Displ post arch fx first cervcal vertebra, init for opn fx"
+100649,S61357A,diagnosis,"Open bite of left little finger w damage to nail, init"
+100650,M2522,diagnosis,"Flail joint, elbow"
+100651,S59819D,diagnosis,"Other specified injuries unspecified forearm, subs encntr"
+100652,S6609,diagnosis,Inj long flexor musc/fasc/tend thumb at wrist and hand level
+100653,S97129,procedure,Crushing injury of unspecified lesser toe(s)
+100654,S52225J,diagnosis,"Nondisp transverse fx shaft of l ulna, 7thJ"
+100655,S72434G,diagnosis,"Nondisp fx of med condyle of r femr, 7thG"
+100656,S62512K,procedure,"Disp fx of proximal phalanx of l thm, subs for fx w nonunion"
+100657,T502X3A,diagnosis,"Poisn by crbnc-anhydr inhibtr,benzo/oth diuretc, asslt, init"
+100658,S336XXA,procedure,"Sprain of sacroiliac joint, initial encounter"
+100659,S92333K,diagnosis,"Disp fx of 3rd metatarsal bone, unsp ft, 7thK"
+100660,S5621,diagnosis,"Strain of flexor muscle, fascia and tendon at forearm level"
+100661,Q69,procedure,Polydactyly
+100662,M80019S,diagnosis,"Age-rel osteopor w current path fx, unsp shoulder, sequela"
+100663,S60149S,procedure,"Contusion of unsp ring finger with damage to nail, sequela"
+100664,M6216,procedure,"Other rupture of muscle (nontraumatic), lower leg"
+100665,T7804,procedure,Anaphylactic reaction due to fruits and vegetables
+100666,O344,procedure,Maternal care for other abnormalities of cervix
+100667,V249XXA,procedure,"Unsp mtrcy rider injured in collision w hv veh in traf, init"
+100668,V9540XS,diagnosis,"Unspecified spacecraft accident injuring occupant, sequela"
+100669,S92341A,diagnosis,"Disp fx of fourth metatarsal bone, right foot, init"
+100670,S60456S,diagnosis,"Superficial foreign body of right little finger, sequela"
+100671,S55809S,diagnosis,"Unsp injury of blood vessels at forarm lv, unsp arm, sequela"
+100672,S41141,diagnosis,Puncture wound with foreign body of right upper arm
+100673,Y92152,procedure,Bathroom in reform school as place
+100674,T401,procedure,Poisoning by and adverse effect of heroin
+100675,I69134,procedure,Monoplg upr lmb fol ntrm intcrbl hemor aff left nondom side
+100676,S62365,diagnosis,"Nondisp fx of neck of fourth metacarpal bone, left hand"
+100677,S99112P,procedure,"Sltr-haris Type I physeal fracture of left metatarsal, 7thP"
+100678,S5320XA,diagnosis,"Traumatic rupture of unsp radial collateral ligament, init"
+100679,S52099C,procedure,"Oth fx upper end of unsp ulna, init for opn fx type 3A/B/C"
+100680,M7011,diagnosis,"Bursitis, right hand"
+100681,S32119G,diagnosis,"Unsp Zone I fracture of sacrum, subs for fx w delay heal"
+100682,S21322D,procedure,"Lac w fb of l frnt wl of thorax w penet thor cavity, subs"
+100683,S36539,diagnosis,Laceration of unspecified part of colon
+100684,T25792,diagnosis,Corrosion of 3rd deg mu sites of left ankle and foot
+100685,Z703,procedure,"Cnsl rel to comb concrn rgrd sex attitude, behav and orientn"
+100686,T24409S,procedure,"Corros unsp deg of unsp site unsp low limb, ex ank/ft, sqla"
+100687,Z89612,procedure,Acquired absence of left leg above knee
+100688,Q37,procedure,Cleft palate with cleft lip
+100689,Y36251D,procedure,"War op involving fragments from munitions, civilian, subs"
+100690,T8549XA,diagnosis,"Mech compl of breast prosthesis and implant, init encntr"
+100691,S52511R,procedure,"Disp fx of r radial styloid pro, 7thR"
+100692,Z3A14,procedure,14 weeks gestation of pregnancy
+100693,S52346M,procedure,"Nondisp spiral fx shaft of rad, unsp arm, 7thM"
+100694,S11031S,procedure,"Laceration without foreign body of vocal cord, sequela"
+100695,S0501XS,diagnosis,"Inj conjunctiva and corneal abrasion w/o fb, r eye, sequela"
+100696,Y92241,diagnosis,Library as the place of occurrence of the external cause
+100697,T34811,diagnosis,Frostbite with tissue necrosis of right ankle
+100698,S92033P,procedure,"Displ avuls fx tuberosity of unsp calcaneus, 7thP"
+100699,S90462S,procedure,"Insect bite (nonvenomous), left great toe, sequela"
+100700,S65102A,diagnosis,"Unsp injury of radial artery at wrs/hnd lv of left arm, init"
+100701,S41132A,procedure,"Puncture wound w/o foreign body of left upper arm, init"
+100702,V785XXA,procedure,"Driver of bus injured in nonclsn trnsp acc in traf, init"
+100703,P749,procedure,"Transitory metabolic disturbance of newborn, unspecified"
+100704,C44291,procedure,Oth malig neoplasm skin/ unsp ear and external auric canal
+100705,R29733,diagnosis,NIHSS score 33
+100706,S49012,diagnosis,"Sltr-haris Type I physeal fx upper end of humerus, left arm"
+100707,M50020,diagnosis,"Cerv disc disord with myelpath, mid-cervical rgn, unsp level"
+100708,W1611,diagnosis,Fall into natural body of water striking water surface
+100709,T41202,procedure,"Poisoning by unsp general anesthetics, intentional self-harm"
+100710,S31124S,diagnosis,"Lacerat abd wall w fb, left low q w/o penet perit cav, sqla"
+100711,O3112X4,procedure,"Cont preg aft spon abort of one fetus or more, 2nd tri, fts4"
+100712,T84114,procedure,Breakdown (mechanical) of int fix of right femur
+100713,T23572A,procedure,"Corrosion of first degree of left wrist, initial encounter"
+100714,S42346D,diagnosis,"Nondisp spiral fx shaft of humer, unsp arm, 7thD"
+100715,M19229,procedure,"Secondary osteoarthritis, unspecified elbow"
+100716,O362,diagnosis,Maternal care for hydrops fetalis
+100717,M8611,procedure,"Other acute osteomyelitis, shoulder"
+100718,T524X3,procedure,"Toxic effect of ketones, assault"
+100719,V825XXD,procedure,"Occupant of streetcar injured by fall in streetcar, subs"
+100720,B278,diagnosis,Other infectious mononucleosis
+100721,S63630A,diagnosis,"Sprain of interphalangeal joint of right index finger, init"
+100722,S049XXS,procedure,"Injury of unspecified cranial nerve, sequela"
+100723,N99841,diagnosis,Postproc hematoma of a GU sys org following other procedure
+100724,T2020XD,procedure,"Burn second degree of head, face, and neck, unsp site, subs"
+100725,S7492XA,procedure,"Injury of unsp nerve at hip and thigh level, left leg, init"
+100726,S63235,diagnosis,Subluxation of proximal interphalangeal joint of l rng fngr
+100727,I48,procedure,Atrial fibrillation and flutter
+100728,S56411A,procedure,"Strain extensor musc/fasc/tend r idx fngr at forarm lv, init"
+100729,T23309,diagnosis,"Burn of third degree of unspecified hand, unspecified site"
+100730,F525,diagnosis,Vaginismus not due to a substance or known physiol condition
+100731,S82221A,diagnosis,"Displaced transverse fracture of shaft of right tibia, init"
+100732,V254XXA,diagnosis,"Mtrcy driver injured in clsn w rail trn/veh in traf, init"
+100733,T83410A,procedure,"Breakdown (mechanical) of implanted penile prosthesis, init"
+100734,O3130X2,diagnosis,"Cont preg aft elctv fetl rdct of 1 fts or more,unsp tri,fts2"
+100735,T596X1,diagnosis,"Toxic effect of hydrogen sulfide, accidental (unintentional)"
+100736,S32472A,diagnosis,"Disp fx of medial wall of left acetabulum, init for clos fx"
+100737,T22522S,diagnosis,"Corrosion of first degree of left elbow, sequela"
+100738,S52629K,procedure,"Torus fx lower end of unsp ulna, subs for fx w nonunion"
+100739,M6782,diagnosis,"Other specified disorders of synovium and tendon, elbow"
+100740,M1225,diagnosis,"Villonodular synovitis (pigmented), hip"
+100741,S0211FD,procedure,"Type III occipital condyle fracture, left side, 7thD"
+100742,S92213G,diagnosis,"Disp fx of cuboid bone of unsp ft, subs for fx w delay heal"
+100743,Y35891A,procedure,"Legal intervnt w oth means, law enforc offl injured, init"
+100744,T8379,diagnosis,Oth comp due to other genitourinary prosthetic materials
+100745,O643XX1,procedure,"Obstructed labor due to brow presentation, fetus 1"
+100746,T366X2,diagnosis,"Poisoning by rifampicins, intentional self-harm"
+100747,S1981XS,diagnosis,"Other specified injuries of larynx, sequela"
+100748,S63426,procedure,Traum rupt of palmar ligmt of r little finger at MCP/IP jt
+100749,T503X4,procedure,"Poisoning by electrolytic/caloric/wtr-bal agnt, undetermined"
+100750,S61328,procedure,Laceration w foreign body of oth finger with damage to nail
+100751,S20169S,procedure,"Insect bite (nonvenomous) of breast, unsp breast, sequela"
+100752,H15031,procedure,"Posterior scleritis, right eye"
+100753,S93122S,procedure,"Dislocation of MTP joint of left great toe, sequela"
+100754,T415X4A,diagnosis,"Poisoning by therapeutic gases, undetermined, init encntr"
+100755,S56821S,diagnosis,"Lacerat musc/fasc/tend at forarm lv, right arm, sequela"
+100756,S70321,diagnosis,"Blister (nonthermal), right thigh"
+100757,M85419,procedure,"Solitary bone cyst, unspecified shoulder"
+100758,S61302,diagnosis,Unsp open wound of right middle finger with damage to nail
+100759,S80929,procedure,Unspecified superficial injury of unspecified lower leg
+100760,T370X6A,diagnosis,"Underdosing of sulfonamides, initial encounter"
+100761,M62451,diagnosis,"Contracture of muscle, right thigh"
+100762,M84346D,procedure,"Stress fracture, unsp finger(s), subs for fx w routn heal"
+100763,O335XX2,procedure,"Matern care for disproprtn d/t unusually large fetus, fts2"
+100764,O98611,diagnosis,"Protozoal diseases complicating pregnancy, first trimester"
+100765,S56103D,diagnosis,"Unsp inj flexor musc/fasc/tend r mid fngr at forarm lv, subs"
+100766,S46011A,procedure,"Strain of musc/tend the rotator cuff of right shoulder, init"
+100767,S49029D,procedure,"Sltr-haris Type II physl fx upr end humer, unsp arm, 7thD"
+100768,M250,procedure,Hemarthrosis
+100769,S82251C,diagnosis,"Displ commnt fx shaft of r tibia, 7thC"
+100770,M80879S,procedure,"Oth osteopor w current path fracture, unsp ank/ft, sequela"
+100771,S72362N,diagnosis,"Displ seg fx shaft of l femr, 7thN"
+100772,T23772S,diagnosis,"Corrosion of third degree of left wrist, sequela"
+100773,S50871D,procedure,"Other superficial bite of right forearm, subs encntr"
+100774,M4208,diagnosis,"Juvenile osteochondrosis of spine, sacr/sacrocygl region"
+100775,C380,procedure,Malignant neoplasm of heart
+100776,S56413,diagnosis,Strain of extensor musc/fasc/tend r mid finger at forarm lv
+100777,E1061,procedure,Type 1 diabetes mellitus with diabetic arthropathy
+100778,T520X4S,diagnosis,"Toxic effect of petroleum products, undetermined, sequela"
+100779,S62021A,procedure,"Disp fx of middle third of navicular bone of r wrist, init"
+100780,W5911XD,diagnosis,"Bitten by nonvenomous snake, subsequent encounter"
+100781,T5992XA,diagnosis,"Toxic effect of unsp gases, fumes and vapors, slf-hrm, init"
+100782,S82235Q,procedure,"Nondisp oblique fx shaft of l tibia, 7thQ"
+100783,T250,procedure,Burn of unspecified degree of ankle and foot
+100784,S55191D,procedure,"Inj radial artery at forearm level, right arm, subs encntr"
+100785,S63146A,procedure,"Dislocation of distal interphalangeal joint of thmb, init"
+100786,L03039,diagnosis,Cellulitis of unspecified toe
+100787,M84669G,procedure,"Path fx in oth dis, unsp tibia & fibula, 7thG"
+100788,S70921,procedure,Unspecified superficial injury of right thigh
+100789,H010,procedure,Blepharitis
+100790,S46301D,diagnosis,"Unsp injury of musc/fasc/tend triceps, right arm, subs"
+100791,G211,diagnosis,Other drug-induced secondary parkinsonism
+100792,T63464D,procedure,"Toxic effect of venom of wasps, undetermined, subs encntr"
+100793,S65891S,diagnosis,"Inj oth blood vessels at wrs/hnd lv of right arm, sequela"
+100794,S93324,procedure,Dislocation of tarsometatarsal joint of right foot
+100795,H1112,procedure,Conjunctival concretions
+100796,S71031D,procedure,"Puncture wound without foreign body, right hip, subs encntr"
+100797,S00229A,diagnosis,"Blister of unsp eyelid and periocular area, init"
+100798,M2200,diagnosis,"Recurrent dislocation of patella, unspecified knee"
+100799,Q123,procedure,Congenital aphakia
+100800,T468X2D,procedure,"Poisn by antivaric drugs, inc scler agents, self-harm, subs"
+100801,T6483,diagnosis,"Toxic effect of other mycotoxin food contaminants, assault"
+100802,S92534K,procedure,"Nondisp fx of dist phalanx of r less toe(s), 7thK"
+100803,S3803XD,procedure,"Crushing injury of vulva, subsequent encounter"
+100804,S95902S,diagnosis,"Unsp inj unsp blood vess at ank/ft level, left leg, sequela"
+100805,T2413,diagnosis,Burn of first degree of lower leg
+100806,S96029A,procedure,"Lacerat msl/tnd lng flxr msl toe at ank/ft lev,unsp ft, init"
+100807,M84341D,diagnosis,"Stress fracture, right hand, subs for fx w routn heal"
+100808,S42221P,diagnosis,"2-part disp fx of surg nk of r humer, subs for fx w malunion"
+100809,S72491K,procedure,"Oth fx lower end of right femur, subs for clos fx w nonunion"
+100810,S0120XD,diagnosis,"Unspecified open wound of nose, subsequent encounter"
+100811,S75009S,procedure,"Unsp injury of femoral artery, unspecified leg, sequela"
+100812,T451X3A,diagnosis,"Poisoning by antineopl and immunosup drugs, assault, init"
+100813,S65219S,diagnosis,"Laceration of superficial palmar arch of unsp hand, sequela"
+100814,T472X1,procedure,"Poisoning by stimulant laxatives, accidental (unintentional)"
+100815,T400X5D,diagnosis,"Adverse effect of opium, subsequent encounter"
+100816,T7800,diagnosis,Anaphylactic reaction due to unspecified food
+100817,H59819,diagnosis,"Chorioretinal scars after surgery for detachment, unsp eye"
+100818,T23212,procedure,Burn of second degree of left thumb (nail)
+100819,M84552G,diagnosis,"Path fx in neopltc dis, l femur, subs for fx w delay heal"
+100820,T23279,diagnosis,Burn of second degree of unspecified wrist
+100821,S86992D,procedure,"Inj unsp musc/tend at lower leg level, left leg, subs"
+100822,V512XXD,diagnosis,"Person outsd pk-up/van inj in clsn w pedl cyc nontraf, subs"
+100823,S60571D,procedure,"Other superficial bite of hand of right hand, subs encntr"
+100824,V65,diagnosis,Occupant of hv veh injured in collision w rail trn/veh
+100825,S93502A,procedure,"Unspecified sprain of left great toe, initial encounter"
+100826,S73015A,diagnosis,"Posterior dislocation of left hip, initial encounter"
+100827,Y9225,procedure,Cultural building as place
+100828,S30870A,diagnosis,"Other superficial bite of lower back and pelvis, init encntr"
+100829,S02630S,procedure,"Fx coronoid process of mandible, unspecified side, sequela"
+100830,S55112,procedure,"Laceration of radial artery at forearm level, left arm"
+100831,S90475D,procedure,"Other superficial bite of left lesser toe(s), subs encntr"
+100832,S7226XP,diagnosis,"Nondisp subtrochnt fx unsp femr, subs for clos fx w malunion"
+100833,S52111A,procedure,"Torus fracture of upper end of right radius, init"
+100834,M62442,procedure,"Contracture of muscle, left hand"
+100835,T476X2A,procedure,"Poisoning by antidiarrheal drugs, self-harm, init"
+100836,S61139S,procedure,"Pnctr w/o foreign body of thmb w damage to nail, sequela"
+100837,S48911S,diagnosis,"Complete traum amp of right shldr/up arm, level unsp, sqla"
+100838,E7031,procedure,Ocular albinism
+100839,S63025D,diagnosis,"Dislocation of radiocarpal joint of left wrist, subs encntr"
+100840,S83402A,procedure,"Sprain of unsp collateral ligament of left knee, init encntr"
+100841,N139,diagnosis,"Obstructive and reflux uropathy, unspecified"
+100842,Q638,diagnosis,Other specified congenital malformations of kidney
+100843,F4321,diagnosis,Adjustment disorder with depressed mood
+100844,S36510,diagnosis,Primary blast injury of ascending [right] colon
+100845,S82875N,procedure,"Nondisp pilon fx l tibia, 7thN"
+100846,E7501,procedure,Sandhoff disease
+100847,B998,diagnosis,Other infectious disease
+100848,S4402XS,procedure,"Injury of ulnar nerve at upper arm level, left arm, sequela"
+100849,H11009,procedure,Unspecified pterygium of unspecified eye
+100850,W6142XA,diagnosis,"Struck by turkey, initial encounter"
+100851,V9386,diagnosis,Oth injury due to oth accident on board inflatbl crft
+100852,O360133,procedure,"Maternal care for anti-D antibodies, third tri, fetus 3"
+100853,S22069A,diagnosis,"Unsp fracture of T7-T8 vertebra, init for clos fx"
+100854,S62509S,diagnosis,"Fracture of unsp phalanx of unspecified thumb, sequela"
+100855,S82044M,procedure,"Nondisp commnt fx r patella, 7thM"
+100856,S62135A,procedure,"Nondisp fx of capitate bone, left wrist, init for clos fx"
+100857,S95109D,diagnosis,"Unsp injury of plantar artery of unsp foot, subs encntr"
+100858,S52091M,procedure,"Oth fx upper end r ulna, subs for opn fx type I/2 w nonunion"
+100859,T83518,diagnosis,I/I react d/t other urinary catheter
+100860,S60429,procedure,Blister (nonthermal) of unspecified finger
+100861,M84422,procedure,"Pathological fracture, left humerus"
+100862,S37439,procedure,"Laceration of ovary, unspecified"
+100863,M08939,procedure,"Juvenile arthritis, unspecified, unspecified wrist"
+100864,O2690,procedure,"Pregnancy related conditions, unsp, unspecified trimester"
+100865,T22239A,procedure,"Burn of second degree of unspecified upper arm, init encntr"
+100866,M65052,diagnosis,"Abscess of tendon sheath, left thigh"
+100867,S63238S,procedure,"Subluxation of proximal interphaln joint of finger, sequela"
+100868,M4854XS,diagnosis,"Collapsed vertebra, NEC, thoracic region, sqla"
+100869,S5701XD,diagnosis,"Crushing injury of right elbow, subsequent encounter"
+100870,S52181G,diagnosis,"Oth fx upper end of r radius, subs for clos fx w delay heal"
+100871,V586XXS,procedure,"Pasngr in pk-up/van inj in nonclsn trnsp acc in traf, sqla"
+100872,T85623S,procedure,"Displacmnt of artif skin grft /decellular alloderm, sequela"
+100873,S22070B,diagnosis,"Wedge comprsn fracture of T9-T10 vertebra, init for opn fx"
+100874,S6852,procedure,Partial traumatic transphalangeal amputation of thumb
+100875,S76129S,diagnosis,"Laceration of unsp quadriceps musc/fasc/tend, sequela"
+100876,V362XXS,procedure,"Person outsd 3-whl mv inj in clsn w nonmtr veh nontraf, sqla"
+100877,M0281,procedure,"Other reactive arthropathies, shoulder"
+100878,W39XXXA,diagnosis,"Discharge of firework, initial encounter"
+100879,V771XXA,procedure,"Pasngr on bus injured in clsn w statnry object nontraf, init"
+100880,L97909,diagnosis,Non-prs chronic ulc unsp prt of unsp low leg w unsp severity
+100881,D690,procedure,Allergic purpura
+100882,S90229A,procedure,"Contusion of unsp lesser toe(s) w damage to nail, init"
+100883,S12040A,diagnosis,"Displaced lateral mass fx first cervcal vertebra, init"
+100884,Z52813,procedure,"Egg (Oocyte) donor age 35 and over, designated recipient"
+100885,Z9841,diagnosis,"Cataract extraction status, right eye"
+100886,S62001,diagnosis,Unspecified fracture of navicular bone of right wrist
+100887,T528X,diagnosis,Toxic effects of other organic solvents
+100888,M84331,procedure,"Stress fracture, right ulna"
+100889,T22331A,diagnosis,"Burn of third degree of right upper arm, initial encounter"
+100890,S63142,diagnosis,Subluxation of distal interphalangeal joint of left thumb
+100891,S31000,procedure,Unsp opn wnd lower back and pelvis w/o penet retroperiton
+100892,E0836,procedure,Diabetes due to underlying condition w diabetic cataract
+100893,J860,procedure,Pyothorax with fistula
+100894,M1A0120,procedure,"Idiopathic chronic gout, left shoulder, without tophus"
+100895,H70812,diagnosis,"Postauricular fistula, left ear"
+100896,S68419D,procedure,"Complete traumatic amp of unsp hand at wrist level, subs"
+100897,O335,diagnosis,Maternal care for disproportion due to unusually large fetus
+100898,M84671G,diagnosis,"Path fx in oth disease, r ankle, subs for fx w delay heal"
+100899,Y381X,diagnosis,Terrorism involving destruction of aircraft
+100900,M61039,diagnosis,"Myositis ossificans traumatica, unspecified forearm"
+100901,S82255,diagnosis,Nondisplaced comminuted fracture of shaft of left tibia
+100902,T84199,diagnosis,Mech compl of internal fixation device of unsp bone of limb
+100903,T5694XD,diagnosis,"Toxic effect of unspecified metal, undetermined, subs encntr"
+100904,V4353XA,procedure,"Car driver injured in clsn w pick-up truck in traf, init"
+100905,M84454A,procedure,"Pathological fracture, pelvis, init encntr for fracture"
+100906,V4351XD,diagnosis,"Car driver injured in collision w SUV in traf, subs"
+100907,I97620,diagnosis,Postproc hemor of a circ sys org following other procedure
+100908,S3793XD,diagnosis,"Laceration of unsp urinary and pelvic organ, subs encntr"
+100909,S0194,diagnosis,Puncture wound with foreign body of unspecified part of head
+100910,S04031S,procedure,"Injury of optic tract and pathways, right eye, sequela"
+100911,S92819D,diagnosis,"Other fracture of unspecified foot, 7thD"
+100912,J949,procedure,"Pleural condition, unspecified"
+100913,S14124D,diagnosis,"Central cord syndrome at C4, subs"
+100914,I63343,diagnosis,Cerebral infrc to thrombosis of bilateral cereblr arteries
+100915,M11071,procedure,"Hydroxyapatite deposition disease, right ankle and foot"
+100916,W00,diagnosis,Fall due to ice and snow
+100917,V0392XS,diagnosis,"Ped on sktbrd inj pick-up truck, pk-up/van, unsp, sequela"
+100918,Z89412,procedure,Acquired absence of left great toe
+100919,T24402S,diagnosis,"Corros unsp deg of unsp site left low limb, ex ank/ft, sqla"
+100920,S42111D,diagnosis,"Disp fx of body of scapula, r shldr, 7thD"
+100921,H53459,diagnosis,"Other localized visual field defect, unspecified eye"
+100922,Y632,diagnosis,Overdose of radiation given during therapy
+100923,T871X9,procedure,Complications of reattached (part of) unsp lower extremity
+100924,Z9912,procedure,Encounter for respirator dependence during power failure
+100925,I610,procedure,"Nontraumatic intcrbl hemorrhage in hemisphere, subcortical"
+100926,S12430D,procedure,"Unsp traum displ spondylolysis of 5th cervcal vert, 7thD"
+100927,J635,procedure,Stannosis
+100928,N7093,diagnosis,"Salpingitis and oophoritis, unspecified"
+100929,T5393XS,procedure,"Tox eff of unsp halgn deriv of aromat hydrocrb, asslt, sqla"
+100930,S42434D,procedure,"Nondisp fx of lateral epicondyl of r humer, 7thD"
+100931,S82133J,diagnosis,"Disp fx of med condyle of unsp tibia, 7thJ"
+100932,B442,diagnosis,Tonsillar aspergillosis
+100933,S93521,procedure,Sprain of metatarsophalangeal joint of right great toe
+100934,J8483,diagnosis,Surfactant mutations of the lung
+100935,Z04,procedure,Encounter for examination and observation for other reasons
+100936,S66522A,diagnosis,"Lacerat intrns musc/fasc/tend r mid fngr at wrs/hnd lv, init"
+100937,S24154,procedure,Oth incomplete lesion at T11-T12
+100938,V586XXA,procedure,"Pasngr in pk-up/van inj in nonclsn trnsp acc in traf, init"
+100939,E09,procedure,Drug or chemical induced diabetes mellitus
+100940,S60465A,diagnosis,"Insect bite (nonvenomous) of left ring finger, init encntr"
+100941,T84290,diagnosis,Mech compl of int fix of bones of hand and fingers
+100942,T473X5D,procedure,"Adverse effect of saline and osmotic laxatives, subs encntr"
+100943,S43024D,procedure,"Posterior dislocation of right humerus, subsequent encounter"
+100944,M2336,procedure,"Other meniscus derangements, other lateral meniscus"
+100945,S82431S,diagnosis,"Displaced oblique fracture of shaft of right fibula, sequela"
+100946,K8041,diagnosis,"Calculus of bile duct w cholecystitis, unsp, w obstruction"
+100947,I5033,procedure,Acute on chronic diastolic (congestive) heart failure
+100948,N993,procedure,Prolapse of vaginal vault after hysterectomy
+100949,F1698,diagnosis,"Hallucinogen use, unsp w oth hallucinogen-induced disorder"
+100950,S60129S,diagnosis,"Contusion of unsp index finger with damage to nail, sequela"
+100951,S72109F,procedure,"Unsp trochan fx unsp femr, 7thF"
+100952,S72364G,procedure,"Nondisp seg fx shaft of r femr, 7thG"
+100953,S96891A,diagnosis,"Inj oth muscles and tendons at ank/ft level, r foot, init"
+100954,S82201,procedure,Unspecified fracture of shaft of right tibia
+100955,S1113XA,procedure,"Puncture wound w/o foreign body of thyroid gland, init"
+100956,V4341XD,diagnosis,"Prsn brd/alit a car injured in collision w SUV, subs"
+100957,N763,procedure,Subacute and chronic vulvitis
+100958,H6092,procedure,"Unspecified otitis externa, left ear"
+100959,T81526A,procedure,"Obst due to fb acc left in body following punctr/cath, init"
+100960,S42453P,procedure,"Disp fx of lateral condyle of unsp humer, 7thP"
+100961,S82113K,procedure,"Disp fx of unsp tibial spine, subs for clos fx w nonunion"
+100962,W34110,diagnosis,Accidental malfunction of airgun
+100963,T805,diagnosis,Anaphylactic reaction due to serum
+100964,V9024XA,procedure,"Drown due to falling or jumping from burning sailboat, init"
+100965,A308,procedure,Other forms of leprosy
+100966,S72392B,procedure,"Oth fx shaft of left femur, init for opn fx type I/2"
+100967,T382X3A,procedure,"Poisoning by antithyroid drugs, assault, initial encounter"
+100968,T39013,diagnosis,"Poisoning by aspirin, assault"
+100969,V9021,diagnosis,Drown due to falling or jumping from burning passenger ship
+100970,S52302R,procedure,"Unsp fx shaft of l rad, 7thR"
+100971,M63821,procedure,"Disorders of muscle in diseases classd elswhr, r up arm"
+100972,M0621,procedure,"Rheumatoid bursitis, shoulder"
+100973,S0240CD,procedure,"Maxillary fracture, right side, 7thD"
+100974,E244,procedure,Alcohol-induced pseudo-Cushing's syndrome
+100975,V8611XA,procedure,"Passenger of amblnc/fire eng injured in traf, init"
+100976,M1A151,diagnosis,"Lead-induced chronic gout, right hip"
+100977,V80928A,procedure,"Occupant of anml-drn vehicle injured in oth trnsp acc, init"
+100978,N049,procedure,Nephrotic syndrome with unspecified morphologic changes
+100979,S72422Q,diagnosis,"Disp fx of lateral condyle of l femr, 7thQ"
+100980,S60477D,procedure,"Other superficial bite of left little finger, subs encntr"
+100981,S63312,diagnosis,Traumatic rupture of collateral ligament of left wrist
+100982,S02101K,diagnosis,"Fracture of base of skull, right side, 7thK"
+100983,J110,diagnosis,Influenza due to unidentified influenza virus with pneumonia
+100984,V465XXD,diagnosis,"Car driver injured in clsn w nonmtr vehicle in traf, subs"
+100985,W25XXXA,procedure,"Contact with sharp glass, initial encounter"
+100986,Z85038,diagnosis,Personal history of malignant neoplasm of large intestine
+100987,T618X4D,diagnosis,"Toxic effect of other seafood, undetermined, subs encntr"
+100988,E132,diagnosis,Other specified diabetes mellitus with kidney complications
+100989,S60549D,diagnosis,"External constriction of unspecified hand, subs encntr"
+100990,G971,procedure,Other reaction to spinal and lumbar puncture
+100991,Q6650,procedure,"Congenital pes planus, unspecified foot"
+100992,S66322D,procedure,"Lacerat extn musc/fasc/tend r mid finger at wrs/hnd lv, subs"
+100993,S82264H,procedure,"Nondisp seg fx shaft of r tibia, 7thH"
+100994,S22068K,procedure,"Oth fracture of T7-T8 thor vertebra, subs for fx w nonunion"
+100995,S25329,diagnosis,Major laceration of unsp innominate or subclavian vein
+100996,S56901,diagnosis,"Unsp injury of unsp musc/fasc/tend at forarm lv, right arm"
+100997,S52615B,diagnosis,"Nondisp fx of l ulna styloid pro, init for opn fx type I/2"
+100998,M6635,procedure,"Spontaneous rupture of flexor tendons, thigh"
+100999,V421XXD,diagnosis,"Car passenger injured in clsn w 2/3-whl mv nontraf, subs"
+101000,T425X5S,diagnosis,"Adverse effect of mixed antiepileptics, sequela"
