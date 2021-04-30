@@ -12,7 +12,7 @@ create table POC.PhenoDef (
     LastModified    datetime,
     STATUS          varchar(20),
     VERSION         int,
-    TYPE            char(1),
+    TYPE            varchar(50),
     PopulationID    int references POC.Population(populationid)
 );
 
