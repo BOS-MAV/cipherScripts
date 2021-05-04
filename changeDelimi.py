@@ -1,7 +1,7 @@
 import csv, glob, os
 
 def main():
-    os.chdir("csv2")
+    os.chdir("csv2cd ")
     for file in glob.glob("*.csv"):
         inputfile = file
         outputfile = os.path.splitext(file)[0]+".txt"
