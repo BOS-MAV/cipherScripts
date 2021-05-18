@@ -9,7 +9,6 @@ drop table POC.Property;
 drop table POC.PhenoAltNameLookup;
 drop table POC.AltName;
 drop table POC.CodeBlock;
-drop table POC.Lifestyle_Envi;
 drop table POC.DiseaseDiseaseDomainLookup;
 drop table POC.DiseaseDomain;
 drop table POC.Disease;

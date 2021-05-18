@@ -1,11 +1,11 @@
 
 create table POC.Population (
-    PopulationID    int identity primary key,
+    PopulationID    int primary key,
     PopulationDesc  varchar(50)
 );
 
 create table POC.PhenoDef (
-    PhenoTypeID     int identity primary key,
+    PhenoTypeID     int  primary key,
     PhenotypeName   varchar(60),
     PhenoDesc       varchar(255),
     DateAdded       datetime,
@@ -17,8 +17,8 @@ create table POC.PhenoDef (
 );
 
 create table POC.DataSource (
-    DataSourceID    int identity primary key,
-    DataSource      varchar(50)
+    DataSourceID    int primary key,
+    DataSource      varchar(150)
 );
 
 create table POC.PhenoDataSourceLookup (
@@ -40,7 +40,7 @@ create table POC.PhenoCUILookup (
 );
 
 create table POC.ICDCode (
-    ICDCodeID       int identity primary key,
+    ICDCodeID       int primary key,
     ICDCODE         varchar(8),
     ICDType         nvarchar(max),
     ICDDesc         nvarchar(max)
@@ -54,7 +54,7 @@ create table POC.PhenoICDCodeLookup (
 
 create table POC.Property (
     PropertyID      int primary key,
-    PropertyName    varchar(50),
+    PropertyName    varchar(100),
     PropertyType    varchar(10)
 );
 
@@ -66,7 +66,7 @@ create table POC.PhenotypeProperties (
 );
 
 create table POC.AltName (
-    AltNameID       int identity primary key,
+    AltNameID       int primary key,
     AltName         varchar(50)
 );
 
@@ -77,21 +77,21 @@ create table POC.PhenoAltNameLookup (
 );
 
 create table POC.CodeBlock (
-    CodeBlockID     int identity primary key,
-    CodeBlockLang   varchar(50),
+    CodeBlockID     int primary key,
+    CodeBlockLang   varchar(125),
     CodeBlockDesc   nvarchar(max),
     CodeBlockText   nvarchar(max),
     PhenotypeID     int references POC.PhenoDef(PhenotypeID)
 );
 
-create table POC.Lifestyle_Envi (
+/*create table POC.Lifestyle_Envi (
     LsPhenoTypeID            int references POC.PhenoDef(PhenotypeID),
     LEType                      varchar(50),
     AlgorithmValidation         nvarchar(max),
     ValidationDesc              nvarchar(max),
     AlgoPerformanceMeasures     nvarchar(max),
     constraint lfspk primary key (LsPhenoTypeID)
-);
+);*/
 
 create table POC.Disease (
     DPhenoTypeID        int references POC.PhenoDef(PhenotypeID),
@@ -121,8 +121,8 @@ create table POC.LAB (
 );
 
 create table POC.LOINC (
-    LOINCID             int identity primary key,
-    LOINCCode           varchar(7),
+    LOINCID             int primary key,
+    LOINCCode           varchar(25),
     LoincDesc           nvarchar(max)
 );
 
@@ -133,14 +133,14 @@ create table POC.LabLOINCLookup (
 );
 
 create table POC.Author (
-    AuthorID            int identity primary key,
+    AuthorID            int primary key,
     AuthorName          varchar(50),
-    AuthAffiliation     varchar(50)
+    AuthAffiliation     varchar(125)
 );
 
 
 create table POC.Publication (
-    PublicationID       int identity primary key,
+    PublicationID       int primary key,
     Title               varchar(50),
     DatePub             date,
     Journal             varchar(50),
