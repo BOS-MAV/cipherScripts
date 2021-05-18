@@ -1,6 +1,6 @@
 use cipher_prototype;
 BULK INSERT POC.Population
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\population.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\population.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -9,7 +9,7 @@ WITH
 );
 
 BULK INSERT POC.PhenoDef
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\phenodef.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\phenodef.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -18,7 +18,7 @@ WITH
 );
 
 BULK INSERT POC.DataSource
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\datasource.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\datasource.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -27,7 +27,7 @@ WITH
 );
 
 BULK INSERT POC.PhenoDataSourceLookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\PhenoDataSourceLookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\PhenoDataSourceLookup.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -36,7 +36,7 @@ WITH
 );
 
 BULK INSERT POC.CUI
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\cui.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\cui.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -45,7 +45,7 @@ WITH
 );
 
 BULK INSERT POC.PhenoCUILookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\PhenoCUILookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\PhenoCUILookup.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -54,7 +54,7 @@ WITH
 );
 
 BULK INSERT POC.ICDCode
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\ICDCode.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\ICDCode.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -63,7 +63,7 @@ WITH
 );
 
 BULK INSERT POC.PhenoICDCodeLookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\PhenoICDCodeLookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\PhenoICDCodeLookup.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -72,7 +72,7 @@ WITH
 );
 
 BULK INSERT POC.Property
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\Property.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\Property.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -81,7 +81,7 @@ WITH
 );
 
 BULK INSERT POC.PhenotypeProperties
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\PhenotypeProperties.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\PhenotypeProperties.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -90,7 +90,7 @@ WITH
 );
 
 BULK INSERT POC.AltName
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\AltName.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\AltName.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -99,7 +99,7 @@ WITH
 );
 
 BULK INSERT POC.PhenoAltNameLookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\PhenoAltNameLookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\PhenoAltNameLookup.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -108,7 +108,7 @@ WITH
 );
 
 BULK INSERT POC.CodeBlock
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\CodeBlock.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\CodeBlock.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -116,17 +116,18 @@ WITH
     ROWTERMINATOR = '0x0a'
 );
 
-BULK INSERT POC.Lifestyle_Envi
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\Lifestyle_Envi.txt'
+/*BULK INSERT POC.Lifestyle_Envi
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\Lifestyle_Envi.txt'
 WITH
 (
     FIRSTROW = 2,
     FIELDTERMINATOR = ';',  --CSV field delimiter
     ROWTERMINATOR = '0x0a'
 );
+no file*/
 
 BULK INSERT POC.Disease
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\Disease.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\Disease.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -135,7 +136,7 @@ WITH
 );
 
 BULK INSERT POC.DiseaseDomain
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\DiseaseDomain.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\DiseaseDomain.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -144,7 +145,7 @@ WITH
 );
 
 BULK INSERT POC.DiseaseDiseaseDomainLookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\DiseaseDiseaseDomainLookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\DiseaseDiseaseDomainLookup.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -153,7 +154,7 @@ WITH
 );
 
 BULK INSERT POC.LAB
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\LAB.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\LAB.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -162,7 +163,7 @@ WITH
 );
 
 BULK INSERT POC.LOINC
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\LOINC.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\LOINC.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -171,7 +172,7 @@ WITH
 );
 
 BULK INSERT POC.LabLOINCLookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\LabLOINCLookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\LabLOINCLookup.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -180,7 +181,7 @@ WITH
 );
 
 BULK INSERT POC.Author
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\Author.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\Author.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -189,7 +190,7 @@ WITH
 );
 
 BULK INSERT POC.Publication
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\Publication.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\Publication.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -198,7 +199,7 @@ WITH
 );
 
 BULK INSERT POC.PublicationAuthorLookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\PublicationAuthorLookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\PublicationAuthorLookup.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -207,7 +208,7 @@ WITH
 );
 
 BULK INSERT POC.PhenoPublicationLookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\PhenoPublicationLookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\PhenoPublicationLookup.txt'
 WITH
 (
     FIRSTROW = 2,
@@ -216,7 +217,7 @@ WITH
 );
 
 BULK INSERT POC.PhenoAuthorLookup
-FROM 'u:\cipher2.0\cipher2.0db-main\csv\PhenoAuthorLookup.txt'
+FROM 'C:\Users\VHABHSRUSSOJ1\cipher2.0\cipher2.0db\csv\PhenoAuthorLookup.txt'
 WITH
 (
     FIRSTROW = 2,
